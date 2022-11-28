@@ -30,11 +30,11 @@ export default function Home() {
             </div>
             <h1 className={styles.Info}>Selecciona tu lenguaje preferido:</h1>
             <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
+              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
+            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
+            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
+            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
+            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
@@ -62,11 +62,11 @@ export default function Home() {
             </div>
             <h1 className={styles.Info} >Selecciona el teu idioma preferit:</h1>
             <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
+              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
+            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
+            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
+            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
+            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
@@ -94,11 +94,11 @@ export default function Home() {
             </div>
             <h1 className={styles.Info} >Sélectionnez votre langue préférée:</h1>
             <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
+              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
+            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
+            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
+            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
+            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
@@ -127,11 +127,11 @@ export default function Home() {
             </div>
             <h1 className={styles.Info} >Seleziona la tua lingua preferita:</h1>
             <div className={styles.languajeSelector}>
-              <a className={styles.langa} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
+              <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
+            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
+            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
+            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
+            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
@@ -159,11 +159,11 @@ export default function Home() {
           </div>
           <h1 className={styles.Info} >Select your preferred languaje:</h1>
           <div className={styles.languajeSelector}>
-            <a className={styles.langa} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
+            <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
+            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
+            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
+            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
+            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
           </div>
         </div>
       </div>
@@ -192,11 +192,11 @@ export default function Home() {
             <h1 className={styles.Info} >Select your preferred languaje:</h1>
             <div className={styles.languajeSelector}>
 
-            <a className={styles.langa} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            <a className={styles.langa} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            <a className={styles.langa} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            <a className={styles.langa} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            <a className={styles.langa} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
+            <a className={styles.langa} href="?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></a>
+            <a className={styles.langa} href="?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
+            <a className={styles.langa} href="?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></a>
+            <a className={styles.langa} href="?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></a>
+            <a className={styles.langa} href="?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></a>
             </div>
           </div>
         </div>
