@@ -23,34 +23,18 @@ export default function Home() {
               <p className={styles.infotext}>Selecciona el piso en el que te encuentras</p>
             </div>
             <div className={styles.main_div} >
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=1&lang=1"}}>
-                <a><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=2&lang=1" }}>
-                <a><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=3&lang=1" }}>
-                <a><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-              </Link>
+              <button className={styles.menubutton} href="/visit?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></button>
                 
             </div>
             <h1 className={styles.Info}>Selecciona tu lenguaje preferido:</h1>
             <div className={styles.languajeSelector}>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=1" }}>
-                <a><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-                <a><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=3" }}>
-                <a><Image alt=""  width={40} height={40} src="/france.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=4" }}>
-                <a><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=5" }}>
-                <a><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-              </Link>
+              <button className={styles.langButton} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></button>
             </div>
           </div>
         </div>
@@ -71,34 +55,18 @@ export default function Home() {
               <p className={styles.infotext}>Selecciona el pis en el que et trobes</p>
             </div>
             <div className={styles.main_div} >
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=1&lang=2"}}>
-                <a><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=2&lang=2" }}>
-                <a><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=3&lang=2" }}>
-                <a><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-              </Link>
+              <button className={styles.menubutton} href="/visit?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></button>
                 
             </div>
             <h1 className={styles.Info} >Selecciona el teu idioma preferit:</h1>
             <div className={styles.languajeSelector}>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=1" }}>
-                <a><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-                <a><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=3" }}>
-                <a><Image alt=""  width={40} height={40} src="/france.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=4" }}>
-                <a><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=5" }}>
-                <a><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-              </Link>
+              <button className={styles.langButton} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></button>
             </div>
           </div>
         </div>
@@ -119,34 +87,18 @@ export default function Home() {
               <p className={styles.infotext}>Sélectionnez l&apos'étage où vous vous trouvez</p>
             </div>
             <div className={styles.main_div} >
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=1&lang=3"}}>
-                <a><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=2&lang=3" }}>
-                <a><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=3&lang=3" }}>
-                <a><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-              </Link>
+              <button className={styles.menubutton} href="/visit?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></button>
                 
             </div>
             <h1 className={styles.Info} >Sélectionnez votre langue préférée:</h1>
             <div className={styles.languajeSelector}>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=1" }}>
-                <a><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-                <a><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=3" }}>
-                <a><Image alt=""  width={40} height={40} src="/france.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=4" }}>
-                <a><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=5" }}>
-                <a><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-              </Link>
+              <button className={styles.langButton} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></button>
             </div>
           </div>
         </div>
@@ -168,34 +120,18 @@ export default function Home() {
               <p className={styles.infotext}>Seleziona il piano in cui ti trovi</p>
             </div>
             <div className={styles.main_div} >
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=1&lang=4"}}>
-                <a><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=2&lang=4" }}>
-                <a><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=3&lang=4" }}>
-                <a><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-              </Link>
+              <button className={styles.menubutton} href="/visit?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></button>
                 
             </div>
             <h1 className={styles.Info} >Seleziona la tua lingua preferita:</h1>
             <div className={styles.languajeSelector}>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=1" }}>
-                <a><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-                <a><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=3" }}>
-                <a><Image alt=""  width={40} height={40} src="/france.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=4" }}>
-                <a><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=5" }}>
-                <a><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-              </Link>
+              <button className={styles.langButton} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></button>
             </div>
           </div>
         </div>
@@ -216,34 +152,18 @@ export default function Home() {
             <p className={styles.infotext}>Select the floor where you are</p>
           </div>
           <div className={styles.main_div} >
-            <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=1&lang=5"}}>
-              <a><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-            </Link>
-            <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=2&lang=5" }}>
-              <a><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-            </Link>
-            <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=3&lang=5" }}>
-              <a><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-            </Link>
+            <button className={styles.menubutton} href="/visit?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></button>
               
           </div>
           <h1 className={styles.Info} >Select your preferred languaje:</h1>
           <div className={styles.languajeSelector}>
-            <Link className={styles.langButton} href={{pathname: '/',query: "lang=1" }}>
-              <a><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-            </Link>
-            <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-              <a><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-            </Link>
-            <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-              <a><Image alt=""  width={40} height={40} src="/france.png"/></a>
-            </Link>
-            <Link className={styles.langButton} href={{pathname: '/',query: "lang=4" }}>
-              <a><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-            </Link>
-            <Link className={styles.langButton} href={{pathname: '/',query: "lang=5" }}>
-              <a><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-            </Link>
+            <button className={styles.langButton} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></button>
           </div>
         </div>
       </div>
@@ -264,34 +184,19 @@ export default function Home() {
               <p className={styles.infotext}>Select the floor where you are</p>
             </div>
             <div className={styles.main_div} >
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=1&lang=5"}}>
-                <a><Image alt="" width={400} height={115} src="/topbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=2&lang=5" }}>
-                <a><Image alt="" width={400} height={115} src="/centerbtn.png"/></a>
-              </Link>
-              <Link className={styles.menubutton} href={{pathname: '/visit',query: "floor=3&lang=5" }}>
-                <a><Image alt="" width={400} height={115} src="/botombtn.png"/></a>
-              </Link>
+              <button className={styles.menubutton} href="/visit?floor=1&lang=1" ><Image alt="" width={400} height={115} src="/topbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=2&lang=1" ><Image alt="" width={400} height={115} src="/centerbtn.png"/></button>
+              <button className={styles.menubutton} href="/visit?floor=3&lang=1" ><Image alt="" width={400} height={115} src="/botombtn.png"/></button>
                 
             </div>
             <h1 className={styles.Info} >Select your preferred languaje:</h1>
             <div className={styles.languajeSelector}>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=1" }}> 
-                <a><Image alt=""  width={40} height={40} src="/spain.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=2" }}>
-                <a><Image alt=""  width={40} height={40} src="/catalonia.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=3" }}>
-                <a><Image alt=""  width={40} height={40} src="/france.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=4" }}>
-                <a><Image alt=""  width={40} height={40} src="/italy.png"/></a>
-              </Link>
-              <Link className={styles.langButton} href={{pathname: '/',query: "lang=5" }}>
-                <a><Image alt=""  width={40} height={40} src="/britain.png"/></a>
-              </Link>
+
+            <button className={styles.langButton} href="/visit?lang=1" ><Image alt=""  width={40} height={40} src="/spain.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=2" ><Image alt=""  width={40} height={40} src="/catalonia.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=3" ><Image alt=""  width={40} height={40} src="/france.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=4" ><Image alt=""  width={40} height={40} src="/italy.png"/></button>
+            <button className={styles.langButton} href="/visit?lang=5" ><Image alt=""  width={40} height={40} src="/britain.png"/></button>
             </div>
           </div>
         </div>
