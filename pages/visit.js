@@ -466,7 +466,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                   <div className={styles.header_div_visit}>
                     <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor1[count].image)}/>
                   </div>
-                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor1[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor1[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                   <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor1[count].title} </h1> 
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor1[count].shortDesc} </p> 
                   <div className={styles.navbuttonscontainer}>
@@ -492,7 +492,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                   <div className={styles.header_div_visit}>
                     <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor2[count].image)}/>
                   </div>
-                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor2[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor2[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                   <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor2[count].title} </h1> 
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor2[count].shortDesc} </p> 
                   <div className={styles.navbuttonscontainer}>
@@ -519,7 +519,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                   <div className={styles.header_div_visit}>
                     <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor3[count].image)}/>
                   </div>
-                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                   <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor3[count].title} </h1> 
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor3[count].shortDesc} </p> 
                   <div className={styles.navbuttonscontainer}>
@@ -545,7 +545,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                 <div className={styles.header_div_visit}>
                   <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor3[count].image)}/>
                 </div>
-                <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                 <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor3[count].title} </h1> 
                 <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor3[count].shortDesc} </p> 
                 <div className={styles.navbuttonscontainer}>
@@ -575,7 +575,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                   <div className={styles.header_div_visit}>
                     <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor1[count].image)}/>
                   </div>
-                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor1[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor1[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                   <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor1[count].title} </h1> 
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor1[count].shortDesc} </p> 
                   <div className={styles.navbuttonscontainer}>
@@ -601,7 +601,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                   <div className={styles.header_div_visit}>
                     <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor2[count].image)}/>
                   </div>
-                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor2[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor2[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                   <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor2[count].title} </h1> 
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor2[count].shortDesc} </p> 
                   <div className={styles.navbuttonscontainer}>
@@ -628,7 +628,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                   <div className={styles.header_div_visit}>
                     <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor3[count].image)}/>
                   </div>
-                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                  <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                   <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor3[count].title} </h1> 
                   <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor3[count].shortDesc} </p> 
                   <div className={styles.navbuttonscontainer}>
@@ -654,7 +654,7 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
                 <div className={styles.header_div_visit}>
                   <img className={styles.artimage} src={"images/".concat(enginfo.ES.Floor3[count].image)}/>
                 </div>
-                <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"audio/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
+                <audio className={styles.audiocontrols} controls="controls" controlsList="nodownload"><source src={"https://cdn.shopify.com/s/files/1/0462/4485/5961/files/".concat(enginfo.ES.Floor3[count].audio)} type="audio/mpeg"/>Your browser does not support the audio tag.</audio>
                 <h1 id="desctitle" className={styles.shortDescTitlte}> { enginfo.ES.Floor3[count].title} </h1> 
                 <p id="desc" className={styles.shortDesc}> {enginfo.ES.Floor3[count].shortDesc} </p> 
                 <div className={styles.navbuttonscontainer}>
