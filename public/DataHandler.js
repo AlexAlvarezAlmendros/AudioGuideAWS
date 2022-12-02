@@ -1,18 +1,4 @@
-let data;
-let index;
-
-function GetInfo() {
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const floor = urlParams.get('floor')
-    console.log(floor);
-}
-
-const Previous = (count) => {
-    if(count > 0){ count--;};
-    return count;
-}
-
-const Next = (count) => {
-    if(count <= 16){ count++;};
-}
+set_src.onclick = function() {
+    source.src = 'http://cdn.music2ten.com/mp3/pd4u/GershwinWhiteman-RhapsodyInBluePart1.mp3';
+    audio.load(); // you must call this
+  }

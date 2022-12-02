@@ -557,7 +557,6 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
         default:
           return (
             <>
-              
               <div onLoad={() => {play()}} className={styles.container}>
                 <Head>
                   <title>Espacio Trafalgar</title>
@@ -588,7 +587,6 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
         case '1':
           return (
             <>
-              
               <div onLoad={() => {play()}} className={styles.container}>
                 <Head>
                   <title>Espacio Trafalgar</title>
@@ -616,7 +614,6 @@ export default function Visit({ spninfo, catinfo, frinfo, itinfo, enginfo }) {
         case '2':
           return (
             <>
-              
               <div onLoad={() => {play()}} className={styles.container}>
                 <Head>
                   <title>Espacio Trafalgar</title>
