@@ -1,115 +1,855 @@
 {
     "ES": {
-        "Info" : {"Floor1Size": "17", "Floor2Size": "7", "Floor3Size": "56"},
-        "Floor1" : [
-            {"image":"NO_FUTURE.jpg", "audio": "NO_FUTURE.mp3", "title": "NO FUTURE", "shortDesc": "Un nen assegut a terra sosté amb la mà un globus que forma la \"O\" de \"NO FUTURE\". Aquesta pintura, com moltes altres, va ser coberta poc després. El toc poètic de Banksy gairebé ens fa oblidar la visió pessimista que es pot trobar a moltes de les seves obres."},
-            {"image":"THERE_IS_ALWAYS_HOPE.jpg", "audio": "THERE_IS_ALWAYS_HOPE.mp3", "title": "THERE IS ALWAYS HOPE", "shortDesc": "Apareixent originalment a Londres, al districte de South Bank, aquest treball és sense dubte un dels més emblemàtics de Banksy. Hi ha moltes interpretacions, però estem d'acord que aquesta noia intenta atrapar o deixa volar un globus vermell en la forma d'un cor (el vermell és l'únic color d'aquesta plantilla). El globus representa un símbol de fragilitat, innocència, esperança o amor. Intentarà atrapar-ho o deixarà que el globus s’escapi?"},
-            {"image":"SEASONS_GREETINGS.jpg", "audio": "SEASONS_GREETINGS.mp3", "title": "SEASON'S GREETINGS", "shortDesc": "L'hivern s'ha establert a Gal·les. Els nens juguen a la neu. Però, quan el mires més d’aprop, t'adones que no són flocs de neu i que aquest nen està intentant atrapar les cendres d'un contenidor en flames o un contenidor d'escombraries. Banksy va crear aquest mural a les parets d'un garatge quan Port Talbot va ser classificat tristament entre els llocs més contaminats al Regne Unit (dades de l'OMS): la indústria de l'acer va estar particularment activa i present allà."},
-            {"image":"KISSING_COPPERS.jpg", "audio": "KISSING_COPPERS.mp3", "title": "KISSING COPPERS", "shortDesc": "Sacsejar l'ordre establert però enviar un missatge que parla a tothom: no és la primera vegada que l'artista fa aquest tipus d'acció artística. L'obra de Banksy creada al centre de Brighton es va obrir camí per ser subhastada el 2014 a Miami per la suma de 520.000 euros (el comprador va romandre a l'anonimat)."},
-            {"image":"WELL_HUNG_LOVER.jpg", "audio": "WELL_HUNG_LOVER.mp3", "title": "WELL HUNG LOVER", "shortDesc": "Aquí Banksy juga amb les paraules i aquest doble sentit: el títol significa literalment \"ben penjat\", però també es refereix en llenguatge del carrer un home ben dotat. Aquesta plantilla va aparèixer a la paret d'una clínica de salut sexual a Bristol el 2008. Banksy va dir més tard que no tenia coneixement del lloc on el va pintar..."},
-            {"image":"SMILEY_GRIN_REAPER.jpg", "audio": "SMILEY_GRIN_REAPER.mp3", "title": "SMILEY GRIN REAPER", "shortDesc": "La mort, representada de diferents maneres, és un tema recurrent amb Banksy. En aquesta versió, afegeix un cap en forma de smiley groc per desafiar-nos una vegada més: per associar un personatge sinistre amb aquest símbol força simpàtic de la cultura dels 90, ens transporta entre el bé i el mal, i es riu de nosaltres, pobre mortals i condemnats com som. Aquest mural és al mateix barri on Banksy va operar amb el seu col·lectiu DryBreadZ Crew en els seus primers dies"},
-            {"image":"BOMB_HUGGER.jpg", "audio": "BOMB_HUGGER.mp3", "title": "BOMB HUGGER", "shortDesc": "Banksy destaca l'atractiu de les nostres societats modernes per la guerra, i en particular amb aquestes bombes creades per les fàbriques més grans del Regne Unit i venudes com a joguines a tot el món. Condemna els qui presenten la guerra com un component essencial de la \"democràcia\" per tal de promoure o exportar llibertat, democràcia i pau. A no ser que, com ell afegeix amb una nota d'esperança, l'amor i la innocència superaran l'instint guerrer dels homes."},
-            {"image":"PISSING_SOLDIER.jpg", "audio": "PISSING_SOLDIER.mp3", "title": "PISSING SOLDIER", "shortDesc": "Una de les grans fortaleses de Banksy és la seva capacitat per utilitzar l'entorn i el context en què es creen les seves plantilles, no només per millorar les seves creacions, sinó també per reforçar-ne l'impacte. Això és el que ens ofereix aquí, amb aquest cant del carrer que sovint és testimoni de nits i dies estridents, i amb aquest mur utilitzat per alguns assidus, impacients per poder fer les seves necessitats. El que crida l'atenció del transeünt és aquesta creació artística que es barreja amb una realitat objectiva (un edifici, una paret, sons, colors, olors, objectes, etc.) per crear una nova realitat. Afegeix un personatge que se suposa que representa l?autoritat en una postura incongruent, i tindràs el còctel perfecte d?un inconformista i reaccionari Banksy."},
-            {"image":"IF_GRAFFITI_CHANGED_ANYTHING.jpg", "audio": "IF_GRAFFITI_CHANGED_ANYTHING.mp3", "title": "IF GRAFFITI CHANGED ANYTHING", "shortDesc": "Aquest treball va aparèixer en un moment complicat per a artistes de carrer: van ser perseguits, arrestats, processats i, de vegades, empresonats. Banksy va crear aquesta plantilla el dilluns de Pasqua del 2011 en una paret a Fitzrovia, al centre de Londres. El color vermell es fa servir per escriure aquesta frase plena d'ironia i també per a la rata (l'animal preferit de Banksy) que marca amb la seva força l'autoria d'aquesta frase."},
-            {"image":"NO_BALL_GAMES.jpg", "audio": "NO_BALL_GAMES.mp3", "title": "NO BALL GAMES", "shortDesc": "Aquesta obra va aparèixer per primera vegada en llenç el 2006 durant l'exposició “Barely Legal”, que Banksy estava organitzant a l'Àrea de Skid Row del centre de Los Angeles. Tres anys després, Banksy va reproduir l'obra com a mural a Tottenham, al nord de Londres, a la paret d'una botiga ubicada a la cruïlla entre Tottenham High Road i Philip Lane. Més tard, el 2009, Banksy va publicar una edició signada de 250 impressions de \"No Ball Games\" sobre un fons verd i blocs grisos. El 2013, es va eliminar el mural de Tottenham pel Sincura Group. Estava dividit en tres peces i es va vendre per al voltant de 500.000 lliures esterlines, que es van utilitzar principalment per ajudar nens desafavorits."},
-            {"image":"SLAVE_LABOUR.jpg", "audio": "SLAVE_LABOUR.mp3", "title": "SLAVE LABOUR", "shortDesc": "Banksy va pintar aquesta obra a mitjans de maig del 2012. Un nen, agenollat ​​davant d'una màquina de cosir, arma pancartes compostes per Union Jacks (la bandera del Regne Unit). Avui encara hi ha tres possibles interpretacions d'aquesta obra: la primera seria una condemna de l'ús de nens a tallers clandestins per fabricar mercaderies (Banksy assenyala el dit entre d'altres a la cadena de botigues Poundland). El segon seria un atac satíric a la monarquia britànica i el Jubileu de Diamant de la Reina Isabel II. La reina va celebrar 60 anys al tron ​​aquell any. Finalment, podria ser una interpretació directament vinculada a l'organització dels Jocs Olímpics d'Estiu de 2012 que es celebrarien a Londres unes setmanes més tard, i que en particular va veure les botigues de souvenirs proliferar per tota la ciutat."},
-            {"image":"THE_GRIN_REAPER.jpg", "audio": "THE_GRIN_REAPER.mp3", "title": "THE GRIN REAPER", "shortDesc": "Pintat originalment el 2003 al costat de Thekla, amarrat al port de Bristol (que es va convertir en un vaixell de concerts), aquesta obra va ser tallada el 2014 per ser analitzada i després guardada al M Shed Museum del cobert a Bristol. Actualment s'hi conserva per prevenir el deteriorament i desgast del temps."},
-            {"image":"SWEEP_IT_UNDER_THE_CARPET.jpg", "audio": "SWEEP_IT_UNDER_THE_CARPET.mp3", "title": "SWEEP IT UNDER THE CARPET", "shortDesc": "The London Maid pot ser l'assistent de neteja en una habitació d'hotel de Los Angeles on es va allotjar Banksy. A través de les implicacions aquí una vegada més ressona amb proverbial ironia: Escombrar sota la catifa, reprimir els desitjos il·lícits, només serveix per colpejar en el rebuig del nostre inconscient, el mur refractari i de morter, de les ciutats on vivim. No importa quant netegem, o a qui emprem per fer-ho, la devolució del reprimit és inevitable, encara que disfressat a les parets vivim al mig tot això."},
-            {"image":"SNORTING_COPPER.jpg", "audio": "SNORTING_COPPER.mp3", "title": "SNORTING COPPER", "shortDesc": "Pensem que estava perdut fa molt de temps. Aquest treball, conegut com a “Snorting Copper”, mostra un policia agenollat esnifant una línia de cocaïna. Va aparèixer a la paret d'uns inodors públics el 2006, després va ser objecte de vandalisme i finalment cobert per funcionaris locals. Van ser uns promotors immobiliaris que, després de comprar l'edifici per convertir-lo en habitatges i negocis, van redescobrir la plantilla. Un cop es va prendre la decisió de restaurar-ho, la paret va ser tallada, moguda maó a maó per ser restaurada per un especialista. Després de més de 4 mesos de feina, la paret va ser cimentada i reinstal·lada al seu lloc d'origen per al delit dels veïns del barri... i del policia que, segons el rumor, ja s'havia divertit fins aquell moment."},
-            {"image":"KEITH_HARING_DOG.jpg", "audio": "KEITH_HARING_DOG.mp3", "title": "KEITH HARING DOG", "shortDesc": "L'obra mostra un home encaputxat vestit amb roba fosca i un mocador que amaga la cara. A través d'aquesta imatge recurrent, Banksy ens presenta un jove britànic, ociós i insatisfet. L'aparença amenaçadora d'un home sostenint un gran gos bordant amb una corretja (un homenatge al famós gos bordador de l'artista nord-americà Keith Haring) contrasta amb la seva relaxada postura, la mà a la butxaca. El contrast també està marcat pels estils utilitzats: hiperrealista per al personatge i ingenu per al gos. Segons la mateixa explicació de Banksy, el gos ha esdevingut una nova arma als carrers del Regne Unit. L'agost del 2016, el plexiglàs que s'havia instal·lat per protegir l'obra es va anar cobrint gradualment amb cartells i volants, fent que la imatge de Banksy sigui completament invisible. Es desconeix si encara és al mateix lloc."},
-            {"image":"MOBILE_LOVERS.jpg", "audio": "MOBILE_LOVERS.mp3", "title": "MOBILE LOVERS", "shortDesc": "Dos amants, abraçats, disposats a besar-se... I tanmateix, estan molt més interessats en el telèfon que en aquesta abraçada que probablement oblidaran aviat. Les tecnologies són omnipresents a les nostres societats, ia poc a poc ens envolten i saturen les oportunitats que hem deixat per intercanviar i comunicar. Aquest és el missatge que Banksy vol enviar: denuncia la nostra dependència de les tecnologies (siguin les que siguin) i posa el dit als nostres desitjos d'hiperconnectivitat, les nostres necessitats d'instantaneïtat i immediatesa, per mostrar-nos que el més simple i pur de les relacions ja no són possibles. Apareixent en una porta dels lluitadors Broad Plains Boys Club a Bristol, finalment es va vendre un col·leccionista privat per 470.000 euros per salvar el club d'un tancament que semblava inevitable."},
-            {"image":"BURNING_TYRE.jpg", "audio": "BURNING_TYRE.mp3", "title": "BURNING TYRE", "shortDesc": "Estimat Bridge Farm School, Gràcies per la vostra carta i per posar-me el meu nom a una casa. Si us plau, tingueu una imatge, si no us agrada, no dubteu a afegir coses. Estic segur que als professors no els importarà. Recordeu, sempre és més fàcil obtenir el perdó que el permís”. Una carta de Banksy als nens de Bridge Farm Elementary Col·legi. El director de l'escola va agrair a Banksy, assegurant que la feina es mantindrà com ha de ser."},
-            {"image":"THE_RAT_AND_THE_BOTTLE_OF_CHAMPAGNE.jpg", "audio":"THE_RAT_AND_THE_BOTTLE_OF_CHAMPAGNE.mp3", "title": "THE RAT AND THE BOTTLE OF CHAMPAGNE", "shortDesc": "És al barri de Montmartre on Banksy ens ofereix aquesta obra plena de poesia: al llarg d'una escala, una galleda de gel i una ampolla de xampany oberta. Una mica més amunt trobem el suro de xampany en ple vol, pilotat per una rata."},
-            {"image":"RATAS_A_LO_LARGO_DEL_SENA.jpg", "audio":"RATAS_A_LO_LARGO_DEL_SENA.mp3", "title": "RATES AL LLARG DEL SENA", "shortDesc": "Un parell de rates caminant al llarg del riu Sena a París."},
-            {"image":"MAY_1968_RAT.jpg", "audio":"MAY_1968_RAT.mp3", "title": "MAI 1968 RAT", "shortDesc": "Una primera referència al 50è aniversari dels esdeveniments del 68 de maig a França: la data apareix sobre el cap d'aquesta rata, però el 8 ha estat tallat i només queden línies de punts. S'asseu horitzontalment sobre el seu cap, com les orelles de Mickey Mouse. La rata també utilitza el llaç vermell de Minnie amb lunars blancs, una al·lusió irònica a Disney. S'han convertit els revolucionaris del maig del 1968 consumidors de grans corporacions?"},
-            {"image":"BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.jpg", "audio":"BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.mp3", "title": "BONAPARTE CROSSING THE GRAND-SAINT-BERNARD", "shortDesc": "Aquest treball força sorprenent mostra fins a quin punt Banksy és capaç de reinterpretar (o desviar, jutjaràs per tu mateix) obres clàssiques. Aquí hi ha el quadre \"Bonapart creuant el Gran Pas de Sant Bernat\" (1800-1803) de Jacques-Louis David. En la seva versió, Banksy conserva la majestuosa postura del cavall, però Bonaparte és reemplaçat per un personatge empresonat a la capa de l'emperador. Alguns interpretaran aquest treball com \"la ceguesa\" de les autoritats franceses davant del fenomen migratori."},
-            {"image":"MAN_WITH_A_DOG.jpg", "audio":"MAN_WITH_A_DOG.mp3", "title": "MAN WITH A DOG", "shortDesc": "A la rue Victor Cousin ubicada al districte 5 de París, hi ha una obra particularment cruel: un home li lliura un os a un gos. Res de cruel, podries dir... excepte que l'os prové de la pròpia pota del gos."},
-            {"image":"BATACLAN.jpg", "audio":"BATACLAmp3", "title": "BATACLAN ", "shortDesc": "Aquesta obra, que representa una persona amb un vel i inclinant el cap, és l'homenatge de Banksy a les víctimes i supervivents de l'atemptats terroristes del 13 de novembre del 2015 a París, durant el qual militants de l'Estat Islàmic van matar 90 espectadors a la sala de concerts Bataclan, i desenes de persones a l'altra banda de la ciutat durant diversos atacs. “L'obra de Banksy, símbol de la meditació i pertanyent a tots: residents, parisencs, ciutadans del món, ens va ser robat”, llegim al compte de Twitter de Bataclán el 26 Gener de 2019."},
-            {"image":"LITTLE_GIRL_COVERING_A_SWASTIKA.jpg", "audio":"LITTLE_GIRL_COVERING_A_SWASTIKA.mp3", "title": "LITTLE GIRL COVERING A SWASTIKA", "shortDesc": "Quan Banksy va arribar a París per cobrir gairebé 9 parets, va ser al voltant del 20 de juny del 2018, el Dia Mundial dels Refugiats. Aquest treball de Banksy és el més compromès políticament entre els que va crear a París. El va pintar no gaire lluny del Centre de Premier Accueil Humanitaire (Centre de Primera Recepció Humanitària - tancat per decisió de l'Estat el 2018), i representa una nena que està intentant tapar una esvàstica. Ingènuament pensa que la pot fer desaparèixer amb rosa pastís i patrons d'un tapís, una creu nazi molt present i prominent."},
-            {"image":"GRAFFITI_IS_A_CRIME.jpg", "audio": "GRAFFITI_IS_A_CRIME.mp3", "title": "GRAFFITI IS A CRIME", "shortDesc": "La primera plantilla de la sèrie de Nova York d'octubre de 2013 només va sobreviure poc temps... Nens tractant d'atrapar un esprai de pintura dibuixada en una senyal de prohibició real va ser ràpidament coberta amb pintura blanca, i el rètol va ser finalment retirat."},
-            {"image":"WAITING_IN_VAIN.jpg", "audio": "WAITING_IN_VAIN.mp3", "title": "WAITING IN VAIN", "shortDesc": "Apareixent en un porticons de ferro a Hell's Kitchen a Nova York, a prop del Hustler Club (club de striptease propietat de Larry Flynt), aquesta plantilla mostra un home que espera en va, un ram de flors vermelles a la mà. La seva cita, potser una de les ballarines del club, probablement mai no va venir. El porticó es va desmuntar per col·locar-lo a l'interior del club."},
-            {"image":"BETTER_OUT_THAN_IN.jpg", "audio": "BETTER_OUT_THAN_IN.mp3", "title": "BETTER OUT THAN IN", "shortDesc": "Se suposa que aquest treball va aparèixer com un \"aperitiu\", un mes abans que Banksy comencés la seva residència a Nova York a l'octubre de 2013. Aquí juga amb paraules, imatges i context alhora: el terme en anglès \"Throw Up\" significa \"vomitar\", aquí el nen vomita flors amb un esprai de pintura a la mà."},
-            {"image":"NOLA_UMBRELLA_GIRL.jpg", "audio": "NOLA_UMBRELLA_GIRL.mp3", "title": "NOLA - UMBRELLA GIRL", "shortDesc": "El 2005, l'huracà Katrina va devastar Nova Orleans. Els dics que se suposava havien de protegir la ciutat van cedir, matant milers de persones i destruint cases i establiments diversos. El 2008, la ciutat va experimentar la major evacuació de persones a la història dels Estats Units sota l'amenaça d'un nou huracà anomenat Gustav. Aquesta jove que Banksy va pintar el 2008 en una muralla de la ciutat, es protegeix sota un paraigua, però ella s'adona que el paraigua en si és la causa de la pluja que cau. El paral·lel amb els dics de Nova Orleans és una prova tràgica."},
-            {"image":"I’M_OUT_OF_BED_RAT.jpg", "audio": "I’M_OUT_OF_BED_RAT.mp3", "title": "I’M OUT OF BED RAT", "shortDesc": "Creat originalment el 2002 a Los Angeles, aquesta obra va ser desmantellada i transportada el 2013 a Brooklyn (Nova York). Va ser restaurat i salvat d'un cert fi (el suport de guix sobre el qual es va pintar no duraria gaire). Va ser subhastat (preu de sortida 360.000 euros) i va acabar el viatge amb un comprador anònim a Itàlia. Va ser després reemplaçat a Los Angeles, al mateix lloc, per una plantilla aquesta vegada mostrant el Papa Ratzinger, però amb el mateix text que l'original “I am out of bed and dressed. What more do you want?” (\"Estic fora del llit i vestit. Què més vols?\"). No sabem si aquesta nova versió va ser realitzada per Banksy."},
-            {"image":"ROBOT_AND_BARCODE.jpg", "audio": "ROBOT_AND_BARCODE.mp3", "title": "ROBOT AND BARCODE", "shortDesc": "El 28 d'octubre del 2013, durant la seva residència a Nova York (període \"Better out than in\"), Banksy va posar aquest robot i aquests codis de barres en un mur a Coney Island. És obvi que aquest robot, pintura d'esprai a la mà, només podia pintar sobre la paret un tipus d'etiqueta: un codi de barres."},
-            {"image":"LAUGH_NOW.jpg", "audio": "LAUGH_NOW.mp3", "title": "LAUGH NOW", "shortDesc": "Apareixent per primera vegada a la paret d'una discoteca a Brighton el 2002, aquest treball i el caràcter del mico ha estat utilitzat moltes vegades per Banksy. Un exemple perfecte de l'humor negre que ha mostrat des dels seus inicis, Banksy situa la seva obra entre una crítica de l'home que esclavitza altres éssers vius i una alerta sobre una revolució. Banksy mostra aquest mico, com un home portant un missatge ominós: “Laugh now, but one day we'll be in charge” (\"Riu-te ara, però un dia estarem a càrrec\"). La referència a “El Planeta dels Simis”, pel·lícula de culte i sens dubte contemporània per a Banksy, és també força òbvia."},
-            {"image":"ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.jpg", "audio": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.mp3", "title": "PILLOW FIGHT", "shortDesc": "Banksy va crear aquesta plantilla en una de les habitacions del Walled Off Hotel, que ell ha decorat juntament amb altres artistes i dissenyadors internacionals, davant del mur de Betlem. Reconeixem el toc del mestre de l'street art i el sentit de l'humor. L'israelià (el soldat) i el Palestí (el manifestant) només podien lluitar d'una manera en aquesta habitació d'hotel... amb coixins!"},
-            {"image":"STOP_AND_SEARCH.jpg", "audio": "STOP_AND_SEARCH.mp3", "title": "STOP AND SEARCH", "shortDesc": "Una nena escorcolla un soldat. En aquests territoris entre Israel i Palestina, que es va convertir en un dels seus terrenys favorits per fer obres, Banksy ens fa comprendre que un enfocament més pràctic seria fer mostrar-nos el contrari. L'obra original es remata amb un grafit: Free Palestine (Palestina lliure). Més enllà del missatge polític que deixa sense cap dubte, Banksy ens convida a mirar a les barreres culturals que ens impedeixen apreciar plenament la humanitat en els altres."},
-            {"image":"FLYING_BALLOONGIRL.jpg", "audio": "FLYING_BALLOONGIRL.mp3", "title": "FLYING BALLOON GIRL", "shortDesc": "Entre les creacions més conegudes de Banksy hi ha \"FLYING BALLOON GIRL\". És clarament un missatge d'esperança que Banksy dirigeix a les generacions joves i que va pintar al mur de Betlem. També és una crida als nens palestins a viure lliures algun dia, més enllà de barreres i fronteres."},
-            {"image":"THE_ARMOURED_DOVE.jpg", "audio": "THE_ARMOURED_DOVE.mp3", "title": "THE ARMOURED DOVE", "shortDesc": "Com la majoria de les obres que va crear a la paret de Betlem o a la regió, Banksy en veu alta crida la seva oposició a aquesta barrera artificial que ell considera inhumana. El símbol és simple, però efectiu: un mur ple de bales, un colom amb ales esteses que imaginem està en vol, una branca d'olivera al bec i una armilla antibales per protegir-se. I com si un franctirador estigués a punt de disparar-li, un blanc vermell es pot veure al seu cor."},
-            {"image":"DONKEY_DOCUMENTS.jpg", "audio": "DONKEY_DOCUMENTS.mp3", "title": "DONKEY DOCUMENTS", "shortDesc": "Aquesta obra mostra un burro els papers del qual estan sent controlats per un soldat armat que imaginem ser israelians. Un altre exemple de la política de seguretat irracional que alguns estats poden crear. El robatori d'aquest mural va aixecar moltes preguntes sobre l'artivisme (compressió de les paraules art i activisme) i la veritable propietat de les obres d'art de carrer. Va ser suposadament separat de la paret per un taxista palestí que es va ofendre, creient erròniament que Banksy estava comparant els palestins amb els rucs. Però resulta que això no era cert, i que hi havien motius comercials darrere d’aquest robatori. L'obra finalment va ser subhastada a Londres, per la suma de 225.000 euros a l'octubre del 2015."},
-            {"image":"PARADISE.jpg", "audio": "PARADISE.mp3", "title": "PARADISE", "shortDesc": "Aquí estem a prop d'una de les torres de vigilància al llarg del mur de separació a Ramallah. Apareix una obertura a la paret, com un passatge entre dos mons, dues cultures i dos pobles. Però és sobretot una obertura cap a la llibertat, i el blau del cel per a un nen que juga amb tota innocència."},
-            {"image":"HELICOPTER_DROPPING_SPRAY_CANS.jpg", "audio": "HELICOPTER_DROPPING_SPRAY_CANS.mp3", "title": "HELICOPTER DROPPING SPRAY CANS", "shortDesc": "No deixis caure bombes llevat que siguin de pintura! Podem imaginar que és el missatge d'aquesta obra que no s'atribueix a Banksy, però que és emblemàtic de la muralla de Betlem i a prop de l'Hotel Walled Off, moblat i decorat per Banksy."},
-            {"image":"THE_LOVE_RAT.jpg", "audio": "THE_LOVE_RAT.mp3", "title": "THE LOVE RAT", "shortDesc": "“THE LOVE RAT” és una peça particularment compassiva, atès que la rata agafa el raspall com una damisela llesta per un petó."},
-            {"image":"GET_OUT_WHILE_YOU_CAN.jpg", "audio": "GET_OUT_WHILE_YOU_CAN.mp3", "title": "GET OUT WHILE YOU CAN", "shortDesc": "La rata ens adverteix que el final és a prop, com el mico portant el cartró del publireportatge a “Laugh Now”."},
-            {"image":"UMBRELLA_RAT.jpg", "audio": "UMBRELLA_RAT.mp3", "title": "UMBRELLA RAT", "shortDesc": "The Umbrella Rat és una de les creacions de rates de Banksy. La rata amb un paraigua, amb barret i corbata, sostenint un maletí que suggereix un empresari sense escrúpols, mirant cap amunt al cel."},
-            {"image":"GANGSTA_RAT.jpg", "audio": "GANGSTA_RAT.mp3", "title": "GANGSTA RAT", "shortDesc": "“Existeixen sense permís. Són odiats, caçats i perseguits. Viuen en silenciosa desesperació entre la brutícia. I, tanmateix, són capaços de posar fi a civilitzacions senceres.” - Banksy"},
-            {"image":"LAUGH_NOW.jpg", "audio": "LAUGH_NOW.mp3", "title": "LAUGH NOW", "shortDesc": "La utilització dels simis, per part de Banksy, com a figures oprimides sembla remuntar-se a la por primordial que l'home ha tingut al llarg dels segles des de la teoria de l'evolució de Darwin. Encara que són un suposat avantpassat, els micos avui dia s'utilitzen com a exhibicions en zoològics, conillets d'índies per a experiments i tota mena d'altres actes violents i degradants. Difícilment es pot ignorar la referència a “El Planeta dels Simis”, amb tota probabilitat un dels clàssics de culte de la generació de Banksy."},
-            {"image":"MONKEY_GUNS.jpg", "audio": "MONKEY_GUNS.mp3", "title": "MONKEY GUNS", "shortDesc": "Els micos s'han acostat un pas més cap a “El Planeta dels Simis”, empunyant armes de foc, un favorit des de fa molt de temps entre els humans segons els antropòlegs."},
-            {"image":"HMV.jpg", "audio": "HMV.mp3", "title": "HMV", "shortDesc": "L'ús de Banksy de la dicotomia amo-esclau en referència a humans-animals aquesta vegada porta el gos escoltant la veu del seu amo, preparat per bombardejar-lo a trossos."},
-            {"image":"TOXIC_MARY.jpg", "audio": "TOXIC_MARY.mp3", "title": "TOXIC MARY", "shortDesc": "A l'obra de Banksy de la Verge Maria, l'espectador és presentat amb l'angle tòxic de com de influents els nostres pares i les preocupacions són a les nostres vides. En alimentar el nen, amb una ampolla de verí clarament indicada, Banksy posiciona l'espectador a sentir que el nen no té un control real en aquest punt sobre com resultarà la seva vida. Durant la criança del nadó, les circumstàncies i situacions que l'envolten afectaran la seva vida primerenca i crearan el camí per a l'adolescència i l'edat adulta, i la persona a la societat que serà."},
-            {"image":"CHRIST_WITH_SHOPPING_BAGS.jpg", "audio": "CHRIST_WITH_SHOPPING_BAGS.mp3", "title": "CHRIST WITH SHOPPING BAGS", "shortDesc": "No és només un atac flagrant sobre el consumisme en general, però també es burla de com el Nadal ha esdevingut una de les dates més importants per a la histèria consumista de masses."},
-            {"image":"SALE_ENDS.jpg", "audio": "SALE_ENDS.mp3", "title": "SALE ENDS", "shortDesc": "Banksy mostra figures encaputxades postrades davant d'un rètol que diu \"SALE ENDS TODAY\". Apuntant al fervor gairebé religiós amb què la societat considera els productes de consum, aquesta impressió és una icona de l'obra de Banksy."},
-            {"image":"MEDIA_CANVAS.jpg", "audio": "MEDIA_CANVAS.mp3", "title": "MEDIA CANVAS", "shortDesc": "La famosa màxima de Baudrillard que “la guerre du Golfe n'a pas eu lieu”, sembla cobrar vida en aquest inquietant treball la guerra. Aquest títol es pot trobar aquí en una comprensió commovedora: una mena de pornografia de la guerra. Les guerres han canviat de model i ja no s'assembla a les guerres del passat."},
-            {"image":"BOMB_HUGGER.jpg", "audio": "BOMB_HUGGER.mp3", "title": "BOMB HUGGER", "shortDesc": "Aquest treball tracta sobre la por mundial a la bomba atòmica, durant la Guerra Freda i el seu efecte a tota una generació de nens criats durant aquesta època. Recorda les lletres del clàssic dels Smith: \"Because if it's no love, the it's bomb, bomb, bomb that will bring us together\"."},
-            {"image":"HAPPY_CHOPPER.jpg", "audio": "HAPPY_CHOPPER.mp3", "title": "HAPPY CHOPPER", "shortDesc": "Una peça perfectament executada amb detalls vibrants és el somni de guerra d'un nen. Això sense cap comprensió real de les implicacions reals de la guerra. A un teló de fons de cel blau clar, gairebé surrealista, l'helicòpter està encès encapçalant la carrera, amb una bonica cinta rosa que només una nena petita podria haver pensat."},
-            {"image":"STOP_ME_BEFORE_I_PAINT_AGAIN.jpg", "audio": "STOP_ME_BEFORE_I_PAINT_AGAIN.mp3", "title": "STOP EM BEFORE I PAINT AGAIN", "shortDesc": "“Algunes persones es tornen policies perquè volen fer que el món sigui un lloc millor. Algunes persones es tornen vàndals perquè volen fer del món un lloc més atractiu” - Banksy (Wall and Piece)."},
-            {"image":"PREGNANT_MONKEY.jpg", "audio": "PREGNANT_MONKEY.mp3", "title": "PREGNANT MONKEY", "shortDesc": "El mico prenyat és una interpretació d'una vanitat icònica, una bonica foto de Demi Moore, grotesca i impactant amb la cigarreta penjant de la boca."},
-            {"image":"STOP_AND_SEARCH2.jpg", "audio": "STOP_AND_SEARCH.mp3", "title": "STOP AND SEARCH", "shortDesc": "Els límits irracionals que pot assolir un estat de seguretat són meravellosament exemplificats amb Dorothy de “El Mag d'Oz” sent registrada per un oficial de policia."},
-            {"image":"FLYING_COPPER.jpg", "audio": "FLYING_COPPER.mp3", "title": "FLYING COPPER", "shortDesc": "L’icònic policia volador aquí es converteix en un agent d’estètica en lloc d’opressió, un fons blau càlid que accentua les ales blanques i el groc àcid brillant de la cara somrient."},
-            {"image":"VERY_LITTLE_HELPS.jpg", "audio": "VERY_LITTLE_HELPS.mp3", "title": "VERY LITTLE HELPS", "shortDesc": "Amb un teló de fons d'un blqu pastís relaxant, els nens blancs i negres prometen la seva lleialtat a una bandera de Tesco, un emblema de l'actualitat del consumisme. El treball és alhora irònic i real, indicant com la nació contemporània, l'estat, té menys influència a la cultura que corporacions gegants."},
-            {"image":"APPLAUSE.jpg", "audio": "APPLAUSE.mp3", "title": "APPLAUSE", "shortDesc": "Una crítica molt enginyosa de la societat del món de l'espectacle. Els avions enlairant-se d'un portaavions reben \"suport moral\" d'una pancarta per obtenir un aplaudiment dels espectadors pagats d'un programa en un estudi de televisió."},
-            {"image":"GOLF_SALE.jpg", "audio": "GOLF_SALE.mp3", "title": "GOLF SALE", "shortDesc": "Aquesta obra d'art de Banksy representa una línia de tancs de l'exèrcit que es dirigeixen en direcció a un home que porta un cartell que diu “GOLF SALE” amb una fletxa a sota, aparentment apuntant a la direcció de la venda. Fa referència a una protesta contra el govern xinès, quan un manifestant valentament es va aturar davant de tres tancs per evitar que passessin. Com que van intentar moure's al seu voltant, una vegada més s'aturava pel camí."},
-            {"image":"KIDS_ON_GUNS.jpg", "audio": "KIDS_ON_GUNS.mp3", "title": "KIDS ON GUNS", "shortDesc": "Siluetes d'un nen i una nena, sostenint les joguines a la mà, a dalt d'una muntanya d'armes, la nena sosté un cor en forma de globus vermell en una corda. És una altra obra que representa la seva icònica nena globus. La senzillesa i severitat del color. Els contrastos li confereixen tanta bellesa com un significat més profund, convertint-la en una de les peces més ombrívoles de l'artista."},
-            {"image":"HAPPY_CHOPPER_CRUDE_OIL.jpg", "audio": "HAPPY_CHOPPER_CRUDE_OIL.mp3", "title": "HAPPY CHOPPER CRUDE OIL", "shortDesc": "Se sap que Banksy solia comprar obres d'art del mercat de puces i modificar-ne les obres. Les interpretacions originals, generalment pastitxes de paisatges antics o clàssics retrats, han estat pintats audaçment per l'artista amb una iconografia contemporània. A sobre del casc d'acer gris de l'helicòpter de plom s'asseu un llaç groc."},
-            {"image":"GUANTANAMO_BAY.jpg", "audio": "GUANTANAMO_BAY.mp3", "title": "GUANTANAMO BAY", "shortDesc": "Banksy ha posat presoners de Guantánamo a molts llocs però cap ha arribat més a prop que aquesta peça exemplar de poderosa juxtaposició en què el presoner agenollat té vistes a una bonica i idíl·lica pintura d'un mar amb xocs d'ones gairebé hiperrealistes."},
-            {"image":"DON’T_BELIEVE_THE_TYPE.jpg", "audio": "DON’T_BELIEVE_THE_TYPE.mp3", "title": "DON’T BELIEVE THE TYPE", "shortDesc": "Les paraules al final d'aquesta peça \"PLEASE TAKE YOUR LITTER HOME\", és el comentari més important aquí, que il·lustra Banksy i presenta la seva opinió per a què són els espais públics i la del sistema."},
-            {"image":"RAGE_FLOWER_THROWER.jpg", "audio": "RAGE_FLOWER_THROWER.mp3", "title": "FLOWER THROWER", "shortDesc": "Una estranya amalgama de violència revolucionària i ardor pacifista, aquest treball és possiblement un dels més coneguts. El contrast entre la figura en blanc i negre i el ram que sosté en lloc d'un suposat còctel molotov fa que la peça sigui encara més commovedora, engendrant esperança davant de la lluita constant, encara que sigui violenta."},
-            {"image":"CND_SOLDIERS.jpg", "audio": "CND_SOLDIERS.mp3", "title": "CND SOLDIERS", "shortDesc": "És força apropiat veure dos soldats fortament armats en formació de batalla amb una pintura d'un signe de la pau a la paret. Serveix com a recordatori de quantes guerres del segle XXI s'han lliurat en nom de la pau i la democràcia."},
-            {"image":"PULP_FICTION.jpg", "audio": "PULP_FICTION.mp3", "title": "PULP FICTION", "shortDesc": "Per molt que “Pulp Fiction” de Tarantino sigui una escandalosa versió humorística de la violència fílmica, també ho és “Pulp Fiction” de Banksy."},
-            {"image":"NAPALM.jpg", "audio": "NAPALM.mp3", "title": "NAPALM", "shortDesc": "La aterridora foto d'una nena de nou anys anomenada Kim Phuc, presa durant la guerra del Vietnam (1972) és un flagrant atac al consumisme i política exterior dels Estats Units. Mickey Mouse i Ronald McDonald sostenen amb alegria la nena de la mà, gairebé semblen arrogants en els seus somriures, mentre que aquesta pobra noia està cridant, corrent i intentant escapar."},
-            {"image":"NO_BALL_GAMES.jpg", "audio": "NO_BALL_GAMES.mp3", "title": "NO BALL GAMES", "shortDesc": "Aquest tipus de signe disfuncional existeix a tot el món, \"NO BALL GAMES”. I es troba amb freqüència al nord de Londres, és representativa de tals lleis que no tenen realitat pràctica però que només hi són per irritar els ciutadans."},
-            {"image":"DISMALAND_EPHEMERA.jpg", "audio": "DISMALAND_EPHEMERA.mp3", "title": "DISMALAND EPHEMERA", "shortDesc": "Una obra d'art descoratjadora de Dismaland, el Bemusement Park, un dels espectacles de Banksy."},
-            {"image":"TROLLEYS.jpg", "audio": "TROLLEYS.mp3", "title": "TROLLEYS", "shortDesc": "En comparació amb “SALES END TODAY”, “TROLLEYS” és més compassiu amb el consumidor. Almenys imbueix l'home amb cert poder i més lliure albir que el fervor religiós cap al consumisme que “SALES END TODAY” retrata."},
-            {"image":"PARANOID_PICTURES.jpg", "audio": "PARANOID_PICTURES.mp3", "title": "PARANOID PICTURES", "shortDesc": "“La vostra ment funciona millor quan esteu paranoics. Exploreu totes les oportunitats i cada situació a gran velocitat i amb clarividència total”. Banksy a Banging Your Head Against A Brick Wall (Picant de cap contra un mur de maó)."},
-            {"image":"BARCODE_LEOPARD.jpg", "audio": "BARCODE_LEOPARD.mp3", "title": "CODI DE BARRES LEOPARD", "shortDesc": "Banksy ha creat una obra d'art que representa a un tigre escapat fora de la seva gàbia. La gàbia s'ha transformat en un símbol de codi de barres, sent les barres les mateixes de la impressió de codi de barres."},
-            {"image":"STICK_POLICE.jpg", "audio": "STICK_POLICE.mp3", "title": "STICK POLICE", "shortDesc": "El contrast entre els elaborats moviments físics que la policia exhibeix quan persegueix un criminal és suficient per fer brillant aquesta peça. No obstant això, també pot veure un ridícul dels \"valents\" esforços de la policia per perseguir artistes de carrer, o qualsevol altra persona: una caricatura de l'home del carrer."},
-            {"image":"KISSING_COPPERS.jpg", "audio": "KISSING_COPPERS.mp3", "title": "KISSING COPPERS", "shortDesc": "Un altre exemple d'unir allò familiar amb allò completament inesperat."},
-            {"image":"RUDE_COPPER.jpg", "audio": "RUDE_COPPER.mp3", "title": "RUDE COPPER", "shortDesc": "“RUDE COPPER” va ser la primera impressió comercial de Banksy, llançada el 2002 i, com el seu nom ho indica, és una obra força provocativa amb una elaborada profunditat de camp, en què la mà estesa que fa el gest groller pren el centre de l’escenari. És la primera impressió comercial de Banksy."},
-            {"image":"MORONS.jpg", "audio": "MORONS.mp3", "title": "MORONS", "shortDesc": "“Em sembla que la millor manera de guanyar diners fora de l'art és ni tan sols intentar-ho. No es necessita gaire per ser un artista reeixit, tot el que necessites fer és dedicar-hi tota la vida. El que la gent més admirava de Picasso no era el seu equilibri entre la feina i la vida”. - Banksy, Village Voice 2013"},
-            {"image":"RED_LENIN.jpg", "audio": "RED_LENIN.mp3", "title": "RED LENIN", "shortDesc": "Aquesta obra d'art és una de les més reconegudes de Banksy. Com que burlar-se dels líders mundials és part de les obres de Banksy, aquesta peça exemplifica com es veuria Lenin en patins, o de cintura cap amunt, amb la seva mà estesa en un revolucionari discurs que podria haver estat donant. També es podria suposar un sentit d’“humanitzar” l'individu."},
-            {"image":"THERE_IS_ALWAYS_HOPE.jpg", "audio": "THERE_IS_ALWAYS_HOPE.mp3", "title": "GIRL WITH BALLON", "shortDesc": "Evocadora i afectuosa a primera vista, \"GIRL WITH BALLOON\" desequilibra l'espectador després que la primera impressió de la compassió desapareix. La nena ha deixat anar el globus, havent renunciat a l'amor perdut, o acceptat que ella necessita arribar al cim de l'ordre social? O ha perdut el control de la societat, condemnada a buscar desesperadament aquest sentiment que és la necessitat principal d'un ésser humà?"},
-            {"image":"TURF_WAR.jpg", "audio": "TURF_WAR.mp3", "title": "TURF WAR", "shortDesc": "Aquesta obra d'art mostra un famós retrat de Winston Churchill, convertit en una icona del punk rock amb un floc verd dels cabells mohicans que es remunta als disturbis de maig de 2000 a Londres, conegut com a \"Turf Wars\". Una línia d'herba verda travessa el peix gros anglès, difuminant les línies entre el sarcasme i el comentari polític. La mata d'herba que el manifestant havia desenterrat de la Plaça del Parlament ha estat delicadament col·locada sobre el cap de Churchill."},
-            {"image":"SWEEP_IT_UNDER_THE_CARPET.jpg", "audio": "SWEEP_IT_UNDER_THE_CARPET.mp3", "title": "SWEEP IT UNDER THE CARPET", "shortDesc": "The London Maid pot ser l'assistent de neteja en una habitació d'hotel de Los Angeles on es va allotjar Banksy. A través de les implicacions aquí una vegada més ressona amb proverbial ironia: Escombrar sota la catifa, reprimir els desitjos il·lícits, només serveix per colpejar en el rebuig del nostre inconscient, el mur refractari i de morter, de les ciutats on vivim. No importa quant netegem, o a qui emprem per fer-ho, la devolució del reprimit és inevitable, encara que disfressat a les parets vivim al mig tot això."},
-            {"image":"MONKEYQUEEN.jpg", "audio": "MONKEYQUEEN.mp3", "title": "MONKEY QUEEN", "shortDesc": "L'ús que fa Banksy del mico com a reina d'Anglaterra podria ser una extensió dels seus micos elevant-se cada cop a més alt rangs de poder a la societat humana o una burla cap a la monarquia anglesa."},
-            {"image":"VENICE_IN_OIL.jpg", "audio": "VENICE_IN_OIL.mp3", "title": "VENICE IN OIL", "shortDesc": "Uns mesos després d’autodestruir el quadre que havia venut en una subhasta per 1,2 milions d’euros, Banksy es va invitar a la 58a edició de la Biennal de Venècia. El seu anunci a Instagram va ser inequívoc: «Em disposo a instal·lar el meu stand a la Biennal de Venècia. Tot i ser l’esdeveniment més important i prestigiós del món, per alguna raó, mai m’hi han convidat». Es tracta d’una sèrie de quadres disposada sobre cavallets a mode de puzle, representant un creuer turístic entre gòndoles als canals de Venècia. Venècia en oli fa referència a l’oli amb el qual està pintada l’obra, per una banda, i a l’oli amb el qual aquests vaixells contaminen les aigües per les que naveguen, per l’altra. A més, és una clara denúncia al risc que assumeix la ciutat en acollir cada vegada més creuers plens de turistes. La seva publicació a Instagram anava acompanyada d’un vídeo en el que es veia un suposat venedor muntant la instal·lació, seient acte seguit a l’espera de compradors. Al cap d’una estona, els carabinieri el desallotgen per estar allà sense permís."},
-            {"image":"MIGRANT_CHILD.jpg", "audio": "MIGRANT_CHILD.mp3", "title": "MIGRANT CHILD", "shortDesc": "A l’illa de Dorsoduro, durant el vernissatge de la Biennal de Venècia, Banksy va fer aquest mural en el qual es veu un nen amb armilla salvavides sostenint una bengala encesa de color rosa. Un cop més, aquí també es fa referència al sofriment dels migrants i els refugiats, en especial els més afectats: els nens. Creat el 2019, el tema de la Biennal d’aquell any era “May you live in interesting times” (Per a què visqueu temps interessants), i es creu que aquesta obra va ser una resposta directa."},
-            {"image":"MADONNA_WITH_A_GUN.jpg", "audio":"MADONNA_WITH_A_GUN.mp3", "title": "MADONNA WITH A GUN", "shortDesc": "Aquesta obra és probablement un comentari sobre la reputació de la ciutat de Nàpols, com una de les capitals del catolicisme devot i del crim organitzat, amb moltes màfies. Mostra la Verge Maria amb els braços i la mirada enlaire cap al seu halo, al centre del qual hi flota un revòlver. Per tal d’assegurar-se de què l’obra no es destruís, un particular va decidir cobrir-la amb una pantalla protectora. El mural encara es pot veure al centre de Nàpols."},
-            {"image":"BALLERINA.jpg", "audio":"BALLERINA.mp3", "title": "BALLERINA", "year": "2003", "location": "", "shortDesc": "La ballarina d'Edgar Degas pateix aquí un canvi d'imatge irònic amb un dels accessoris més representatius de la societat moderna: la màscara de gas."},
-            {"image":"THE_RAFT_OF_THE_MEDUSA.jpg", "audio":"THE_RAFT_OF_THE_MEDUSA.mp3", "title": "THE RAFT OF THE MEDUSA", "shortDesc": "Aquesta obra és una paròdia del famós quadre de Théodore Gericault Le radeau de la Méduse i mostra un creuer de luxe a l’horitzó i un rai ple de refugiats que somien amb diners i una vida estable a Anglaterra."},
-            {"image":"THE_SON_OF_A_MIGRANT_FROM_SYRIA.jpg", "audio":"THE_SON_OF_A_MIGRANT_FROM_SYRIA.mp3", "title": "THE SON OF A MIGRANT FROM SYRIA", "shortDesc": "L’11 de desembre de 2015, Banksy va revelar la seva nova obra mural, pintada als murs d’un camp de refugiats a Calais, coneguda com “La Jungla”. A l’obra es pot veure el fundador d’Apple, Steve Jobs, com un refugiat sirià, amb el seu icònic coll alt, amb una gran bossa de plàstic negre a l’esquena i el primer ordinador Apple a la mà. Com a part d’una sèrie de stencils pintats arreu del camp, aquesta peça és una contundent denúncia de l’actual crisi migratòria a Europa, una picada d’ullet a l’origen real de l’Steve Jobs, fill d’un emigrant sirià que es va instal·lar als Estats Units després de la Segona Guerra Mundial. En una de les seves excepcionals intervencions, Banksy va dir: “Sovint se’ns indueix a pensar que la immigració és una sagnia de recursos per a un país, però l’Steve Jobs era fill d’un migrant sirià. Apple és l’empresa més rendible del món i paga més de 7.000 milions de dòlars a l’any en impostos, i solament existeix perquè van deixar-hi entrar un jove d’Homs”. En efecte, el pare de l’Steve Jobs, Abdulfattah “John” Jandali, va néixer a Homs (una ciutat de Síria, avui gairebé completament destruïda per la guerra) i es va mudar als Estats Units per a estudiar. Allà, va conèixer la seva futura dona, Joanne Schieble, i el 1955 van donar el seu fill Steve en adopció a San Francisco. El grafit de l’Steve Jobs de Banksy és només un dels que componen la sèrie d’obres creades per l’artista per a denunciar com són tractats els refugiats sirians a Calais, i arreu."},
-            {"image":"MAY_1968_RAT2.jpg", "audio":"MAY_1968_RAT2.mp3", "title": "MAY 1968 RAT", "year": "2018", "location": "París, Francia", "shortDesc": "Primera referència al 50è aniversari del maig del 68 a França: la data apareix a sobre de la rata, però s’ha retallat el número 8 i només en queda el puntejat. El trobem en horitzontal a sobre del seu cap, com si fossin les orelles d’en Mickey. Potser els revolucionaris del maig del 68 van acabar esdevenint consumidors a sou de les grans corporacions?"},
-            {"image":"KATE_MOSS.jpg", "audio": "KATE_MOSS.mp3", "title": "KATE MOSS", "year": "2008", "location": "Bristol / Reino Unido", "shortDesc": "Aquesta sèrie és un clar homenatge a la icònica Marilyn Monroe d’Andy Warhol, tant en el fons com en la forma. En aquest cas, Banksy combina la cara de Kate Moss amb la de Monroe, superposant el pentinat d’aquesta última sobre el rostre de la primera."},
-            {"image":"ANGEL_IN_BULLETPROOF_VEST.jpg", "audio": "ANGEL_IN_BULLETPROOF_VEST.mp3", "title": "ANGEL IN BULLETPROOF VEST", "shortDesc": "Banksy va pintar aquest àngel amb una armilla antibales i un crani humà a la mà l’any 2007, en homenatge a Ozone, l’artista urbà que va morir en un accident de tren. Juntament amb Àngel caigut (una altra de les seves obres), aquest estergit popular ha acabat transcendint la polèmica del seu suposat atac a la religió."},
-            {"image":"GAME_CHANGER.jpg", "audio": "GAME_CHANGER.mp3", "title": "GAME CHANGER", "shortDesc": "Aquesta obra va aparèixer per primer cop a l’entrada del servei d’urgències de l’hospital de Southampton el maig del 2020, durant la primera onada de la pandèmia al Regne Unit. S’acompanyava d’una nota que deia: «Gràcies per tot el que feu. Espero que això il·lumini una mica aquest espai, tot i ser en blanc i negre.» L’obra representa un nen jugant amb un ninot, però havent deixat de banda els seus superherois habituals, sosté una infermera de joguina vestida amb capa, fent-la volar com Superman. Banksy va donar l’obra a l’hospital. Game Changer es va vendre el 23 de març del 2021 per gairebé 20 milions d’euros a la casa de subhastes londinenca Christie’s, convertint-se en l’obra de Banksy més cara de la història, només un any i un dia després del primer confinament al Regne Unit."},
-            {"image":"AACHOO.jpg", "audio": "AACHOO.mp3", "title": "AACHOO", "shortDesc": "L’artista va publicar una foto del grafit en plena pandèmia al seu compte d’Instagram (així és com confirma la seva autoria, normalment). A l’obra “Atxim!!”, pintada sobre un mur d’una casa verda, es veu com una dona gran amb un mocador al cap esternuda fort i perd la dentadura postissa. Com que el mur en qüestió es troba al principi de Vale Street, un dels carrers més empinats d’Anglaterra, en una de les fotos publicades per Banksy sembla que l’esternut de la dona hagi fet caure un contenidor d’escombraries i hagi inclinat les cases del voltant."},
-            {"image":"GRANNIES.jpg", "audio": "GRANNIES.mp3", "title": "GRANNIES", "shortDesc": "Dues àvies cosint violents eslògans de punk rock amb un somriure a la cara. L’obra representa la compassió de les persones grans envers el jovent, recordant els temps pretèrits en què el cos físic, sense rastre de desgast, desbordava rebel·lia. Es va mostrar per primera vegada com a pintura a la icònica exposició de Banksy, Barely Legal, que va tenir lloc en un magatzem de Los Angeles el 2006."},
-            {"image":"POLICE_KIDS.jpg", "audio": "POLICE_KIDS.mp3", "title": "POLICE KIDS", "shortDesc": "Banksy uneix aquí imatge emblemàtica i humor irreverent en una proesa de la qual només ell coneix el secret. Il·lustrant a la perfecció la innocència riallera de Jack i Jill, aquest retrat idíl·lic queda enfosquit per Les armilles antibales de la policia que porten per protegir-se. Banksy expressa el seu menyspreu per les forces de l'ordre."},
-            {"image":"GORILLA_IN_A_PINK_MASK.jpg", "audio": "GORILLA_IN_A_PINK_MASK.mp3", "title": "GORILLA IN A PINK MASK", "shortDesc": "Es va pintar sobre el mur exterior d’un antic club social de Bristol, que poc després va esdevenir un centre cultural musulmà. El director del centre va recobrir l’obra inconscientment i més tard va assegurar als diaris que: “Pensava que es tractava d’un grafit qualsevol, no sabia que tenia valor. Per això vaig fer que hi pintessin a sobre”. L’obra va ser restaurada i posteriorment venuda, i els diners es van destinar a reformar l’edifici i a ajudar a la comunitat."},
-            {"image":"DEVOLVED_PARLIAMENT.jpg", "audio": "DEVOLVED_PARLIAMENT.mp3", "title": "DEVOLVED PARLIAMENT", "shortDesc": "Parlament Involucionat es va crear per a l’exposició de Banksy del Museu de Bristol el 2009, que va atreure més de 300.000 visitants i es va considerar una de les exposicions més visitades del món aquell any. L’obra mostra la Cambra dels Comuns del Regne Unit envaïda per primats parlamentaris i es va vendre en subhasta pel preu rècord de 12,2 milions de dòlars. “Llàstima que ja no em pertanyés”, va escriure Banksy a Instagram. El títol original de la pintura era Question Time (Torn de preguntes) i es va presentar a temps per al dia oficial del Brexit, al març, però es va retocar i se li va canviar el títol posteriorment. Ara inclou llums apagats i un dels ximpanzés sostenint una banana de cap per avall. Banksy va afegir: “Riu mentre puguis, però un dia ningú estarà al càrrec”."},
-            {"image":"GUN_CLOWN.jpg", "audio": "GUN_CLOWN.mp3", "title": "GUN CLOWN", "shortDesc": "Va aparèixer al centre de Bristol, concretament al carrer Hotwell Road. L’obra mostra com una figura confiable, en aquest cas, un pallasso amb pistoles, pot esdevenir una representació de violència i destrucció; i com la innocència i la confiança es poden fer miques amb molta facilitat."},
-            {"image":"TRIBUTE_TO_BASQUIAT.jpg", "audio":"TRIBUTE_TO_BASQUIAT.mp3", "title": "TRIBUTE TO BASQUIAT", "shortDesc": "Dues noves obres d'art de Banksy van aparèixer al Barbican Centre al centre de Londres el setembre de 2017. Els murals, inspirats en l'exposició de Jean-Michel Basquiat al Barbican Centre, es van confirmar com a originals a les obres d'art de l'artista en una sèrie de publicacions a Instagram. Banksy va dir: \"El nou i important espectacle de Basquiat s'obre al Barbican, un lloc que normalment està molt interessat a netejar qualsevol graffiti de les parets\""},
-            {"image":"WESTON_SUPER_MARE.jpg", "audio":"WESTON_SUPER_MARE.mp3", "title": "WESTON SUPER MARE", "shortDesc": "Amb certa ironia, Banksy descriu aquesta obra d'art com “un tribut alegre a les grans ciutats costaneres britàniques”. \"Weston Super Mare\" presenta un avi assegut en un banc, amb les mans creuades sobre la falda, el seu bastó descansant amb ell, feliçment inconscient del perill que s'acosta en forma d'una serra circular que s'obre pas a través del passeig marítim."},
-            {"image":"BOMBING_MIDDLE_ENGLAND.jpg", "audio":"BOMBING_MIDDLE_ENGLAND.mp3", "title": "BOMBING MIDDLE ENGLAND", "shortDesc": "Les tres dones d’aquesta obra, que porten cascos molt semblants als que porten els soldats en una batalla, llencen bombes com si juguessin a la petanca sobre una gespa anglesa rigorosament cuidada. Aquesta peça desborda de crítiques molt destructives contra Anglaterra, la seva classe mitjana i els seus valors."},
-            {"image":"RAGE_FLOWER_THROWER_CCCP.jpg", "audio":"RAGE_FLOWER_THROWER_CCCP.mp3", "title": "FLOWER THROWER CCCP", "shortDesc": "El Llançador de Flors, potser una mostra més de la fascinació de Banksy per Lenin, està ubicat aquí enfront de les sigles de la seva herència."},
-            {"image":"GRAFFITI_IS_A_CRIME.jpg", "audio":"GRAFFITI_IS_A_CRIME.mp3", "title": "GRAFFITI IS A CRIME", "shortDesc": "El primer estergit de la sèrie novaiorquesa de l’octubre del 2013 no va durar gaire temps. Els nens que intentaven agafar el pot d’esprai pintat de dins d’un cartell real de prohibició es van cobrir ràpidament amb pintura blanca i el cartell va ser finalment retirat."},
-            {"image":"I_LOVE_NY.jpg", "audio":"I_LOVE_NY.mp3", "title": "I LOVE NY", "shortDesc": "En aquesta obra veiem un doctor auscultant la icona d’“I Love NY”, l’arxiconegut símbol de Nova York. El metge sembla estar prenent-li el pols a la ciutat, el cor de la qual havia estat bategant amb força i orgull en temps pretèrits. L’artista ens convida aquí a reflexionar sobre com ha evolucionat la urbs, potser des d’una certa nostàlgia d’una època daurada en la qual els artistes emergents es podien permetre viure a Nova York."},
-            {"image":"YOU_LOOT_WE_SHOOT.jpg", "audio":"YOU_LOOT_WE_SHOOT.mp3", "title": "YOU LOOT WE SHOOT", "shortDesc": "L’abril de 2018, Banksy va reconèixer oficialment ser l’autor de We loot, you shoot (Tu saqueges, nosaltres disparem), el mural que va aparèixer a Nova York de resultes d’un petit viatge que va fer pels Estats Units. L’obra mostra un home de negocis de la Borsa de Nova York (NYSE, New York Stock Exchange) ben vestit, que fuig amb un grapat de dòlars a les mans. Aquesta és la segona obra de Banksy que fa referència a la borsa i els mercats financers, i una altra punyent crítica del capitalisme. En les setmanes posteriors als huracans Katrina (2005), Ike (2008), Sandy (2012) i Harvey (2017), s’advertia als potencials lladres que s’havia habilitat un cos de justiciers amb dret a usar les armes per a qualssevol crims que atemptessin contra la propietat, i es va fer mitjançant cartells pintats a mà en els quals es podia llegir: “Tu saqueges, nosaltres disparem”. L’autorització per recórrer a la força letal per part de la policia es remunta al terratrèmol de San Francisco de 1906, quan l’alcalde Eugene Schmitz va declarar: “He autoritzat les tropes federals que patrullen part de la ciutat, així com els agents especials de la policia, per a matar qualsevol persona que trobin saquejant les propietats privades o cometent algun crim”. Des de 2005, han circulat testimoniatges de policies disparant ciutadans afroamericans a Nova Orleans després de l’huracà Katrina, especialment al barri d’Algiers Point. El 2010, el diari The New Orleans Times-Picayune va informar que els agents del Departament de Policia de Nova Orleans havien estat autoritzats per a disparar als saquejadors, encara que cap dels agents implicats en els 11 tirotejos amb civils va al·legar aquesta ordre en la seva defensa. L’alcalde Ray Nagin va demanar la declaració de la llei marcial per a respondre als saquejos generalitzats, però mancava de l’autoritat per a fer-ho."},
-            {"image":"CAMERAMAN_AND_FLOWER.jpg", "audio":"CAMERAMAN_AND_FLOWER.mp3", "title": "CAMERAMAN AND FLOWER", "shortDesc": "El càmera i la flor va aparèixer a la paret d’un coffee shop de Park City uns dies abans de l’estrena de la pel·lícula de Banksy Exit Through the Gift Shop, al festival de Sundance el 2010. Representa a on està disposada a arribar la gent per preservar la bellesa, tot i que, sovint, acabi destruint-la. En aquest cas, el càmera ha arrencat la flor per tal de filmar-la. "},
-            {"image":"FLAG_WALL.jpg", "audio":"FLAG_WALL.mp3", "title": "FLAG WALL", "shortDesc": "La col·locació d’una bandera nord-americana per part de joves a sobre d’un típic cotxe americà atrotinat remet a la batalla d’Iwo Jima, indicant la veritable naturalesa de las guerres que Amèrica ha lliurat a l’estranger. Ara bé, també és possible una lectura historicista de l’obra sobre l’optimisme de l’època posterior a la Segona Guerra Mundial als Estats Units."},
-            {"image":"FESTIVAL.jpg", "audio":"FESTIVAL.mp3", "title": "FESTIVAL", "shortDesc": "Festival, també conegut com Destroy Capitalism (Destruïm el capitalisme), és un stencil tricolor pintat el 2006. L’obra mostra un grup d’assistents a un festival de música que fan cua per a comprar samarretes, i es va fer per a la icònica exposició nord-americana de Banksy, Barely Legal, que va tenir lloc en un magatzem de Los Angeles l’any 2006. La paradoxa en aquesta peça radica en el fet que la gent està fent cua per a comprar una samarreta de 30 dòlars."},
-            {"image":"HAMMER_BOY.jpg", "audio":"HAMMER_BOY.mp3", "title": "HAMMER BOY", "shortDesc": "Ubicat en un mur de la botiga DSW (Design Shoe Warehouse), al carrer 79 de Broadway, a l’Upper West Side de Manhattan, és una de les obres d’art que Bansky va fer durant la seva estada a Nova York. El Noi del Martell ha estat conservat pel propietari de la botiga, que va fer-hi instal·lar una pantalla de plexiglàs, i ara és una atracció tant per als turistes com per als fans. La silueta senzilla del noi fa referència al popular joc de fira en el qual una persona intenta llançar un contrapès el més amunt possible mitjançant un cop sec amb un martell. L’ús de mobiliari urbà i objectes ordinaris com ara boques d’incendis o cartells en murs és una de les signatures de Banksy."},
-            {"image":"NO_TRESPASSING.jpg", "audio":"NO_TRESPASSING.mp3", "title": "NO TRESPASSING", "shortDesc": "En aquesta obra, Banksy mostra un natiu americà assegut al terra, lamentant-se de les desgràcies que va portar l’home blanc amb la seva intrusió. Va aparèixer en un mur del Mission District de San Francisco l’any 2010, però va ser ràpidament tapat per un altre grafit, i finalment ha estat cobert amb pintura."}
+        "Info": {
+            "Floor1Size": "14",
+            "Floor2Size": "33",
+            "Floor3Size": "58"
+        },
+        "Floor1": [
+            {
+                "image": "VENICE_IN_OIL.jpg",
+                "audio": "VENICE_IN_OIL.mp3",
+                "title": "VENICE IN OIL",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "Uns mesos despr\u00e9s d\u2019autodestruir el quadre que havia venut en una subhasta per 1,2 milions d\u2019euros, Banksy es va invitar a la 58a edici\u00f3 de la Biennal de Ven\u00e8cia. El seu anunci a Instagram va ser inequ\u00edvoc: \u00abEm disposo a instal\u00b7lar el meu stand a la Biennal de Ven\u00e8cia. Tot i ser l\u2019esdeveniment m\u00e9s important i prestigi\u00f3s del m\u00f3n, per alguna ra\u00f3, mai m\u2019hi han convidat\u00bb. Es tracta d\u2019una s\u00e8rie de quadres disposada sobre cavallets a mode de puzle, representant un creuer tur\u00edstic entre g\u00f2ndoles als canals de Ven\u00e8cia. Ven\u00e8cia en oli fa refer\u00e8ncia a l\u2019oli amb el qual est\u00e0 pintada l\u2019obra, per una banda, i a l\u2019oli amb el qual aquests vaixells contaminen les aig\u00fces per les que naveguen, per l\u2019altra. A m\u00e9s, \u00e9s una clara den\u00fancia al risc que assumeix la ciutat en acollir cada vegada m\u00e9s creuers plens de turistes. La seva publicaci\u00f3 a Instagram anava acompanyada d\u2019un v\u00eddeo en el que es veia un suposat venedor muntant la instal\u00b7laci\u00f3, seient acte seguit a l\u2019espera de compradors. Al cap d\u2019una estona, els carabinieri el desallotgen per estar all\u00e0 sense perm\u00eds."
+            },
+            {
+                "image": "MIGRANT_CHILD.jpg",
+                "audio": "MIGRANT_CHILD.mp3",
+                "title": "MIGRANT CHILD",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "A l\u2019illa de Dorsoduro, durant el vernissatge de la Biennal de Ven\u00e8cia, Banksy va fer aquest mural en el qual es veu un nen amb armilla salvavides sostenint una bengala encesa de color rosa. Un cop m\u00e9s, aqu\u00ed tamb\u00e9 es fa refer\u00e8ncia al sofriment dels migrants i els refugiats, en especial els m\u00e9s afectats: els nens. Creat el 2019, el tema de la Biennal d\u2019aquell any era \u201cMay you live in interesting times\u201d (Per a qu\u00e8 visqueu temps interessants), i es creu que aquesta obra va ser una resposta directa."
+            },
+            {
+                "image": "PARANOID_PICTURES.jpg",
+                "audio": "PARANOID_PICTURES.mp3",
+                "title": "PARANOID PICTURES",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "\u201cLa vostra ment funciona millor quan esteu paranoics. Exploreu totes les oportunitats i cada situaci\u00f3 a gran velocitat i amb clarivid\u00e8ncia total\u201d. Banksy a Banging Your Head Against A Brick Wall (Picant de cap contra un mur de ma\u00f3)."
+            },
+            {
+                "image": "MADONNA_WITH_A_GUN.jpg",
+                "audio": "MADONNA_WITH_A_GUN.mp3",
+                "title": "MADONNA WITH A GUN",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Aquesta obra \u00e9s probablement un comentari sobre la reputaci\u00f3 de la ciutat de N\u00e0pols, com una de les capitals del catolicisme devot i del crim organitzat, amb moltes m\u00e0fies. Mostra la Verge Maria amb els bra\u00e7os i la mirada enlaire cap al seu halo, al centre del qual hi flota un rev\u00f2lver. Per tal d\u2019assegurar-se de qu\u00e8 l\u2019obra no es destru\u00eds, un particular va decidir cobrir-la amb una pantalla protectora. El mural encara es pot veure al centre de N\u00e0pols."
+            },
+            {
+                "image": "BALLERINA.jpg",
+                "audio": "BALLERINA.mp3",
+                "title": "BALLERINA",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "La ballarina d'Edgar Degas pateix aqu\u00ed un canvi d'imatge ir\u00f2nic amb un dels accessoris m\u00e9s representatius de la societat moderna: la m\u00e0scara de gas."
+            },
+            {
+                "image": "THE_SON_OF_A_MIGRANT_FROM_SYRIA.jpg",
+                "audio": "THE_SON_OF_A_MIGRANT_FROM_SYRIA.mp3",
+                "title": "THE SON OF A MIGRANT FROM SYRIA",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "L\u201911 de desembre de 2015, Banksy va revelar la seva nova obra mural, pintada als murs d\u2019un camp de refugiats a Calais, coneguda com \u201cLa Jungla\u201d. A l\u2019obra es pot veure el fundador d\u2019Apple, Steve Jobs, com un refugiat siri\u00e0, amb el seu ic\u00f2nic coll alt, amb una gran bossa de pl\u00e0stic negre a l\u2019esquena i el primer ordinador Apple a la m\u00e0. Com a part d\u2019una s\u00e8rie de stencils pintats arreu del camp, aquesta pe\u00e7a \u00e9s una contundent den\u00fancia de l\u2019actual crisi migrat\u00f2ria a Europa, una picada d\u2019ullet a l\u2019origen real de l\u2019Steve Jobs, fill d\u2019un emigrant siri\u00e0 que es va instal\u00b7lar als Estats Units despr\u00e9s de la Segona Guerra Mundial. En una de les seves excepcionals intervencions, Banksy va dir: \u201cSovint se\u2019ns indueix a pensar que la immigraci\u00f3 \u00e9s una sagnia de recursos per a un pa\u00eds, per\u00f2 l\u2019Steve Jobs era fill d\u2019un migrant siri\u00e0. Apple \u00e9s l\u2019empresa m\u00e9s rendible del m\u00f3n i paga m\u00e9s de 7.000 milions de d\u00f2lars a l\u2019any en impostos, i solament existeix perqu\u00e8 van deixar-hi entrar un jove d\u2019Homs\u201d. En efecte, el pare de l\u2019Steve Jobs, Abdulfattah \u201cJohn\u201d Jandali, va n\u00e9ixer a Homs (una ciutat de S\u00edria, avui gaireb\u00e9 completament destru\u00efda per la guerra) i es va mudar als Estats Units per a estudiar. All\u00e0, va con\u00e8ixer la seva futura dona, Joanne Schieble, i el 1955 van donar el seu fill Steve en adopci\u00f3 a San Francisco. El grafit de l\u2019Steve Jobs de Banksy \u00e9s nom\u00e9s un dels que componen la s\u00e8rie d\u2019obres creades per l\u2019artista per a denunciar com s\u00f3n tractats els refugiats sirians a Calais, i arreu."
+            },
+            {
+                "image": "RATAS_A_LO_LARGO_DEL_SENA.jpg",
+                "audio": "RATAS_A_LO_LARGO_DEL_SENA.mp3",
+                "title": "RATAS A LO LARGO DEL SENA",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Un parell de rates caminant al llarg del riu Sena a Par\u00eds."
+            },
+            {
+                "image": "THE_RAFT_OF_THE_MEDUSA.jpg",
+                "audio": "THE_RAFT_OF_THE_MEDUSA.mp3",
+                "title": "THE RAFT OF THE MEDUSA",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Aquesta obra \u00e9s una par\u00f2dia del fam\u00f3s quadre de Th\u00e9odore Gericault Le radeau de la M\u00e9duse i mostra un creuer de luxe a l\u2019horitz\u00f3 i un rai ple de refugiats que somien amb diners i una vida estable a Anglaterra."
+            },
+            {
+                "image": "MAY_1968_RAT2.jpg",
+                "audio": "MAY_1968_RAT2.mp3",
+                "title": "MAY 1968 RAT",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Primera refer\u00e8ncia al 50\u00e8 aniversari del maig del 68 a Fran\u00e7a: la data apareix a sobre de la rata, per\u00f2 s\u2019ha retallat el n\u00famero 8 i nom\u00e9s en queda el puntejat. El trobem en horitzontal a sobre del seu cap, com si fossin les orelles d\u2019en Mickey. Potser els revolucionaris del maig del 68 van acabar esdevenint consumidors a sou de les grans corporacions?"
+            },
+            {
+                "image": "LITTLE_GIRL_COVERING_A_SWASTIKA.jpg",
+                "audio": "LITTLE_GIRL_COVERING_A_SWASTIKA.mp3",
+                "title": "LITTLE GIRL COVERING A SWASTIKA",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Quan Banksy va arribar a Par\u00eds per cobrir gaireb\u00e9 9 parets, va ser al voltant del 20 de juny del 2018, el Dia Mundial dels Refugiats. Aquest treball de Banksy \u00e9s el m\u00e9s comprom\u00e8s pol\u00edticament entre els que va crear a Par\u00eds. El va pintar no gaire lluny del Centre de Premier Accueil Humanitaire (Centre de Primera Recepci\u00f3 Humanit\u00e0ria - tancat per decisi\u00f3 de l'Estat el 2018), i representa una nena que est\u00e0 intentant tapar una esv\u00e0stica. Ing\u00e8nuament pensa que la pot fer desapar\u00e8ixer amb rosa past\u00eds i patrons d'un tap\u00eds, una creu nazi molt present i prominent."
+            },
+            {
+                "image": "BATACLAN.jpg",
+                "audio": "BATACLAmp3",
+                "title": "BATACLAN",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Aquesta obra, que representa una persona amb un vel i inclinant el cap, \u00e9s l'homenatge de Banksy a les v\u00edctimes i supervivents de l'atemptats terroristes del 13 de novembre del 2015 a Par\u00eds, durant el qual militants de l'Estat Isl\u00e0mic van matar 90 espectadors a la sala de concerts Bataclan, i desenes de persones a l'altra banda de la ciutat durant diversos atacs. \u201cL'obra de Banksy, s\u00edmbol de la meditaci\u00f3 i pertanyent a tots: residents, parisencs, ciutadans del m\u00f3n, ens va ser robat\u201d, llegim al compte de Twitter de Batacl\u00e1n el 26 Gener de 2019."
+            },
+            {
+                "image": "MAN_WITH_A_DOG.jpg",
+                "audio": "MAN_WITH_A_DOG.mp3",
+                "title": "MAN WITH A DOG",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "A la rue Victor Cousin ubicada al districte 5 de Par\u00eds, hi ha una obra particularment cruel: un home li lliura un os a un gos. Res de cruel, podries dir... excepte que l'os prov\u00e9 de la pr\u00f2pia pota del gos."
+            },
+            {
+                "image": "BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.jpg",
+                "audio": "BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.mp3",
+                "title": "BONAPARTE CROSSING THE GRAND-SAINT-BERNARD",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Aquest treball for\u00e7a sorprenent mostra fins a quin punt Banksy \u00e9s capa\u00e7 de reinterpretar (o desviar, jutjar\u00e0s per tu mateix) obres cl\u00e0ssiques. Aqu\u00ed hi ha el quadre \"Bonapart creuant el Gran Pas de Sant Bernat\" (1800-1803) de Jacques-Louis David. En la seva versi\u00f3, Banksy conserva la majestuosa postura del cavall, per\u00f2 Bonaparte \u00e9s reempla\u00e7at per un personatge empresonat a la capa de l'emperador. Alguns interpretaran aquest treball com \"la ceguesa\" de les autoritats franceses davant del fenomen migratori."
+            },
+            {
+                "image": "MAY_1968_RAT.jpg",
+                "audio": "MAY_1968_RAT.mp3",
+                "title": "MAY 1968 RAT",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Una primera refer\u00e8ncia al 50\u00e8 aniversari dels esdeveniments del 68 de maig a Fran\u00e7a: la data apareix sobre el cap d'aquesta rata, per\u00f2 el 8 ha estat tallat i nom\u00e9s queden l\u00ednies de punts. S'asseu horitzontalment sobre el seu cap, com les orelles de Mickey Mouse. La rata tamb\u00e9 utilitza el lla\u00e7 vermell de Minnie amb lunars blancs, una al\u00b7lusi\u00f3 ir\u00f2nica a Disney. S'han convertit els revolucionaris del maig del 1968 consumidors de grans corporacions?"
+            }
+        ],
+        "Floor2": [
+            {
+                "image": "NO_FUTURE.jpg",
+                "audio": "NO_FUTURE.mp3",
+                "title": "NO FUTURE",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "Un nen assegut a terra sost\u00e9 amb la m\u00e0 un globus que forma la \"O\" de \"NO FUTURE\". Aquesta pintura, com moltes altres, va ser coberta poc despr\u00e9s. El toc po\u00e8tic de Banksy gaireb\u00e9 ens fa oblidar la visi\u00f3 pessimista que es pot trobar a moltes de les seves obres."
+            },
+            {
+                "image": "THERE_IS_ALWAYS_HOPE.jpg",
+                "audio": "THERE_IS_ALWAYS_HOPE.mp3",
+                "title": "THERE IS ALWAYS HOPE",
+                "year": "2002",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Apareixent originalment a Londres, al districte de South Bank, aquest treball \u00e9s sense dubte un dels m\u00e9s emblem\u00e0tics de Banksy. Hi ha moltes interpretacions, per\u00f2 estem d'acord que aquesta noia intenta atrapar o deixa volar un globus vermell en la forma d'un cor (el vermell \u00e9s l'\u00fanic color d'aquesta plantilla). El globus representa un s\u00edmbol de fragilitat, innoc\u00e8ncia, esperan\u00e7a o amor. Intentar\u00e0 atrapar-ho o deixar\u00e0 que el globus s\u2019escapi?"
+            },
+            {
+                "image": "SEASONS_GREETINGS.jpg",
+                "audio": "SEASONS_GREETINGS.mp3",
+                "title": "SEASONS GREETINGS",
+                "year": "2018",
+                "location": "Port Talbot / Gales",
+                "shortDesc": "L'hivern s'ha establert a Gal\u00b7les. Els nens juguen a la neu. Per\u00f2, quan el mires m\u00e9s d\u2019aprop, t'adones que no s\u00f3n flocs de neu i que aquest nen est\u00e0 intentant atrapar les cendres d'un contenidor en flames o un contenidor d'escombraries. Banksy va crear aquest mural a les parets d'un garatge quan Port Talbot va ser classificat tristament entre els llocs m\u00e9s contaminats al Regne Unit (dades de l'OMS): la ind\u00fastria de l'acer va estar particularment activa i present all\u00e0."
+            },
+            {
+                "image": "KISSING_COPPERS.jpg",
+                "audio": "KISSING_COPPERS.mp3",
+                "title": "KISSING COPPERS",
+                "year": "2005",
+                "location": "Brighton / Reino Unido",
+                "shortDesc": "Sacsejar l'ordre establert per\u00f2 enviar un missatge que parla a tothom: no \u00e9s la primera vegada que l'artista fa aquest tipus d'acci\u00f3 art\u00edstica. L'obra de Banksy creada al centre de Brighton es va obrir cam\u00ed per ser subhastada el 2014 a Miami per la suma de 520.000 euros (el comprador va romandre a l'anonimat)."
+            },
+            {
+                "image": "KATE_MOSS.jpg",
+                "audio": "KATE_MOSS.mp3",
+                "title": "KATE MOSS",
+                "year": "2008",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Aquesta s\u00e8rie \u00e9s un clar homenatge a la ic\u00f2nica Marilyn Monroe d\u2019Andy Warhol, tant en el fons com en la forma. En aquest cas, Banksy combina la cara de Kate Moss amb la de Monroe, superposant el pentinat d\u2019aquesta \u00faltima sobre el rostre de la primera."
+            },
+            {
+                "image": "WELL_HUNG_LOVER.jpg",
+                "audio": "WELL_HUNG_LOVER.mp3",
+                "title": "WELL HUNG LOVER",
+                "year": "2008",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Aqu\u00ed Banksy juga amb les paraules i aquest doble sentit: el t\u00edtol significa literalment \"ben penjat\", per\u00f2 tamb\u00e9 es refereix en llenguatge del carrer un home ben dotat. Aquesta plantilla va apar\u00e8ixer a la paret d'una cl\u00ednica de salut sexual a Bristol el 2008. Banksy va dir m\u00e9s tard que no tenia coneixement del lloc on el va pintar..."
+            },
+            {
+                "image": "SMILEY_GRIN_REAPER.jpg",
+                "audio": "SMILEY_GRIN_REAPER.mp3",
+                "title": "SMILEY GRIN REAPER",
+                "year": "2010",
+                "location": "London / UK Shoreditch",
+                "shortDesc": "La mort, representada de diferents maneres, \u00e9s un tema recurrent amb Banksy. En aquesta versi\u00f3, afegeix un cap en forma de smiley groc per desafiar-nos una vegada m\u00e9s: per associar un personatge sinistre amb aquest s\u00edmbol for\u00e7a simp\u00e0tic de la cultura dels 90, ens transporta entre el b\u00e9 i el mal, i es riu de nosaltres, pobre mortals i condemnats com som. Aquest mural \u00e9s al mateix barri on Banksy va operar amb el seu col\u00b7lectiu DryBreadZ Crew en els seus primers dies"
+            },
+            {
+                "image": "ANGEL_IN_BULLETPROOF_VEST.jpg",
+                "audio": "ANGEL_IN_BULLETPROOF_VEST.mp3",
+                "title": "ANGEL IN BULLETPROOF VEST",
+                "year": "2010",
+                "location": "London / UK Shoreditch",
+                "shortDesc": "Banksy va pintar aquest \u00e0ngel amb una armilla antibales i un crani hum\u00e0 a la m\u00e0 l\u2019any 2007, en homenatge a Ozone, l\u2019artista urb\u00e0 que va morir en un accident de tren. Juntament amb \u00c0ngel caigut (una altra de les seves obres), aquest estergit popular ha acabat transcendint la pol\u00e8mica del seu suposat atac a la religi\u00f3."
+            },
+            {
+                "image": "BOMB_HUGGER.jpg",
+                "audio": "BOMB_HUGGER.mp3",
+                "title": "BOMB HUGGER",
+                "year": "2003 ",
+                "location": "London / UK",
+                "shortDesc": "Banksy destaca l'atractiu de les nostres societats modernes per la guerra, i en particular amb aquestes bombes creades per les f\u00e0briques m\u00e9s grans del Regne Unit i venudes com a joguines a tot el m\u00f3n. Condemna els qui presenten la guerra com un component essencial de la \"democr\u00e0cia\" per tal de promoure o exportar llibertat, democr\u00e0cia i pau. A no ser que, com ell afegeix amb una nota d'esperan\u00e7a, l'amor i la innoc\u00e8ncia superaran l'instint guerrer dels homes."
+            },
+            {
+                "image": "GAME_CHANGER.jpg",
+                "audio": "GAME_CHANGER.mp3",
+                "title": "GAME CHANGER",
+                "year": "2003 ",
+                "location": "London / UK",
+                "shortDesc": "Aquesta obra va apar\u00e8ixer per primer cop a l\u2019entrada del servei d\u2019urg\u00e8ncies de l\u2019hospital de Southampton el maig del 2020, durant la primera onada de la pand\u00e8mia al Regne Unit. S\u2019acompanyava d\u2019una nota que deia: \u00abGr\u00e0cies per tot el que feu. Espero que aix\u00f2 il\u00b7lumini una mica aquest espai, tot i ser en blanc i negre.\u00bb L\u2019obra representa un nen jugant amb un ninot, per\u00f2 havent deixat de banda els seus superherois habituals, sost\u00e9 una infermera de joguina vestida amb capa, fent-la volar com Superman. Banksy va donar l\u2019obra a l\u2019hospital. Game Changer es va vendre el 23 de mar\u00e7 del 2021 per gaireb\u00e9 20 milions d\u2019euros a la casa de subhastes londinenca Christie\u2019s, convertint-se en l\u2019obra de Banksy m\u00e9s cara de la hist\u00f2ria, nom\u00e9s un any i un dia despr\u00e9s del primer confinament al Regne Unit."
+            },
+            {
+                "image": "AACHOO.jpg",
+                "audio": "AACHOO.mp3",
+                "title": "AACHOO",
+                "year": "2003 ",
+                "location": "London / UK",
+                "shortDesc": "L\u2019artista va publicar una foto del grafit en plena pand\u00e8mia al seu compte d\u2019Instagram (aix\u00ed \u00e9s com confirma la seva autoria, normalment). A l\u2019obra \u201cAtxim!!\u201d, pintada sobre un mur d\u2019una casa verda, es veu com una dona gran amb un mocador al cap esternuda fort i perd la dentadura postissa. Com que el mur en q\u00fcesti\u00f3 es troba al principi de Vale Street, un dels carrers m\u00e9s empinats d\u2019Anglaterra, en una de les fotos publicades per Banksy sembla que l\u2019esternut de la dona hagi fet caure un contenidor d\u2019escombraries i hagi inclinat les cases del voltant."
+            },
+            {
+                "image": "PISSING_SOLDIER.jpg",
+                "audio": "PISSING_SOLDIER.mp3",
+                "title": "PISSING SOLDIER",
+                "year": "2002",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Una de les grans fortaleses de Banksy \u00e9s la seva capacitat per utilitzar l'entorn i el context en qu\u00e8 es creen les seves plantilles, no nom\u00e9s per millorar les seves creacions, sin\u00f3 tamb\u00e9 per refor\u00e7ar-ne l'impacte. Aix\u00f2 \u00e9s el que ens ofereix aqu\u00ed, amb aquest cant del carrer que sovint \u00e9s testimoni de nits i dies estridents, i amb aquest mur utilitzat per alguns assidus, impacients per poder fer les seves necessitats. El que crida l'atenci\u00f3 del transe\u00fcnt \u00e9s aquesta creaci\u00f3 art\u00edstica que es barreja amb una realitat objectiva (un edifici, una paret, sons, colors, olors, objectes, etc.) per crear una nova realitat. Afegeix un personatge que se suposa que representa l?autoritat en una postura incongruent, i tindr\u00e0s el c\u00f2ctel perfecte d?un inconformista i reaccionari Banksy."
+            },
+            {
+                "image": "IF_GRAFFITI_CHANGED_ANYTHING.jpg",
+                "audio": "IF_GRAFFITI_CHANGED_ANYTHING.mp3",
+                "title": "IF GRAFFITI CHANGED ANYTHING",
+                "year": "2011",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Aquest treball va apar\u00e8ixer en un moment complicat per a artistes de carrer: van ser perseguits, arrestats, processats i, de vegades, empresonats. Banksy va crear aquesta plantilla el dilluns de Pasqua del 2011 en una paret a Fitzrovia, al centre de Londres. El color vermell es fa servir per escriure aquesta frase plena d'ironia i tamb\u00e9 per a la rata (l'animal preferit de Banksy) que marca amb la seva for\u00e7a l'autoria d'aquesta frase."
+            },
+            {
+                "image": "NO_BALL_GAMES.jpg",
+                "audio": "NO_BALL_GAMES.mp3",
+                "title": "NO BALL GAMES",
+                "year": "2009",
+                "location": "Tottenham / Reino Unido",
+                "shortDesc": "Aquesta obra va apar\u00e8ixer per primera vegada en llen\u00e7 el 2006 durant l'exposici\u00f3 \u201cBarely Legal\u201d, que Banksy estava organitzant a l'\u00c0rea de Skid Row del centre de Los Angeles. Tres anys despr\u00e9s, Banksy va reproduir l'obra com a mural a Tottenham, al nord de Londres, a la paret d'una botiga ubicada a la cru\u00eflla entre Tottenham High Road i Philip Lane. M\u00e9s tard, el 2009, Banksy va publicar una edici\u00f3 signada de 250 impressions de \"No Ball Games\" sobre un fons verd i blocs grisos. El 2013, es va eliminar el mural de Tottenham pel Sincura Group. Estava dividit en tres peces i es va vendre per al voltant de 500.000 lliures esterlines, que es van utilitzar principalment per ajudar nens desafavorits."
+            },
+            {
+                "image": "SLAVE_LABOUR.jpg",
+                "audio": "SLAVE_LABOUR.mp3",
+                "title": "SLAVE LABOUR",
+                "year": "2012",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Banksy va pintar aquesta obra a mitjans de maig del 2012. Un nen, agenollat \u200b\u200bdavant d'una m\u00e0quina de cosir, arma pancartes compostes per Union Jacks (la bandera del Regne Unit). Avui encara hi ha tres possibles interpretacions d'aquesta obra: la primera seria una condemna de l'\u00fas de nens a tallers clandestins per fabricar mercaderies (Banksy assenyala el dit entre d'altres a la cadena de botigues Poundland). El segon seria un atac sat\u00edric a la monarquia brit\u00e0nica i el Jubileu de Diamant de la Reina Isabel II. La reina va celebrar 60 anys al tron \u200b\u200baquell any. Finalment, podria ser una interpretaci\u00f3 directament vinculada a l'organitzaci\u00f3 dels Jocs Ol\u00edmpics d'Estiu de 2012 que es celebrarien a Londres unes setmanes m\u00e9s tard, i que en particular va veure les botigues de souvenirs proliferar per tota la ciutat."
+            },
+            {
+                "image": "GRANNIES.jpg",
+                "audio": "GRANNIES.mp3",
+                "title": "GRANNIES",
+                "year": "2006",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Dues \u00e0vies cosint violents esl\u00f2gans de punk rock amb un somriure a la cara. L\u2019obra representa la compassi\u00f3 de les persones grans envers el jovent, recordant els temps pret\u00e8rits en qu\u00e8 el cos f\u00edsic, sense rastre de desgast, desbordava rebel\u00b7lia. Es va mostrar per primera vegada com a pintura a la ic\u00f2nica exposici\u00f3 de Banksy, Barely Legal, que va tenir lloc en un magatzem de Los Angeles el 2006."
+            },
+            {
+                "image": "POLICE_KIDS.jpg",
+                "audio": "POLICE_KIDS.mp3",
+                "title": "POLICE KIDS",
+                "year": "2006",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Banksy uneix aqu\u00ed imatge emblem\u00e0tica i humor irreverent en una proesa de la qual nom\u00e9s ell coneix el secret. Il\u00b7lustrant a la perfecci\u00f3 la innoc\u00e8ncia riallera de Jack i Jill, aquest retrat id\u00edl\u00b7lic queda enfosquit per Les armilles antibales de la policia que porten per protegir-se. Banksy expressa el seu menyspreu per les forces de l'ordre."
+            },
+            {
+                "image": "KISSING_COPPERS.jpg",
+                "audio": "KISSING_COPPERS.mp3",
+                "title": "KISSING COPPERS",
+                "year": "2005",
+                "location": "Brighton / Reino Unido",
+                "shortDesc": "Sacsejar l'ordre establert per\u00f2 enviar un missatge que parla a tothom: no \u00e9s la primera vegada que l'artista fa aquest tipus d'acci\u00f3 art\u00edstica. L'obra de Banksy creada al centre de Brighton es va obrir cam\u00ed per ser subhastada el 2014 a Miami per la suma de 520.000 euros (el comprador va romandre a l'anonimat)."
+            },
+            {
+                "image": "RUDE_COPPER.jpg",
+                "audio": "RUDE_COPPER.mp3",
+                "title": "RUDE COPPER",
+                "year": "2002",
+                "location": "",
+                "shortDesc": "\u201cRUDE COPPER\u201d va ser la primera impressi\u00f3 comercial de Banksy, llan\u00e7ada el 2002 i, com el seu nom ho indica, \u00e9s una obra for\u00e7a provocativa amb una elaborada profunditat de camp, en qu\u00e8 la m\u00e0 estesa que fa el gest groller pren el centre de l\u2019escenari. \u00c9s la primera impressi\u00f3 comercial de Banksy."
+            },
+            {
+                "image": "DISMALAND_EPHEMERA.jpg",
+                "audio": "DISMALAND_EPHEMERA.mp3",
+                "title": "DISMALAND EPHEMERA",
+                "year": "2015",
+                "location": "",
+                "shortDesc": "Una obra d'art descoratjadora de Dismaland, el Bemusement Park, un dels espectacles de Banksy."
+            },
+            {
+                "image": "STOP_AND_SEARCH2.jpg",
+                "audio": "STOP_AND_SEARCH.mp3",
+                "title": "STOP AND SEARCH",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "Els l\u00edmits irracionals que pot assolir un estat de seguretat s\u00f3n meravellosament exemplificats amb Dorothy de \u201cEl Mag d'Oz\u201d sent registrada per un oficial de policia."
+            },
+            {
+                "image": "MORONS.jpg",
+                "audio": "MORONS.mp3",
+                "title": "MORONS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "\u201cEm sembla que la millor manera de guanyar diners fora de l'art \u00e9s ni tan sols intentar-ho. No es necessita gaire per ser un artista reeixit, tot el que necessites fer \u00e9s dedicar-hi tota la vida. El que la gent m\u00e9s admirava de Picasso no era el seu equilibri entre la feina i la vida\u201d. - Banksy, Village Voice 2013"
+            },
+            {
+                "image": "GORILLA_IN_A_PINK_MASK.jpg",
+                "audio": "GORILLA_IN_A_PINK_MASK.mp3",
+                "title": "GORILLA IN A PINK MASK",
+                "year": "2003",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Es va pintar sobre el mur exterior d\u2019un antic club social de Bristol, que poc despr\u00e9s va esdevenir un centre cultural musulm\u00e0. El director del centre va recobrir l\u2019obra inconscientment i m\u00e9s tard va assegurar als diaris que: \u201cPensava que es tractava d\u2019un grafit qualsevol, no sabia que tenia valor. Per aix\u00f2 vaig fer que hi pintessin a sobre\u201d. L\u2019obra va ser restaurada i posteriorment venuda, i els diners es van destinar a reformar l\u2019edifici i a ajudar a la comunitat."
+            },
+            {
+                "image": "THE_GRIN_REAPER.jpg",
+                "audio": "THE_GRIN_REAPER.mp3",
+                "title": "THE GRIN REAPER",
+                "year": "2003",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Pintat originalment el 2003 al costat de Thekla, amarrat al port de Bristol (que es va convertir en un vaixell de concerts), aquesta obra va ser tallada el 2014 per ser analitzada i despr\u00e9s guardada al M Shed Museum del cobert a Bristol. Actualment s'hi conserva per prevenir el deteriorament i desgast del temps."
+            },
+            {
+                "image": "SWEEP_IT_UNDER_THE_CARPET.jpg",
+                "audio": "SWEEP_IT_UNDER_THE_CARPET.mp3",
+                "title": "SWEEP IT UNDER THE CARPET",
+                "year": "2007",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "The London Maid pot ser l'assistent de neteja en una habitaci\u00f3 d'hotel de Los Angeles on es va allotjar Banksy. A trav\u00e9s de les implicacions aqu\u00ed una vegada m\u00e9s ressona amb proverbial ironia: Escombrar sota la catifa, reprimir els desitjos il\u00b7l\u00edcits, nom\u00e9s serveix per colpejar en el rebuig del nostre inconscient, el mur refractari i de morter, de les ciutats on vivim. No importa quant netegem, o a qui emprem per fer-ho, la devoluci\u00f3 del reprimit \u00e9s inevitable, encara que disfressat a les parets vivim al mig tot aix\u00f2."
+            },
+            {
+                "image": "DEVOLVED_PARLIAMENT.jpg",
+                "audio": "DEVOLVED_PARLIAMENT.mp3",
+                "title": "DEVOLVED PARLIAMENT",
+                "year": "2007",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Parlament Involucionat es va crear per a l\u2019exposici\u00f3 de Banksy del Museu de Bristol el 2009, que va atreure m\u00e9s de 300.000 visitants i es va considerar una de les exposicions m\u00e9s visitades del m\u00f3n aquell any. L\u2019obra mostra la Cambra dels Comuns del Regne Unit enva\u00efda per primats parlamentaris i es va vendre en subhasta pel preu r\u00e8cord de 12,2 milions de d\u00f2lars. \u201cLl\u00e0stima que ja no em pertany\u00e9s\u201d, va escriure Banksy a Instagram. El t\u00edtol original de la pintura era Question Time (Torn de preguntes) i es va presentar a temps per al dia oficial del Brexit, al mar\u00e7, per\u00f2 es va retocar i se li va canviar el t\u00edtol posteriorment. Ara inclou llums apagats i un dels ximpanz\u00e9s sostenint una banana de cap per avall. Banksy va afegir: \u201cRiu mentre puguis, per\u00f2 un dia ning\u00fa estar\u00e0 al c\u00e0rrec\u201d."
+            },
+            {
+                "image": "SNORTING_COPPER.jpg",
+                "audio": "SNORTING_COPPER.mp3",
+                "title": "SNORTING COPPER",
+                "year": "2006",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Pensem que estava perdut fa molt de temps. Aquest treball, conegut com a \u201cSnorting Copper\u201d, mostra un policia agenollat esnifant una l\u00ednia de coca\u00efna. Va apar\u00e8ixer a la paret d'uns inodors p\u00fablics el 2006, despr\u00e9s va ser objecte de vandalisme i finalment cobert per funcionaris locals. Van ser uns promotors immobiliaris que, despr\u00e9s de comprar l'edifici per convertir-lo en habitatges i negocis, van redescobrir la plantilla. Un cop es va prendre la decisi\u00f3 de restaurar-ho, la paret va ser tallada, moguda ma\u00f3 a ma\u00f3 per ser restaurada per un especialista. Despr\u00e9s de m\u00e9s de 4 mesos de feina, la paret va ser cimentada i reinstal\u00b7lada al seu lloc d'origen per al delit dels ve\u00efns del barri... i del policia que, segons el rumor, ja s'havia divertit fins aquell moment."
+            },
+            {
+                "image": "KEITH_HARING_DOG.jpg",
+                "audio": "KEITH_HARING_DOG.mp3",
+                "title": "KEITH HARING DOG",
+                "year": "2010",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "L'obra mostra un home encaputxat vestit amb roba fosca i un mocador que amaga la cara. A trav\u00e9s d'aquesta imatge recurrent, Banksy ens presenta un jove brit\u00e0nic, oci\u00f3s i insatisfet. L'aparen\u00e7a amena\u00e7adora d'un home sostenint un gran gos bordant amb una corretja (un homenatge al fam\u00f3s gos bordador de l'artista nord-americ\u00e0 Keith Haring) contrasta amb la seva relaxada postura, la m\u00e0 a la butxaca. El contrast tamb\u00e9 est\u00e0 marcat pels estils utilitzats: hiperrealista per al personatge i ingenu per al gos. Segons la mateixa explicaci\u00f3 de Banksy, el gos ha esdevingut una nova arma als carrers del Regne Unit. L'agost del 2016, el plexigl\u00e0s que s'havia instal\u00b7lat per protegir l'obra es va anar cobrint gradualment amb cartells i volants, fent que la imatge de Banksy sigui completament invisible. Es desconeix si encara \u00e9s al mateix lloc."
+            },
+            {
+                "image": "DON\u2019T_BELIEVE_THE_TYPE.jpg",
+                "audio": "DON\u2019T_BELIEVE_THE_TYPE.mp3",
+                "title": "DON\u2019T BELIEVE THE TYPE",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Les paraules al final d'aquesta pe\u00e7a \"PLEASE TAKE YOUR LITTER HOME\", \u00e9s el comentari m\u00e9s important aqu\u00ed, que il\u00b7lustra Banksy i presenta la seva opini\u00f3 per a qu\u00e8 s\u00f3n els espais p\u00fablics i la del sistema."
+            },
+            {
+                "image": "STICK_POLICE.jpg",
+                "audio": "STICK_POLICE.mp3",
+                "title": "STICK POLICE",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "El contrast entre els elaborats moviments f\u00edsics que la policia exhibeix quan persegueix un criminal \u00e9s suficient per fer brillant aquesta pe\u00e7a. No obstant aix\u00f2, tamb\u00e9 pot veure un rid\u00edcul dels \"valents\" esfor\u00e7os de la policia per perseguir artistes de carrer, o qualsevol altra persona: una caricatura de l'home del carrer."
+            },
+            {
+                "image": "MOBILE_LOVERS.jpg",
+                "audio": "MOBILE_LOVERS.mp3",
+                "title": "MOBILE LOVERS",
+                "year": "2014",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Dos amants, abra\u00e7ats, disposats a besar-se... I tanmateix, estan molt m\u00e9s interessats en el tel\u00e8fon que en aquesta abra\u00e7ada que probablement oblidaran aviat. Les tecnologies s\u00f3n omnipresents a les nostres societats, ia poc a poc ens envolten i saturen les oportunitats que hem deixat per intercanviar i comunicar. Aquest \u00e9s el missatge que Banksy vol enviar: denuncia la nostra depend\u00e8ncia de les tecnologies (siguin les que siguin) i posa el dit als nostres desitjos d'hiperconnectivitat, les nostres necessitats d'instantane\u00eftat i immediatesa, per mostrar-nos que el m\u00e9s simple i pur de les relacions ja no s\u00f3n possibles. Apareixent en una porta dels lluitadors Broad Plains Boys Club a Bristol, finalment es va vendre un col\u00b7leccionista privat per 470.000 euros per salvar el club d'un tancament que semblava inevitable."
+            },
+            {
+                "image": "BURNING_TYRE.jpg",
+                "audio": "BURNING_TYRE.mp3",
+                "title": "BURNING TYRE",
+                "year": "2016",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Estimat Bridge Farm School, Gr\u00e0cies per la vostra carta i per posar-me el meu nom a una casa. Si us plau, tingueu una imatge, si no us agrada, no dubteu a afegir coses. Estic segur que als professors no els importar\u00e0. Recordeu, sempre \u00e9s m\u00e9s f\u00e0cil obtenir el perd\u00f3 que el perm\u00eds\u201d. Una carta de Banksy als nens de Bridge Farm Elementary Col\u00b7legi. El director de l'escola va agrair a Banksy, assegurant que la feina es mantindr\u00e0 com ha de ser."
+            },
+            {
+                "image": "GUN_CLOWN.jpg",
+                "audio": "GUN_CLOWN.mp3",
+                "title": "GUN CLOWN",
+                "year": "2016",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Va apar\u00e8ixer al centre de Bristol, concretament al carrer Hotwell Road. L\u2019obra mostra com una figura confiable, en aquest cas, un pallasso amb pistoles, pot esdevenir una representaci\u00f3 de viol\u00e8ncia i destrucci\u00f3; i com la innoc\u00e8ncia i la confian\u00e7a es poden fer miques amb molta facilitat."
+            }
+        ],
+        "Floor3": [
+            {
+                "image": "TRIBUTE_TO_BASQUIAT.jpg",
+                "audio": "TRIBUTE_TO_BASQUIAT.mp3",
+                "title": "TRIBUTE TO BASQUIAT",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Dues noves obres d'art de Banksy van apar\u00e8ixer al Barbican Centre al centre de Londres el setembre de 2017. Els murals, inspirats en l'exposici\u00f3 de Jean-Michel Basquiat al Barbican Centre, es van confirmar com a originals a les obres d'art de l'artista en una s\u00e8rie de publicacions a Instagram. Banksy va dir: \"El nou i important espectacle de Basquiat s'obre al Barbican, un lloc que normalment est\u00e0 molt interessat a netejar qualsevol graffiti de les parets\""
+            },
+            {
+                "image": "MORONS.jpg",
+                "audio": "MORONS.mp3",
+                "title": "MORONS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "\u201cEm sembla que la millor manera de guanyar diners fora de l'art \u00e9s ni tan sols intentar-ho. No es necessita gaire per ser un artista reeixit, tot el que necessites fer \u00e9s dedicar-hi tota la vida. El que la gent m\u00e9s admirava de Picasso no era el seu equilibri entre la feina i la vida\u201d. - Banksy, Village Voice 2013"
+            },
+            {
+                "image": "WESTON_SUPER_MARE.jpg",
+                "audio": "WESTON_SUPER_MARE.mp3",
+                "title": "WESTON SUPER MARE",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Amb certa ironia, Banksy descriu aquesta obra d'art com \u201cun tribut alegre a les grans ciutats costaneres brit\u00e0niques\u201d. \"Weston Super Mare\" presenta un avi assegut en un banc, amb les mans creuades sobre la falda, el seu bast\u00f3 descansant amb ell, feli\u00e7ment inconscient del perill que s'acosta en forma d'una serra circular que s'obre pas a trav\u00e9s del passeig mar\u00edtim."
+            },
+            {
+                "image": "HAPPY_CHOPPER_CRUDE_OIL.jpg",
+                "audio": "HAPPY_CHOPPER_CRUDE_OIL.mp3",
+                "title": "HAPPY CHOPPER CRUDE OIL",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Se sap que Banksy solia comprar obres d'art del mercat de puces i modificar-ne les obres. Les interpretacions originals, generalment pastitxes de paisatges antics o cl\u00e0ssics retrats, han estat pintats auda\u00e7ment per l'artista amb una iconografia contempor\u00e0nia. A sobre del casc d'acer gris de l'helic\u00f2pter de plom s'asseu un lla\u00e7 groc."
+            },
+            {
+                "image": "BOMBING_MIDDLE_ENGLAND.jpg",
+                "audio": "BOMBING_MIDDLE_ENGLAND.mp3",
+                "title": "BOMBING MIDDLE ENGLAND",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Les tres dones d\u2019aquesta obra, que porten cascos molt semblants als que porten els soldats en una batalla, llencen bombes com si juguessin a la petanca sobre una gespa anglesa rigorosament cuidada. Aquesta pe\u00e7a desborda de cr\u00edtiques molt destructives contra Anglaterra, la seva classe mitjana i els seus valors."
+            },
+            {
+                "image": "NAPALM.jpg",
+                "audio": "NAPALM.mp3",
+                "title": "NAPALM",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "La aterridora foto d'una nena de nou anys anomenada Kim Phuc, presa durant la guerra del Vietnam (1972) \u00e9s un flagrant atac al consumisme i pol\u00edtica exterior dels Estats Units. Mickey Mouse i Ronald McDonald sostenen amb alegria la nena de la m\u00e0, gaireb\u00e9 semblen arrogants en els seus somriures, mentre que aquesta pobra noia est\u00e0 cridant, corrent i intentant escapar."
+            },
+            {
+                "image": "GANGSTA_RAT.jpg",
+                "audio": "GANGSTA_RAT.mp3",
+                "title": "GANGSTA RAT",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "\u201cExisteixen sense perm\u00eds. S\u00f3n odiats, ca\u00e7ats i perseguits. Viuen en silenciosa desesperaci\u00f3 entre la brut\u00edcia. I, tanmateix, s\u00f3n capa\u00e7os de posar fi a civilitzacions senceres.\u201d - Banksy"
+            },
+            {
+                "image": "UMBRELLA_RAT.jpg",
+                "audio": "UMBRELLA_RAT.mp3",
+                "title": "UMBRELLA RAT",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "The Umbrella Rat \u00e9s una de les creacions de rates de Banksy. La rata amb un paraigua, amb barret i corbata, sostenint un malet\u00ed que suggereix un empresari sense escr\u00fapols, mirant cap amunt al cel."
+            },
+            {
+                "image": "THE_LOVE_RAT.jpg",
+                "audio": "THE_LOVE_RAT.mp3",
+                "title": "THE LOVE RAT",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "\u201cTHE LOVE RAT\u201d \u00e9s una pe\u00e7a particularment compassiva, at\u00e8s que la rata agafa el raspall com una damisela llesta per un pet\u00f3."
+            },
+            {
+                "image": "HMV.jpg",
+                "audio": "HMV.mp3",
+                "title": "HMV",
+                "year": "2003 ",
+                "location": "",
+                "shortDesc": "L'\u00fas de Banksy de la dicotomia amo-esclau en refer\u00e8ncia a humans-animals aquesta vegada porta el gos escoltant la veu del seu amo, preparat per bombardejar-lo a trossos."
+            },
+            {
+                "image": "MONKEY_GUNS.jpg",
+                "audio": "MONKEY_GUNS.mp3",
+                "title": "MONKEY GUNS",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Els micos s'han acostat un pas m\u00e9s cap a \u201cEl Planeta dels Simis\u201d, empunyant armes de foc, un favorit des de fa molt de temps entre els humans segons els antrop\u00f2legs."
+            },
+            {
+                "image": "LAUGH_NOW.jpg",
+                "audio": "LAUGH_NOW.mp3",
+                "title": "LAUGH NOW",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Apareixent per primera vegada a la paret d'una discoteca a Brighton el 2002, aquest treball i el car\u00e0cter del mico ha estat utilitzat moltes vegades per Banksy. Un exemple perfecte de l'humor negre que ha mostrat des dels seus inicis, Banksy situa la seva obra entre una cr\u00edtica de l'home que esclavitza altres \u00e9ssers vius i una alerta sobre una revoluci\u00f3. Banksy mostra aquest mico, com un home portant un missatge omin\u00f3s: \u201cLaugh now, but one day we'll be in charge\u201d (\"Riu-te ara, per\u00f2 un dia estarem a c\u00e0rrec\"). La refer\u00e8ncia a \u201cEl Planeta dels Simis\u201d, pel\u00b7l\u00edcula de culte i sens dubte contempor\u00e0nia per a Banksy, \u00e9s tamb\u00e9 for\u00e7a \u00f2bvia."
+            },
+            {
+                "image": "RAGE_FLOWER_THROWER.jpg",
+                "audio": "RAGE_FLOWER_THROWER.mp3",
+                "title": "FLOWER THROWER",
+                "year": "2003",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Una estranya amalgama de viol\u00e8ncia revolucion\u00e0ria i ardor pacifista, aquest treball \u00e9s possiblement un dels m\u00e9s coneguts. El contrast entre la figura en blanc i negre i el ram que sost\u00e9 en lloc d'un suposat c\u00f2ctel molotov fa que la pe\u00e7a sigui encara m\u00e9s commovedora, engendrant esperan\u00e7a davant de la lluita constant, encara que sigui violenta."
+            },
+            {
+                "image": "CND_SOLDIERS.jpg",
+                "audio": "CND_SOLDIERS.mp3",
+                "title": "CND SOLDIERS",
+                "year": "2005",
+                "location": "",
+                "shortDesc": "\u00c9s for\u00e7a apropiat veure dos soldats fortament armats en formaci\u00f3 de batalla amb una pintura d'un signe de la pau a la paret. Serveix com a recordatori de quantes guerres del segle XXI s'han lliurat en nom de la pau i la democr\u00e0cia."
+            },
+            {
+                "image": "APPLAUSE.jpg",
+                "audio": "APPLAUSE.mp3",
+                "title": "APPLAUSE",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Una cr\u00edtica molt enginyosa de la societat del m\u00f3n de l'espectacle. Els avions enlairant-se d'un portaavions reben \"suport moral\" d'una pancarta per obtenir un aplaudiment dels espectadors pagats d'un programa en un estudi de televisi\u00f3."
+            },
+            {
+                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
+                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
+                "title": "FLOWER THROWER CCCP",
+                "year": "2003",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "El Llan\u00e7ador de Flors, potser una mostra m\u00e9s de la fascinaci\u00f3 de Banksy per Lenin, est\u00e0 ubicat aqu\u00ed enfront de les sigles de la seva her\u00e8ncia."
+            },
+            {
+                "image": "GOLF_SALE.jpg",
+                "audio": "GOLF_SALE.mp3",
+                "title": "GOLF SALE",
+                "year": "2002",
+                "location": "",
+                "shortDesc": "Aquesta obra d'art de Banksy representa una l\u00ednia de tancs de l'ex\u00e8rcit que es dirigeixen en direcci\u00f3 a un home que porta un cartell que diu \u201cGOLF SALE\u201d amb una fletxa a sota, aparentment apuntant a la direcci\u00f3 de la venda. Fa refer\u00e8ncia a una protesta contra el govern xin\u00e8s, quan un manifestant valentament es va aturar davant de tres tancs per evitar que passessin. Com que van intentar moure's al seu voltant, una vegada m\u00e9s s'aturava pel cam\u00ed."
+            },
+            {
+                "image": "MEDIA_CANVAS.jpg",
+                "audio": "MEDIA_CANVAS.mp3",
+                "title": "MEDIA CANVAS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "La famosa m\u00e0xima de Baudrillard que \u201cla guerre du Golfe n'a pas eu lieu\u201d, sembla cobrar vida en aquest inquietant treball la guerra. Aquest t\u00edtol es pot trobar aqu\u00ed en una comprensi\u00f3 commovedora: una mena de pornografia de la guerra. Les guerres han canviat de model i ja no s'assembla a les guerres del passat."
+            },
+            {
+                "image": "KIDS_ON_GUNS.jpg",
+                "audio": "KIDS_ON_GUNS.mp3",
+                "title": "KIDS ON GUNS",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Siluetes d'un nen i una nena, sostenint les joguines a la m\u00e0, a dalt d'una muntanya d'armes, la nena sost\u00e9 un cor en forma de globus vermell en una corda. \u00c9s una altra obra que representa la seva ic\u00f2nica nena globus. La senzillesa i severitat del color. Els contrastos li confereixen tanta bellesa com un significat m\u00e9s profund, convertint-la en una de les peces m\u00e9s ombr\u00edvoles de l'artista."
+            },
+            {
+                "image": "RED_LENIN.jpg",
+                "audio": "RED_LENIN.mp3",
+                "title": "RED LENIN",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "Aquesta obra d'art \u00e9s una de les m\u00e9s reconegudes de Banksy. Com que burlar-se dels l\u00edders mundials \u00e9s part de les obres de Banksy, aquesta pe\u00e7a exemplifica com es veuria Lenin en patins, o de cintura cap amunt, amb la seva m\u00e0 estesa en un revolucionari discurs que podria haver estat donant. Tamb\u00e9 es podria suposar un sentit d\u2019\u201chumanitzar\u201d l'individu."
+            },
+            {
+                "image": "FLYING_COPPER.jpg",
+                "audio": "FLYING_COPPER.mp3",
+                "title": "FLYING COPPER",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "L\u2019ic\u00f2nic policia volador aqu\u00ed es converteix en un agent d\u2019est\u00e8tica en lloc d\u2019opressi\u00f3, un fons blau c\u00e0lid que accentua les ales blanques i el groc \u00e0cid brillant de la cara somrient."
+            },
+            {
+                "image": "STOP_ME_BEFORE_I_PAINT_AGAIN.jpg",
+                "audio": "STOP_ME_BEFORE_I_PAINT_AGAIN.mp3",
+                "title": "STOP ME BEFORE I PAINT AGAIN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "\u201cAlgunes persones es tornen policies perqu\u00e8 volen fer que el m\u00f3n sigui un lloc millor. Algunes persones es tornen v\u00e0ndals perqu\u00e8 volen fer del m\u00f3n un lloc m\u00e9s atractiu\u201d - Banksy (Wall and Piece)."
+            },
+            {
+                "image": "HAPPY_CHOPPER.jpg",
+                "audio": "HAPPY_CHOPPER.mp3",
+                "title": "HAPPY CHOPPER",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Una pe\u00e7a perfectament executada amb detalls vibrants \u00e9s el somni de guerra d'un nen. Aix\u00f2 sense cap comprensi\u00f3 real de les implicacions reals de la guerra. A un tel\u00f3 de fons de cel blau clar, gaireb\u00e9 surrealista, l'helic\u00f2pter est\u00e0 enc\u00e8s encap\u00e7alant la carrera, amb una bonica cinta rosa que nom\u00e9s una nena petita podria haver pensat."
+            },
+            {
+                "image": "MONKEYQUEEN.jpg",
+                "audio": "MONKEYQUEEN.mp3",
+                "title": "MONKEY QUEEN",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "L'\u00fas que fa Banksy del mico com a reina d'Anglaterra podria ser una extensi\u00f3 dels seus micos elevant-se cada cop a m\u00e9s alt rangs de poder a la societat humana o una burla cap a la monarquia anglesa."
+            },
+            {
+                "image": "TURF_WAR.jpg",
+                "audio": "TURF_WAR.mp3",
+                "title": "TURF WAR",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Aquesta obra d'art mostra un fam\u00f3s retrat de Winston Churchill, convertit en una icona del punk rock amb un floc verd dels cabells mohicans que es remunta als disturbis de maig de 2000 a Londres, conegut com a \"Turf Wars\". Una l\u00ednia d'herba verda travessa el peix gros angl\u00e8s, difuminant les l\u00ednies entre el sarcasme i el comentari pol\u00edtic. La mata d'herba que el manifestant havia desenterrat de la Pla\u00e7a del Parlament ha estat delicadament col\u00b7locada sobre el cap de Churchill."
+            },
+            {
+                "image": "THERE_IS_ALWAYS_HOPE.jpg",
+                "audio": "THERE_IS_ALWAYS_HOPE.MP3",
+                "title": "GIRL WITH BALLON",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Apareixent originalment a Londres, al districte de South Bank, aquest treball \u00e9s sense dubte un dels m\u00e9s emblem\u00e0tics de Banksy. Hi ha moltes interpretacions, per\u00f2 estem d'acord que aquesta noia intenta atrapar o deixa volar un globus vermell en la forma d'un cor (el vermell \u00e9s l'\u00fanic color d'aquesta plantilla). El globus representa un s\u00edmbol de fragilitat, innoc\u00e8ncia, esperan\u00e7a o amor. Intentar\u00e0 atrapar-ho o deixar\u00e0 que el globus s\u2019escapi?"
+            },
+            {
+                "image": "TOXIC_MARY.jpg",
+                "audio": "TOXIC_MARY.mp3",
+                "title": "TOXIC MARY",
+                "year": "2005",
+                "location": "",
+                "shortDesc": "A l'obra de Banksy de la Verge Maria, l'espectador \u00e9s presentat amb l'angle t\u00f2xic de com de influents els nostres pares i les preocupacions s\u00f3n a les nostres vides. En alimentar el nen, amb una ampolla de ver\u00ed clarament indicada, Banksy posiciona l'espectador a sentir que el nen no t\u00e9 un control real en aquest punt sobre com resultar\u00e0 la seva vida. Durant la crian\u00e7a del nad\u00f3, les circumst\u00e0ncies i situacions que l'envolten afectaran la seva vida primerenca i crearan el cam\u00ed per a l'adolesc\u00e8ncia i l'edat adulta, i la persona a la societat que ser\u00e0."
+            },
+            {
+                "image": "DOUBLE_TOXIC_MARY.jpg",
+                "audio": "DOUBLE_TOXIC_MARY.mp3",
+                "title": "DOUBLE TOXIC MARY",
+                "year": "2005",
+                "location": "",
+                "shortDesc": "En la obra de Banksy de la Virgen Mar\u00eda, el espectador es presentado con el \u00e1ngulo t\u00f3xico de cu\u00e1n influyentes nuestros padres y las preocupaciones est\u00e1n en nuestras vidas. Al alimentar al ni\u00f1o, con una botella de veneno claramente indicada, Banksy posiciona al espectador sentir que el ni\u00f1o no tiene un control real en ese punto sobre c\u00f3mo su vida resultar\u00e1. Durante la crianza del beb\u00e9, las circunstancias y situaciones que le rodean, afectar\u00e1n a su vida temprana y crear\u00e1n el camino para la adolescencia y la edad adulta, y la persona en la sociedad que ser\u00e1."
+            },
+            {
+                "image": "PREGNANT_MONKEY.jpg",
+                "audio": "PREGNANT_MONKEY.mp3",
+                "title": "PREGNANT MONKEY",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "El mico prenyat \u00e9s una interpretaci\u00f3 d'una vanitat ic\u00f2nica, una bonica foto de Demi Moore, grotesca i impactant amb la cigarreta penjant de la boca."
+            },
+            {
+                "image": "GRAFFITI_IS_A_CRIME.jpg",
+                "audio": "GRAFFITI_IS_A_CRIME.mp3",
+                "title": "GRAFFITI IS A CRIME",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "La primera plantilla de la s\u00e8rie de Nova York d'octubre de 2013 nom\u00e9s va sobreviure poc temps... Nens tractant d'atrapar un esprai de pintura dibuixada en una senyal de prohibici\u00f3 real va ser r\u00e0pidament coberta amb pintura blanca, i el r\u00e8tol va ser finalment retirat."
+            },
+            {
+                "image": "I_LOVE_NY.jpg",
+                "audio": "I_LOVE_NY.mp3",
+                "title": "I LOVE NY",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "En aquesta obra veiem un doctor auscultant la icona d\u2019\u201cI Love NY\u201d, l\u2019arxiconegut s\u00edmbol de Nova York. El metge sembla estar prenent-li el pols a la ciutat, el cor de la qual havia estat bategant amb for\u00e7a i orgull en temps pret\u00e8rits. L\u2019artista ens convida aqu\u00ed a reflexionar sobre com ha evolucionat la urbs, potser des d\u2019una certa nost\u00e0lgia d\u2019una \u00e8poca daurada en la qual els artistes emergents es podien permetre viure a Nova York."
+            },
+            {
+                "image": "WAITING_IN_VAIN.jpg",
+                "audio": "WAITING_IN_VAIN.mp3",
+                "title": "WAITING IN VAIN",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "Apareixent en un porticons de ferro a Hell's Kitchen a Nova York, a prop del Hustler Club (club de striptease propietat de Larry Flynt), aquesta plantilla mostra un home que espera en va, un ram de flors vermelles a la m\u00e0. La seva cita, potser una de les ballarines del club, probablement mai no va venir. El portic\u00f3 es va desmuntar per col\u00b7locar-lo a l'interior del club."
+            },
+            {
+                "image": "BETTER_OUT_THAN_IN.jpg",
+                "audio": "BETTER_OUT_THAN_IN.mp3",
+                "title": "BETTER OUT THAN IN",
+                "year": "2013",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Se suposa que aquest treball va apar\u00e8ixer com un \"aperitiu\", un mes abans que Banksy comenc\u00e9s la seva resid\u00e8ncia a Nova York a l'octubre de 2013. Aqu\u00ed juga amb paraules, imatges i context alhora: el terme en angl\u00e8s \"Throw Up\" significa \"vomitar\", aqu\u00ed el nen vomita flors amb un esprai de pintura a la m\u00e0."
+            },
+            {
+                "image": "NOLA_UMBRELLA_GIRL.jpg",
+                "audio": "NOLA_UMBRELLA_GIRL.mp3",
+                "title": "NOLA",
+                "year": "2008",
+                "location": "Nueva Orleans, EE. UU",
+                "shortDesc": "El 2005, l'hurac\u00e0 Katrina va devastar Nova Orleans. Els dics que se suposava havien de protegir la ciutat van cedir, matant milers de persones i destruint cases i establiments diversos. El 2008, la ciutat va experimentar la major evacuaci\u00f3 de persones a la hist\u00f2ria dels Estats Units sota l'amena\u00e7a d'un nou hurac\u00e0 anomenat Gustav. Aquesta jove que Banksy va pintar el 2008 en una muralla de la ciutat, es protegeix sota un paraigua, per\u00f2 ella s'adona que el paraigua en si \u00e9s la causa de la pluja que cau. El paral\u00b7lel amb els dics de Nova Orleans \u00e9s una prova tr\u00e0gica."
+            },
+            {
+                "image": "I\u2019M_OUT_OF_BED_RAT.jpg",
+                "audio": "I\u2019M_OUT_OF_BED_RAT.mp3",
+                "title": "I\u2019M OUT OF BED RAT",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Creat originalment el 2002 a Los Angeles, aquesta obra va ser desmantellada i transportada el 2013 a Brooklyn (Nova York). Va ser restaurat i salvat d'un cert fi (el suport de guix sobre el qual es va pintar no duraria gaire). Va ser subhastat (preu de sortida 360.000 euros) i va acabar el viatge amb un comprador an\u00f2nim a It\u00e0lia. Va ser despr\u00e9s reempla\u00e7at a Los Angeles, al mateix lloc, per una plantilla aquesta vegada mostrant el Papa Ratzinger, per\u00f2 amb el mateix text que l'original \u201cI am out of bed and dressed. What more do you want?\u201d (\"Estic fora del llit i vestit. Qu\u00e8 m\u00e9s vols?\"). No sabem si aquesta nova versi\u00f3 va ser realitzada per Banksy."
+            },
+            {
+                "image": "YOU_LOOT_WE_SHOOT.jpg",
+                "audio": "YOU_LOOT_WE_SHOOT.mp3",
+                "title": "YOU LOOT WE SHOOT",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "L\u2019abril de 2018, Banksy va recon\u00e8ixer oficialment ser l\u2019autor de We loot, you shoot (Tu saqueges, nosaltres disparem), el mural que va apar\u00e8ixer a Nova York de resultes d\u2019un petit viatge que va fer pels Estats Units. L\u2019obra mostra un home de negocis de la Borsa de Nova York (NYSE, New York Stock Exchange) ben vestit, que fuig amb un grapat de d\u00f2lars a les mans. Aquesta \u00e9s la segona obra de Banksy que fa refer\u00e8ncia a la borsa i els mercats financers, i una altra punyent cr\u00edtica del capitalisme. En les setmanes posteriors als huracans Katrina (2005), Ike (2008), Sandy (2012) i Harvey (2017), s\u2019advertia als potencials lladres que s\u2019havia habilitat un cos de justiciers amb dret a usar les armes per a qualssevol crims que atemptessin contra la propietat, i es va fer mitjan\u00e7ant cartells pintats a m\u00e0 en els quals es podia llegir: \u201cTu saqueges, nosaltres disparem\u201d. L\u2019autoritzaci\u00f3 per rec\u00f3rrer a la for\u00e7a letal per part de la policia es remunta al terratr\u00e8mol de San Francisco de 1906, quan l\u2019alcalde Eugene Schmitz va declarar: \u201cHe autoritzat les tropes federals que patrullen part de la ciutat, aix\u00ed com els agents especials de la policia, per a matar qualsevol persona que trobin saquejant les propietats privades o cometent algun crim\u201d. Des de 2005, han circulat testimoniatges de policies disparant ciutadans afroamericans a Nova Orleans despr\u00e9s de l\u2019hurac\u00e0 Katrina, especialment al barri d\u2019Algiers Point. El 2010, el diari The New Orleans Times-Picayune va informar que els agents del Departament de Policia de Nova Orleans havien estat autoritzats per a disparar als saquejadors, encara que cap dels agents implicats en els 11 tirotejos amb civils va al\u00b7legar aquesta ordre en la seva defensa. L\u2019alcalde Ray Nagin va demanar la declaraci\u00f3 de la llei marcial per a respondre als saquejos generalitzats, per\u00f2 mancava de l\u2019autoritat per a fer-ho."
+            },
+            {
+                "image": "WESTON_SUPER_MARE.jpg",
+                "audio": "WESTON_SUPER_MARE.mp3",
+                "title": "WESTON SUPER MARE",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Amb certa ironia, Banksy descriu aquesta obra d'art com \u201cun tribut alegre a les grans ciutats costaneres brit\u00e0niques\u201d. \"Weston Super Mare\" presenta un avi assegut en un banc, amb les mans creuades sobre la falda, el seu bast\u00f3 descansant amb ell, feli\u00e7ment inconscient del perill que s'acosta en forma d'una serra circular que s'obre pas a trav\u00e9s del passeig mar\u00edtim."
+            },
+            {
+                "image": "CAMERAMAN_AND_FLOWER.jpg",
+                "audio": "CAMERAMAN_AND_FLOWER.mp3",
+                "title": "CAMERAMAN AND FLOWER",
+                "year": "2008",
+                "location": "Nueva Orleans, EE. UU",
+                "shortDesc": "El c\u00e0mera i la flor va apar\u00e8ixer a la paret d\u2019un coffee shop de Park City uns dies abans de l\u2019estrena de la pel\u00b7l\u00edcula de Banksy Exit Through the Gift Shop, al festival de Sundance el 2010. Representa a on est\u00e0 disposada a arribar la gent per preservar la bellesa, tot i que, sovint, acabi destruint-la. En aquest cas, el c\u00e0mera ha arrencat la flor per tal de filmar-la. "
+            },
+            {
+                "image": "PULP_FICTION.jpg",
+                "audio": "PULP_FICTION.mp3",
+                "title": "PULP FICTION",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Per molt que \u201cPulp Fiction\u201d de Tarantino sigui una escandalosa versi\u00f3 humor\u00edstica de la viol\u00e8ncia f\u00edlmica, tamb\u00e9 ho \u00e9s \u201cPulp Fiction\u201d de Banksy."
+            },
+            {
+                "image": "FLAG_WALL.jpg",
+                "audio": "FLAG_WALL.mp3",
+                "title": "FLAG WALL",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "La col\u00b7locaci\u00f3 d\u2019una bandera nord-americana per part de joves a sobre d\u2019un t\u00edpic cotxe americ\u00e0 atrotinat remet a la batalla d\u2019Iwo Jima, indicant la veritable naturalesa de las guerres que Am\u00e8rica ha lliurat a l\u2019estranger. Ara b\u00e9, tamb\u00e9 \u00e9s possible una lectura historicista de l\u2019obra sobre l\u2019optimisme de l\u2019\u00e8poca posterior a la Segona Guerra Mundial als Estats Units."
+            },
+            {
+                "image": "TROLLEYS.jpg",
+                "audio": "TROLLEYS.mp3",
+                "title": "TROLLEYS",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "En comparaci\u00f3 amb \u201cSALES END TODAY\u201d, \u201cTROLLEYS\u201d \u00e9s m\u00e9s compassiu amb el consumidor. Almenys imbueix l'home amb cert poder i m\u00e9s lliure albir que el fervor religi\u00f3s cap al consumisme que \u201cSALES END TODAY\u201d retrata."
+            },
+            {
+                "image": "BARCODE_LEOPARD.jpg",
+                "audio": "BARCODE_LEOPARD.mp3",
+                "title": "BARCODE LEOPARD",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Banksy ha creat una obra d'art que representa a un tigre escapat fora de la seva g\u00e0bia. La g\u00e0bia s'ha transformat en un s\u00edmbol de codi de barres, sent les barres les mateixes de la impressi\u00f3 de codi de barres."
+            },
+            {
+                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
+                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
+                "title": "GET OUT WHILE YOU CAN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "La rata ens adverteix que el final \u00e9s a prop, com el mico portant el cartr\u00f3 del publireportatge a \u201cLaugh Now\u201d."
+            },
+            {
+                "image": "FESTIVAL.jpg",
+                "audio": "FESTIVAL.mp3",
+                "title": "FESTIVAL",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Festival, tamb\u00e9 conegut com Destroy Capitalism (Destru\u00efm el capitalisme), \u00e9s un stencil tricolor pintat el 2006. L\u2019obra mostra un grup d\u2019assistents a un festival de m\u00fasica que fan cua per a comprar samarretes, i es va fer per a la ic\u00f2nica exposici\u00f3 nord-americana de Banksy, Barely Legal, que va tenir lloc en un magatzem de Los Angeles l\u2019any 2006. La paradoxa en aquesta pe\u00e7a radica en el fet que la gent est\u00e0 fent cua per a comprar una samarreta de 30 d\u00f2lars."
+            },
+            {
+                "image": "HAMMER_BOY.jpg",
+                "audio": "HAMMER_BOY.mp3",
+                "title": "HAMMER BOY",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Ubicat en un mur de la botiga DSW (Design Shoe Warehouse), al carrer 79 de Broadway, a l\u2019Upper West Side de Manhattan, \u00e9s una de les obres d\u2019art que Bansky va fer durant la seva estada a Nova York. El Noi del Martell ha estat conservat pel propietari de la botiga, que va fer-hi instal\u00b7lar una pantalla de plexigl\u00e0s, i ara \u00e9s una atracci\u00f3 tant per als turistes com per als fans. La silueta senzilla del noi fa refer\u00e8ncia al popular joc de fira en el qual una persona intenta llan\u00e7ar un contrap\u00e8s el m\u00e9s amunt possible mitjan\u00e7ant un cop sec amb un martell. L\u2019\u00fas de mobiliari urb\u00e0 i objectes ordinaris com ara boques d\u2019incendis o cartells en murs \u00e9s una de les signatures de Banksy."
+            },
+            {
+                "image": "ROBOT_AND_BARCODE.jpg",
+                "audio": "ROBOT_AND_BARCODE.mp3",
+                "title": "ROBOT AND BARCODE",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "El 28 d'octubre del 2013, durant la seva resid\u00e8ncia a Nova York (per\u00edode \"Better out than in\"), Banksy va posar aquest robot i aquests codis de barres en un mur a Coney Island. \u00c9s obvi que aquest robot, pintura d'esprai a la m\u00e0, nom\u00e9s podia pintar sobre la paret un tipus d'etiqueta: un codi de barres."
+            },
+            {
+                "image": "LAUGH_NOW.jpg",
+                "audio": "LAUGH_NOW.mp3",
+                "title": "LAUGH NOW",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Apareixent per primera vegada a la paret d'una discoteca a Brighton el 2002, aquest treball i el car\u00e0cter del mico ha estat utilitzat moltes vegades per Banksy. Un exemple perfecte de l'humor negre que ha mostrat des dels seus inicis, Banksy situa la seva obra entre una cr\u00edtica de l'home que esclavitza altres \u00e9ssers vius i una alerta sobre una revoluci\u00f3. Banksy mostra aquest mico, com un home portant un missatge omin\u00f3s: \u201cLaugh now, but one day we'll be in charge\u201d (\"Riu-te ara, per\u00f2 un dia estarem a c\u00e0rrec\"). La refer\u00e8ncia a \u201cEl Planeta dels Simis\u201d, pel\u00b7l\u00edcula de culte i sens dubte contempor\u00e0nia per a Banksy, \u00e9s tamb\u00e9 for\u00e7a \u00f2bvia."
+            },
+            {
+                "image": "NO_TRESPASSING.jpg",
+                "audio": "NO_TRESPASSING.mp3",
+                "title": "NO TRESPASSING",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "En aquesta obra, Banksy mostra un natiu americ\u00e0 assegut al terra, lamentant-se de les desgr\u00e0cies que va portar l\u2019home blanc amb la seva intrusi\u00f3. Va apar\u00e8ixer en un mur del Mission District de San Francisco l\u2019any 2010, per\u00f2 va ser r\u00e0pidament tapat per un altre grafit, i finalment ha estat cobert amb pintura."
+            },
+            {
+                "image": "SALE_ENDS.jpg",
+                "audio": "SALE_ENDS.mp3",
+                "title": "SALE ENDS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Banksy mostra figures encaputxades postrades davant d'un r\u00e8tol que diu \"SALE ENDS TODAY\". Apuntant al fervor gaireb\u00e9 religi\u00f3s amb qu\u00e8 la societat considera els productes de consum, aquesta impressi\u00f3 \u00e9s una icona de l'obra de Banksy."
+            },
+            {
+                "image": "CHRIST_WITH_SHOPPING_BAGS.jpg",
+                "audio": "CHRIST_WITH_SHOPPING_BAGS.mp3",
+                "title": "CHRIST WITH SHOPPING BAGS",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "No \u00e9s nom\u00e9s un atac flagrant sobre el consumisme en general, per\u00f2 tamb\u00e9 es burla de com el Nadal ha esdevingut una de les dates m\u00e9s importants per a la hist\u00e8ria consumista de masses."
+            },
+            {
+                "image": "MORONS.jpg",
+                "audio": "MORONS.mp3",
+                "title": "MORONS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "\u201cEm sembla que la millor manera de guanyar diners fora de l'art \u00e9s ni tan sols intentar-ho. No es necessita gaire per ser un artista reeixit, tot el que necessites fer \u00e9s dedicar-hi tota la vida. El que la gent m\u00e9s admirava de Picasso no era el seu equilibri entre la feina i la vida\u201d. - Banksy, Village Voice 2013"
+            },
+            {
+                "image": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.jpg",
+                "audio": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.mp3",
+                "title": "PILLOW FIGHT",
+                "year": "2005",
+                "location": "Walled Off Hotel",
+                "shortDesc": "Banksy va crear aquesta plantilla en una de les habitacions del Walled Off Hotel, que ell ha decorat juntament amb altres artistes i dissenyadors internacionals, davant del mur de Betlem. Reconeixem el toc del mestre de l'street art i el sentit de l'humor. L'israeli\u00e0 (el soldat) i el Palest\u00ed (el manifestant) nom\u00e9s podien lluitar d'una manera en aquesta habitaci\u00f3 d'hotel... amb coixins!"
+            },
+            {
+                "image": "GUANTANAMO_BAY.jpg",
+                "audio": "GUANTANAMO_BAY.mp3",
+                "title": "GUANTANAMO BAY",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Banksy ha posat presoners de Guant\u00e1namo a molts llocs per\u00f2 cap ha arribat m\u00e9s a prop que aquesta pe\u00e7a exemplar de poderosa juxtaposici\u00f3 en qu\u00e8 el presoner agenollat t\u00e9 vistes a una bonica i id\u00edl\u00b7lica pintura d'un mar amb xocs d'ones gaireb\u00e9 hiperrealistes."
+            },
+            {
+                "image": "PARADISE.jpg",
+                "audio": "PARADISE.mp3",
+                "title": "PARADISE",
+                "year": "2005",
+                "location": "Ramallah",
+                "shortDesc": "Aqu\u00ed estem a prop d'una de les torres de vigil\u00e0ncia al llarg del mur de separaci\u00f3 a Ramallah. Apareix una obertura a la paret, com un passatge entre dos mons, dues cultures i dos pobles. Per\u00f2 \u00e9s sobretot una obertura cap a la llibertat, i el blau del cel per a un nen que juga amb tota innoc\u00e8ncia."
+            },
+            {
+                "image": "STOP_AND_SEARCH.jpg",
+                "audio": "STOP_AND_SEARCH.mp3",
+                "title": "STOP AND SEARCH",
+                "year": "2007",
+                "location": "Entre Israel y Palestina",
+                "shortDesc": "Una nena escorcolla un soldat. En aquests territoris entre Israel i Palestina, que es va convertir en un dels seus terrenys favorits per fer obres, Banksy ens fa comprendre que un enfocament m\u00e9s pr\u00e0ctic seria fer mostrar-nos el contrari. L'obra original es remata amb un grafit: Free Palestine (Palestina lliure). M\u00e9s enll\u00e0 del missatge pol\u00edtic que deixa sense cap dubte, Banksy ens convida a mirar a les barreres culturals que ens impedeixen apreciar plenament la humanitat en els altres."
+            },
+            {
+                "image": "DONKEY_DOCUMENTS.jpg",
+                "audio": "DONKEY_DOCUMENTS.mp3",
+                "title": "DONKEY DOCUMENTS",
+                "year": "2007",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Aquesta obra mostra un burro els papers del qual estan sent controlats per un soldat armat que imaginem ser israelians. Un altre exemple de la pol\u00edtica de seguretat irracional que alguns estats poden crear. El robatori d'aquest mural va aixecar moltes preguntes sobre l'artivisme (compressi\u00f3 de les paraules art i activisme) i la veritable propietat de les obres d'art de carrer. Va ser suposadament separat de la paret per un taxista palest\u00ed que es va ofendre, creient err\u00f2niament que Banksy estava comparant els palestins amb els rucs. Per\u00f2 resulta que aix\u00f2 no era cert, i que hi havien motius comercials darrere d\u2019aquest robatori. L'obra finalment va ser subhastada a Londres, per la suma de 225.000 euros a l'octubre del 2015."
+            },
+            {
+                "image": "THE_ARMOURED_DOVE.jpg",
+                "audio": "THE_ARMOURED_DOVE.mp3",
+                "title": "THE ARMOURED DOVE",
+                "year": "2005",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Com la majoria de les obres que va crear a la paret de Betlem o a la regi\u00f3, Banksy en veu alta crida la seva oposici\u00f3 a aquesta barrera artificial que ell considera inhumana. El s\u00edmbol \u00e9s simple, per\u00f2 efectiu: un mur ple de bales, un colom amb ales esteses que imaginem est\u00e0 en vol, una branca d'olivera al bec i una armilla antibales per protegir-se. I com si un franctirador estigu\u00e9s a punt de disparar-li, un blanc vermell es pot veure al seu cor."
+            },
+            {
+                "image": "HELICOPTER_DROPPING_SPRAY_CANS.jpg",
+                "audio": "HELICOPTER_DROPPING_SPRAY_CANS.mp3",
+                "title": "HELICOPTER DROPPING SPRAY CANS",
+                "year": "2003",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "No deixis caure bombes llevat que siguin de pintura! Podem imaginar que \u00e9s el missatge d'aquesta obra que no s'atribueix a Banksy, per\u00f2 que \u00e9s emblem\u00e0tic de la muralla de Betlem i a prop de l'Hotel Walled Off, moblat i decorat per Banksy."
+            }
         ]
     }
 }

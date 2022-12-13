@@ -1,117 +1,855 @@
 {
     "ES": {
-        "Info" : {"Floor1Size": "17", "Floor2Size": "7", "Floor3Size": "57"},
-        "Floor1" : [
-            {"image":"NO_FUTURE.jpg", "audio": "NO_FUTURE.mp3", "title": "PAS D’AVENIR", "shortDesc": "Un enfant assis par terre tient dans la main un ballon qui forme le «O» de « NO FUTURE ». Cette peinture sera, comme beaucoup d’autres, recouverte peu de temps après. La touche poétique de Banksy nous ferait presqu’oublier la vision pessimiste que l’on peut retrouver dans bon nombre de ses oeuvres."},
-            {"image":"THERE_IS_ALWAYS_HOPE.jpg", "audio": "THERE_IS_ALWAYS_HOPE.mp3", "title": "THERE IS ALWAYS HOPE","shortDesc": "Initialement apparue dans le quartier de Southbank à Londres, cette oeuvre est sans doute l’une des plus emblématiques de Banksy. Les interprétations sont multiples, mais l’on s’accorde pour dire que cette jeune fille tente d’attraper ou laisse s’envoler un ballon rouge en forme de coeur (le rouge est d’ailleurs la seule couleur de ce pochoir). Le ballon représente un symbole de fragilité, d’innocence, d’espoir ou d’amour. Tente-telle de le rattraper ou laisse-t-elle le ballon s’envoler ?"},
-            {"image":"SEASONS_GREETINGS.jpg", "audio": "SEASONS_GREETINGS.mp3", "title": "SEASONS GREETINGS","shortDesc": "L’hiver s’est installé au Pays de Galles. Les enfants jouent dans la neige. Mais, en y regardant de plus près, on s’aperçoit que ce ne sont pas des flocons de neige que cet enfant tente d’attraper, mais bien des cendres provenant d’une caisse ou d’une poubelle en feu. Banksy crée cette oeuvre murale sur les parois d’un garage au moment où Port Talbot se classe tristement en tête des endroits les plus pollués du Royaume-Uni (données OMS) : l’industrie sidérurgique y est particulièrement active et présente."},
-            {"image":"KISSING_COPPERS.jpg", "audio": "KISSING_COPPERS.mp3", "title": "KISSING COPPERS","shortDesc": "Bousculer l’ordre établi, provoquer les personnes bien-pensantes et faire passer un message qui parle à tous : Banksy n’en est pas à son coup d’essai, mais ce pochoir installé dans le centre de Brighton fera du chemin jusqu’à sa vente aux enchères en 2014 à Miami pour la somme de 520.000 euros (l’acheteur est resté anonyme)."},
-            {"image":"WELL_HUNG_LOVER.jpg", "audio": "WELL_HUNG_LOVER.mp3", "title": "WELL HUNG LOVER","shortDesc": "Banksy joue ici avec les mots et ce double-sens : le titre « Well hung » signifie littéralement « bien pendu », mais fait également référence en language de la rue à un homme dont le sexe est de grande taille. Ce pochoir est apparu sur le mur d’une clinique de santé sexuelle à Bristol en 2008. Banksy dira plus tard qu’il ne s’était pas rendu compte de l’endroit sur lequel il l’avait installé..."},
-            {"image":"SMILEY_GRIN_REAPER.jpg", "audio": "SMILEY_GRIN_REAPER.mp3", "title": "SMILEY GRIN REAPER","shortDesc": "La mort, représentée sous différentes formes, est un thème récurrent chez Banksy. Dans cette version, il lui ajoute une tête en forme de smiley jaune pour nous bousculer une fois encore : en associant un personnage sinistre à ce signe plutôt sympathique issu de la culture rave des années 90, il nous fait voyager entre le bien et le mal et il se moque de nous, pauvres mortels et maudits que nous sommes. Cette oeuvre murale se trouve dans le même quartier où Banksy opérait avec son collectif DryBreadZ Crew à ses débuts."},
-            {"image":"BOMB_HUGGER.jpg", "audio": "BOMB_HUGGER.mp3", "title": "LA CÂLINEUSE DE BOMBE", "shortDesc": "Banksy met en lumière l’attirance de nos sociétés modernes pour la guerre et notamment avec ces bombes fabriquées par les plus grosses usines du Royaume-Uni et vendues comme des jouets dans le monde entier. Il condamne ceux qui présentent la guerre comme une composante essentielle de la « démocratie », afin de promouvoir (ou d’exporter) la liberté, la démocratie et la paix. A moins que sur une note d’espoir, il pense que l’amour et l’innocence viendront à bout de l’instinct guerrier des hommes."},
-            {"image":"PISSING_SOLDIER.jpg", "audio": "PISSING_SOLDIER.mp3", "title": "SOLDAT URINANT", "shortDesc": "Une des grandes forces de Banksy est sa capacité à utiliser l’environnement et le contexte dans lesquels ses pochoirs sont installés non seulement pour sublimer ses créations, mais aussi pour renforcer leur impact. C’est ce qu’il nous propose ici, avec ce coin de rue qui est régulièrement le témoin de nuits et de journées agitées et avec ce mur utilisé par certains habitués impatients de pouvoir se soulager. Ce qui frappe le regard du passant, c’est cette création artistique qui vient se mêler à une réalité objective (un bâtiment, un mur, des sons, des couleurs, des odeurs, des objets,...) pour créer une nouvelle réalité. Ajoutez-y un personnage censé représenter l’autorité dans une posture incongrue, et vous aurez le cocktail parfait d’un Banksy anticonformiste, réactionnaire."},
-            {"image":"IF_GRAFFITI_CHANGED_ANYTHING.jpg", "audio": "IF_GRAFFITI_CHANGED_ANYTHING.mp3", "title": "SI LES GRAFFITI CHANGEAIENT QUOI QUE CE SOIT", "shortDesc": "Cette oeuvre apparaît à une époque compliquée pour les street-artistes : ils sont traqués, arrêtés, poursuivis et parfois emprisonnés. Banksy installe ce pochoir un lundi de Pâques de l’année 2011 sur un mur de Fitzrovia, dans le centre de Londres. Le rouge couleur sang sert à l’écriture de cette phrase pleine d’ironie et aussi au rat (animal fétiche de Banksy) qui marque de sa patte la paternité de cette sentence."},
-            {"image":"NO_BALL_GAMES.jpg", "audio": "NO_BALL_GAMES.mp3", "title": "No Ball Games", "shortDesc": "No Ball Games est apparu pour la première fois sur toile en 2006 lors de l’exposition Barely Legal, que Banksy organise au centre-ville de Los Angeles, dans la région de Skid Row. Trois ans plus tard, Banksy reproduit l’oeuvre sous forme de peinture murale à Tottenham, dans le nord de Londres, sur un mur de magasin situé à la jonction entre Tottenham High Road et Philip Lane. Plus tard en 2009, Banksy publiera une édition signée de 250 tirages de « No Ball Games » sur des fonds de blocs verts et gris. En 2013, la peinture murale de Tottenham est retirée du mur par le groupe Sincura. Elle a été divisée en trois parties et vendue pour une somme estimée à 500 000 £, qui servira principalement à aider les enfants défavorisés."},
-            {"image":"SLAVE_LABOUR.jpg", "audio": "SLAVE_LABOUR.mp3", "title": "TRAVAIL D’ESCLAVE", "shortDesc": "Banksy peint cette oeuvre aux alentours de la mi-mai 2012. Un enfant, à genoux devant une machine à coudre, assemble des banderoles composées de Union Jacks (le drapeau du Royaume Uni). Il y a aujourd’hui encore trois interprétations possibles à ce pochoir : la première serait une condamnation de l’utilisation d’enfants dans des ateliers de misère pour la confection d’articles (Banksy pointe du doigt entre autres la chaîne de magasins Poundland). La seconde serait une attaque satirique à l’égard de la royauté anglaise et du Jubilé de diamant d’Elizabeth II. La reine fête en effet ses 60 ans de règne cette année-là. Enfin, la dernière interprétation serait directement liée à l’organisation des Jeux Olympiques d’été de 2012 qui doivent se tenir à Londres quelques semaines plus tard et qui voient notamment les boutiques de souvenirs pulluler dans toute la ville."},
-            {"image":"THE_GRIN_REAPER.jpg", "audio": "THE_GRIN_REAPER.mp3", "title": "LA GRANDE FAUCHEUSE", "shortDesc": "Peinte à l’origine en 2003 sur le flanc du Thekla, amarré dans le port de Bristol (et devenu bateau-concert), cette oeuvre a été découpée en 2014 pour être analysée et ensuite conservée dans le musée M Shed de Bristol. Elle y est actuellement préservée des détériorations et de l’usure du temps."},
-            {"image":"SWEEP_IT_UNDER_THE_CARPET.jpg", "audio": "SWEEP_IT_UNDER_THE_CARPET.mp3", "title": "SWEEP IT UNDER THE CARPET", "shortDesc": "« Dans les temps anciens, seuls les papes et les princes avaient les moyens de s’offrir leur portrait. Voici le portrait d’une femme de chambre appelée Leanne et qui a nettoyé ma chambre dans un motel de Los Angeles. C’était une femme très courageuse. » - Banksy"},
-            {"image":"SNORTING_COPPER.jpg", "audio": "SNORTING_COPPER.mp3", "title": "LE FLIC SNIFFEUR", "shortDesc": "On la croyait perdue depuis longtemps. Cette oeuvre connue sous le nom de Snorting Copper (Le flic sniffeur), montre un policier à genoux qui renifle une ligne de cocaïne. Elle est apparue sur le mur de toilettes publiques en 2006, et fut ensuite vandalisée, puis recouverte par les responsables locaux. Ce sont des promoteurs immobiliers, qui après avoir acheté l’immeuble pour en faire des habitations et des commerces, ont redécouvert le pochoir. Une fois la décision prise de le restaurer, le mur a été découpé, déplacé brique par brique pour être restauré chez un spécialiste. Après plus de 4 mois de travail, le mur a été consolidé et réinstallé à son endroit d’origine pour le plus grand bonheur des habitants du quartier… et des policiers qui, d’après la rumeur, s’en étaient déjà amusés à l’époque."},
-            {"image":"KEITH_HARING_DOG.jpg", "audio": "KEITH_HARING_DOG.mp3", "title": "LE CHIEN DE KEITH HARING", "shortDesc": "L’oeuvre représente un homme cagoulé portant des vêtements sombres et un bandana dissimulant son visage. A travers ce visuel récurrent, Banksy nous présente ici une jeunesse britannique désoeuvrée et mécontente. L’apparence menaçante de l’homme qui tient en laisse un grand chien qui aboie (hommage au célèbre Barking Dog de l’artiste américain Keith Haring) contraste avec sa posture décontractée, la main dans la poche. Le contraste est également marqué par les styles utilisés : hyper-réaliste pour le personnage et naïf pour le chien. Selon l’explication de Banksy lui-même, le chien est devenu une nouvelle arme dans les rues du Royaume-Uni. En août 2016, le plexiglas qui avait été posé pour protéger l’oeuvre a été progressivement recouvert d’affiches et de prospectus, rendant cette dernière totalement invisible. On ignore si elle est toujours au même endroit."},
-            {"image":"MOBILE_LOVERS.jpg", "audio": "MOBILE_LOVERS.mp3", "title": "LES AMOUREUX DU PORTABLE", "shortDesc": "Deux amoureux, enlacés, prêts à s’embrasser,... Et pourtant, ils sont bien plus intéressés par leur téléphone que par cette étreinte qu’ils auront sans doute bientôt oubliée. Les technologies sont omniprésentes dans nos sociétés, et peu à peu elles nous engloutissent et saturent ce qu’il nous reste comme occasions d’échanger et de communiquer. C’est le message que Banksy veut faire passer : il dénonce notre dépendance face aux technologies (quelles qu’elles soient) et met le doigt sur nos envies d’hyper connectivité, nos besoins d’instantanéité et d’immédiateté pour nous montrer que la plus simple et la plus pure des relations n’est désormais plus possible. Apparue sur une porte condamnée du Broad Plains Boys Club à Bristol, elle sera finalement vendue à un collectionneur privé pour 470.000 euros afin de sauver le club d’une fermeture qui semblait inéluctable."},
-            {"image":"BURNING_TYRE.jpg", "audio": "BURNING_TYRE.mp3", "title": "PNEU EN FEU", "shortDesc": "« Chère école de Bridge Farm, Merci d’avoir baptisé l’un de vos bâtiments en mon nom. Cette peinture est pour vous. Si vous ne l’aimez pas, n’hésitez pas et ajoutez ce qu’il vous plaira. Je suis sûr que vos professeurs n’y verront aucun inconvénient. Rappelezvous qu’il est toujours plus facile d’obtenir un pardon qu’une permission. » Traduction d’une lettre de Banksy adressée aux enfants de l’école primaire de Bridge Farm. Le principal de l’école remerciera par la suite Banksy en lui assurant que l’oeuvre serait conservée comme il se doit."},
-            {"image":"THE_RAT_AND_THE_BOTTLE_OF_CHAMPAGNE.jpg", "audio":"THE_RAT_AND_THE_BOTTLE_OF_CHAMPAGNE.mp3", "title": "LE RAT ET LE BOUCHON DE CHAMPAGNE", "shortDesc": "C’est dans le quartier de Montmartre que Banksy nous offre cette oeuvre pleine de poésie : le long d’un escalier, un seau à glace et une bouteille de champagne ouverte. Un peu plus haut, nous retrouvons le bouchon de champagne en plein vol piloté par un rat."},
-            {"image":"RATAS_A_LO_LARGO_DEL_SENA.jpg", "audio":"RATAS_A_LO_LARGO_DEL_SENA.mp3", "title": "RATS EN BORD DE SEINE", "shortDesc": "Un couple de rats en balade le long de l’eau à Paris."},
-            {"image":"MAY_1968_RAT.jpg", "audio":"MAY_1968_RAT.mp3", "title": "LE RAT DE MAI 68", "shortDesc": "Une première référence aux 50 ans des événements de mai 68 en France : la date apparaît au-dessus de la tête de ce rat, mais le 8 a été découpé et il n’en reste que des pointillés. Il se retrouve à l’horizontale sur sa tête, comme des oreilles de Mickey. Le rat arbore aussi le noeud rouge à pois blancs de Minnie, allusion ironique à Disney. Les révolutionnaires de mai 1968 seraient-ils devenus des consommateurs à la solde des grosses sociétés ?"},
-            {"image":"BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.jpg", "audio":"BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.mp3", "title": "DÉTOURNEMENT DE L’OEUVRE BONAPARTE", "shortDesc": "Cette oeuvre assez surprenante montre à quel point Banksy est capable de réinterpréter (ou de détourner, vous en jugerez par vous-mêmes) des oeuvres de la peinture classique. Ici, il s’agit du tableau « Napoléon traversant le Grand-Saint- Bernard » (1800-1803) de Jacques-Louis David. Dans sa version, Banksy conserve la posture majestueuse du cheval, mais Bonaparte est remplacé par un personnage emprisonné dans le manteau de l’empereur. Certains interpréteront cette oeuvre comme « l’aveuglement » des autorités françaises face au phénomène migratoire."},
-            {"image":"MAN_WITH_A_DOG.jpg", "audio":"MAN_WITH_A_DOG.mp3", "title": "HOMME AVEC SON CHIEN", "shortDesc": "Dans la rue Victor Cousin située dans le 5ème arrondissement de Paris, on trouve une oeuvre particulièrement cruelle : un homme tend un os à un chien. Rien de cruel direz-vous… sauf que l’os provient de la patte même du chien..."},
-            {"image":"BATACLAN.jpg", "audio":"BATACLAmp3", "title": "BATACLAN", "shortDesc": "Cette peinture au pochoir, qui représente une personne voilée inclinant la tête, est l’hommage rendu par Banksy aux victimes et aux survivants de l’attaque terroriste du 13 novembre 2015 à Paris, au cours de laquelle des militants de l’État islamique ont tué 90 spectateurs au Bataclan (salle de concerts et spectacles) et des dizaines d’autres à travers la ville lors de différentes attaques et attentats suicides. « L’oeuvre de Banksy, symbole de recueillement et appartenant à tous : riverains, parisiens, citoyens du monde, nous a été volée. » pourra-t-on lire sur le compte Twitter du Bataclan le 26 janvier 2019."},
-            {"image":"LITTLE_GIRL_COVERING_A_SWASTIKA.jpg", "audio":"LITTLE_GIRL_COVERING_A_SWASTIKA.mp3", "title": "PETITE FILLE RECOUVRANT UNE CROIX GAMMÉE", "shortDesc": "Lorsque Banksy arrive à Paris pour couvrir près de 9 murs, nous sommes aux alentours du 20 juin 2018, date qui correspond à la journée mondiale des réfugiés. Cette oeuvre de Banksy est la plus politiquement engagée parmis celles qu’il a installées à Paris. Il la peint non loin du “ Centre de Premier Accueil Humanitaire ” (fermé sur décision de l’État en 2018), et représente une petite fille qui tente de recouvrir une croix gammée. Naïvement, elle pense pouvoir faire disparaître avec ce rose pastel et ces motifs de tapisserie, une croix nazie bien présente et bien marquée."},
-            {"image":"GRAFFITI_IS_A_CRIME.jpg", "audio": "GRAFFITI_IS_A_CRIME.mp3", "title": "LES GRAFFITI SONT UN CRIME", "shortDesc": "Le premier pochoir de la série New Yorkaise d’octobre 2013 n’aura survécu que peu de temps... Les enfants qui tentent d’attraper une bombe dessinée sur un vrai panneau d’interdiction seront très rapidement recouverts de peinture blanche et le panneau sera finalement détaché."},
-            {"image":"WAITING_IN_VAIN.jpg", "audio": "WAITING_IN_VAIN.mp3", "title": "L’ATTENTE EN VAIN", "shortDesc": "Apparu sur un volet en fer dans Hell’s Kitchen à New York, près du Hustler Club (club de striptease dont Larry Flynt est le propriétaire), ce pochoir représente un homme qui attend, en vain, un bouquet de fleurs rouges à la main. Son rendez-vous (une des danseuses du club ?) n’est sans doute jamais arrivé. Le volet a été démonté pour être placé à l’intérieur du club."},
-            {"image":"BETTER_OUT_THAN_IN.jpg", "audio": "BETTER_OUT_THAN_IN.mp3", "title": "MIEUX VAUT DEHORS QUE DEDANS", "shortDesc": "On suppose que cette oeuvre est apparue comme une « mise en bouche », un mois avant l’installation de Banksy en résidence à New York en octobre 2013. Il joue ici à la fois sur les mots, sur les images et sur le contexte : le terme « Throw Up » signifie en anglais « vomir » (ici le garçon vomit des fleurs une bombe à la main), mais est aussi utilisé dans l’art du graffiti puisqu’il s’agit de la représentation simplifiée de lettres dans un style bubble (lettres en forme de bulles que l’on peut voir sur le mur)."},
-            {"image":"NOLA_UMBRELLA_GIRL.jpg", "audio": "NOLA_UMBRELLA_GIRL.mp3", "title": "LA FILLE AU PARAPLUIE", "shortDesc": "En 2005, l’ouragan Katrina ravage la Nouvelle- Orléans. Les digues censées protéger la ville cèdent tuant des milliers de personnes et détruisant autant d’habitations et de commerces. En 2008, la ville connaît ensuite la plus grande évacuation de personnes de l’histoire des Etats-Unis sous la menace d’un nouvel ouragan prénommé Gustav. Cette jeune fille que Banksy peint en 2008 sur un mur de la ville, se protège sous un parapluie, mais elle se rend compte que le parapluie est lui-même à l’origine de la pluie qui tombe. Le parallèle entre les digues de la Nouvelle-Orléans et le parapluie est d’une évidence tragique."},
-            {"image":"I’M_OUT_OF_BED_RAT.jpg", "audio": "I’M_OUT_OF_BED_RAT.mp3", "title": "JE SUIS SORTI DU LIT", "shortDesc": "Installée initialement en 2002 à Los Angeles, cette oeuvre sera démontée et transportée en 2013 à Brooklyn (New York). Elle sera restaurée et sauvée d’une fin certaine (le support en crépis sur lequel elle reposait n’étant pas viable à long terme). Elle sera vendue aux enchères (prix de départ 360.000 euros) et finira son voyage chez un acquéreur anonyme en Italie. Elle sera remplacée à Los Angeles, au même endroit, par un pochoir représentant cette fois le Pape Ratzinger, mais avec le même texte que l’original “ Je suis sorti de mon lit et je suis habillé. Quel voulez-vous de plus ?”. On ne sait pas si cette nouvelle version est le fait de Banksy..."},
-            {"image":"ROBOT_AND_BARCODE.jpg", "audio": "ROBOT_AND_BARCODE.mp3", "title": "LE ROBOT E T LE CODE-BARRES", "shortDesc": "Le 28 octobre 2013, alors qu’il est en résidence à New York (période “Better out than in”), Banksy pose ce robot et ces codebarres sur un mur de Coney Island. Il est évident que ce robot, une bombe à la main, ne pouvait poser sur le mur qu’un style de tag : un code-barres..."},
-            {"image":"LAUGH_NOW.jpg", "audio": "LAUGH_NOW.mp3", "title": "RIEZ MAINTENANT", "shortDesc": "Apparue pour la première fois sur le mur d’une boîte de nuit à Brighton en 2002, cette oeuvre et le personnage du singe seront utilisés à de multiples reprises par Banksy. Exemple parfait de l’humour noir dont il fait preuve depuis ses débuts, Banksy place son oeuvre entre une critique de l’Homme qui asservit les autres êtres vivants et une alerte au sujet d’une révolution qui gronde... Banksy représente ce singe, à la façon de l’homme sandwich portant un message de mauvaise augure : « Riez maintenant, mais un jour les singes seront les maîtres ». La référence à la Planète des Singes (film culte et sans aucun doute contemporain de Banksy) est assez évidente."},
-            {"image":"ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.jpg", "audio": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.mp3", "title": "BATAILLE DE POLOCHONS", "shortDesc": "Banksy installe ce pochoir dans une des chambres du Walled Off Hotel situé en face du mur de Bethléem et qu’il a entièrement décoré en compagnie d’autres artistes et designers internationaux. On reconnaît la touche du maître du street art et son sens de l’humour. L’Israelien (le soldat) et le Palestinien (le manifestant) ne pouvaient bel et bien se battre que d’une seule manière dans cette chambre d’hôtel… avec des coussins ! "},
-            {"image":"STOP_AND_SEARCH.jpg", "audio": "STOP_AND_SEARCH.mp3", "title": "FOUILLE EN RÈGLE", "shortDesc": "Une fillette fouille un soldat. Dans ces territoires entre Israël et la Palestine, qui deviendront l’un de ses terrains de jeu favoris, Banksy nous fait comprendre qu’il serait plus réaliste d’assister à l’inverse. L’oeuvre originale est surmontée d’un graffe : “Free Palestine” (Libérez la Palestine). Au-delà du message politique qui ne laisse planer aucun doute, Banksy nous invite à nous pencher sur les barrières culturelles qui nous empêchent de reconnaître pleinement l’humanité en notre prochain."},
-            {"image":"FLYING_BALLOONGIRL.jpg", "audio": "FLYING_BALLOONGIRL.mp3", "title": "LA FILLE AUX BALLONS QUI S’ENVOLE", "shortDesc": "Parmi les créations les plus connues de Banksy, on trouve “La fille aux ballons qui s’envole”. Comme une évidence, c’est un message d’espoir que Banksy adresse aux jeunes générations et qu’il peint sur le mur de Bethléem. C’est aussi un appel aux enfants palestiniens pour qu’un jour ils vivent libres, au-delà des barrières et des frontières."},
-            {"image":"THE_ARMOURED_DOVE.jpg", "audio": "THE_ARMOURED_DOVE.mp3", "title": "LA COLOMBE AU GILET PARE-BALLES", "shortDesc": "Comme la plupart des oeuvres qu’il installera sur le mur de Bethléem ou dans la région, Banksy crie haut et fort son opposition à cette barrière artificielle qu’il juge inhumaine. Le symbole est simple, mais efficace : un mur criblé de balles, une colombe aux ailes déployées que l’on imagine en vol, un rameau d’olivier dans le bec et un gilet pare-balles pour se protéger. Et comme si un sniper s’apprêtait à l’abattre, une cible rouge se dessine sur son coeur."},
-            {"image":"DONKEY_DOCUMENTS.jpg", "audio": "DONKEY_DOCUMENTS.mp3", "title": "CONTRÔLE D’IDENTITÉ", "shortDesc": "Cette oeuvre représente un âne dont les papiers sont vérifiés par un soldat armé que l’on imagine être israélien. Encore un exemple de ce qu’une politique sécuritaire dans certains états peut créer d’irrationnel. Le vol de cette peinture murale suscitera beaucoup de questions sur l’artivisme (compression des mots “art” et “activisme”) et sur la véritable propriété des oeuvres de street art. Elle aurait été détachée du mur par un taximan palestinien qui s’était offensé pensant à tort que Banksy comparait les Palestiniens à des ânes. Mais il s’avère que la vérité est ailleurs et que de vrais motifs commerciaux sont à la base de ce vol. L’oeuvre sera finalement vendue aux enchères à Londres pour la somme de 225.000 euros en octobre 2015."},
-            {"image":"PARADISE.jpg", "audio": "PARADISE.mp3", "title": "PARADIS", "shortDesc": "Nous voici près de l’une des tours d’observation le long du mur de séparation à Ramallah. Une ouverture est apparue dans le mur, tel un passage entre deux mondes, deux cultures et deux peuples. Mais c’est avant tout, une ouverture vers la liberté, et le bleu du ciel pour un enfant qui joue en toute innocence."},
-            {"image":"HELICOPTER_DROPPING_SPRAY_CANS.jpg", "audio": "HELICOPTER_DROPPING_SPRAY_CANS.mp3", "title": "LE LANCEUR DE FLEURS", "shortDesc": "On s’attendrait à voir cet homme jeter un cocktail Molotov ou un pavé. Or, c’est un bouquet de fleurs (seul élément en couleurs dans cette oeuvre) qu’il s’apprête à lancer, tel un message de paix, à la personne qui viendrait vers lui. Cette oeuvre peinte en pleine zone de conflits, marquera les esprits et montre une nouvelle fois que Banksy adopte une position résolument pacifiste et antimilitariste."},
-            {"image":"THE_LOVE_RAT.jpg", "audio": "THE_LOVE_RAT.mp3", "title": "HÉLICOPTÈRE LARGUANT DES BOMBES DE PEINTURE", "shortDesc": "Ne larguons pas des bombes, sauf si elles sont de peinture ! On peut imaginer que c’est le message de cette oeuvre qui n’est pas attribuée à Banksy, mais qui est emblématique du mur de Bethléem et proche du Walled Off Hotel aménagé et décoré par Banksy."},
-            {"image":"GET_OUT_WHILE_YOU_CAN.jpg", "audio": "GET_OUT_WHILE_YOU_CAN.mp3", "title": "LOVE RAT", "shortDesc": "Ce rat enlace le pinceau comme une demoiselle prête à être embrassée sous le signe de l’amour."},
-            {"image":"UMBRELLA_RAT.jpg", "audio": "UMBRELLA_RAT.mp3", "title": "GET OUT WHILE YOU CAN", "shortDesc": "Alerte !!! Ce rat nous prévient que la fin est proche et qu’il est urgent de s’enfuir."},
-            {"image":"GANGSTA_RAT.jpg", "audio": "GANGSTA_RAT.mp3", "title": "UMBRELLA RAT", "shortDesc": "L’Umbrella Rat (le rat au parapluie) fait partie des nombreuses créations de Banksy représentant des rats. Vêtu d’un chapeau et d’une cravate, ce rat porte une mallette, à la manière d’un homme d’affaires, et regarde le ciel dans l’attente d’un quelconque signe."},
-            {"image":"LAUGH_NOW.jpg", "audio": "LAUGH_NOW.mp3", "title": "GANGSTA RAT", "shortDesc": "« Ils existent sans permission. Ils sont détestés, chassés et persécutés. Ils vivent tranquilles dans le désespoir et la crasse. Et pourtant, ils sont capables de mettre à genoux des civilisations entières ». Banksy “"},
-            {"image":"MONKEY_GUNS.jpg", "audio": "MONKEY_GUNS.mp3", "title": "LAUGH NOW", "shortDesc": "En représentant les grands singes dans le rôle des opprimés, Banksy fait écho à la plus grande peur de l’Homme depuis la popularisation de la théorie de l’évolution de Darwin. Même s’ils sont nos ancêtres présumés, les singes sont aujourd’hui exposés dans des zoos, utilisés comme cobayes lors d’expériences et subissent des actes violents et humiliants. Dans cette oeuvre, difficile aussi d’ignorer la référence à « La Planète des singes », un des films cultes de la génération de Banksy."},
-            {"image":"HMV.jpg", "audio": "HMV.mp3", "title": "MONKEY GUNS", "shortDesc": "En brandissant des armes à feu, ce singe ressemble à ceux qui apparaissent dans le film « La Planète des singes : Les Origines »."},
-            {"image":"TOXIC_MARY.jpg", "audio": "TOXIC_MARY.mp3", "title": "HMV", "shortDesc": "Une nouvelle utilisation par Banksy de la dichotomie maître-esclave amène cette fois un chien à se défouler sur la voix de son maître, prêt à la faire exploser en éclats."},
-            {"image":"DOUBLE_TOXIC_MARY.jpg", "audio": "DOUBLE_TOXIC_MARY.mp3", "title": "TOXIC MARY", "shortDesc": "Dans cette oeuvre qui représente la Vierge Marie nourrissant un enfant, Banksy dénonce l’influence néfaste que peuvent avoir les parents sur la vie de leurs enfants. En donnant ce biberon au contenu toxique, Banksy montre que nous n’avons que très peu de contrôle sur le tournant que prendront nos vies. Les conditions dans lesquelles se passe notre éducation sont déterminantes dans notre vie d’adulte."},
-            {"image":"CHRIST_WITH_SHOPPING_BAGS.jpg", "audio": "CHRIST_WITH_SHOPPING_BAGS.mp3", "title": "CHRIST WITH SHOPPING BAGS", "shortDesc": "« Le Christ muni de sacs à provisions » n’est pas seulement une attaque flagrante contre le consumérisme en général, mais cette oeuvre se moque aussi de la transformation des fêtes religieuses en moments d’hystérie consumériste collective."},
-            {"image":"SALE_ENDS.jpg", "audio": "SALE_ENDS.mp3", "title": "SALE ENDS", "shortDesc": "Dans cette oeuvre, Banksy dépeint des personnages voilés se prosternant devant un panneau indiquant le « Dernier jour de soldes ». Dénonçant la ferveur presque religieuse de la société contemporaine envers les biens de consommation, cette oeuvre fait partie des réalisations les plus connues de Banksy."},
-            {"image":"MEDIA_CANVAS.jpg", "audio": "MEDIA_CANVAS.mp3", "title": "MEDIA CANVAS", "shortDesc": "Baudrillard a écrit dans Libération : « la guerre du Golfe n’a pas eu lieu ». Ce titre trouve ici une concrétisation poignante : une sorte de pronographie de la guerre. Les guerres ont changé de modèle et ne ressemblent plus aux guerres du passé. Et il convient de se demander si la manière dont les événements sont présentés au monde, sont bien fidèles à la manière dont ils se sont déroulés ?"},
-            {"image":"BOMB_HUGGER.jpg", "audio": "BOMB_HUGGER.mp3", "title": "BOMB HUGGER", "shortDesc": "Cette oeuvre aborde la peur suscitée par la bombe atomique pendant la Guerre Froide et ses conséquences sur plusieurs générations d’enfants. Elle nous rappelle également les paroles de ce classique des Smiths : « Because if it’s not love, then it’s the bomb, the bomb, the bomb that will bring us together. » (Parce que si ce n’est pas l’amour, alors c’est la bombe, la bombe, la bombe qui nous rassemblera)."},
-            {"image":"HAPPY_CHOPPER.jpg", "audio": "HAPPY_CHOPPER.mp3", "title": "HAPPY CHOPPER", "shortDesc": "« Happy Chopper » est une oeuvre d’une efficacité redoutable. Un style enfantin qui nous fait presqu’oublier la finalité même de cet engin de guerre. L’hélicoptère affublé d’un joli ruban rose vole dans un ciel bleu azur, presque surréaliste."},
-            {"image":"STOP_ME_BEFORE_I_PAINT_AGAIN.jpg", "audio": "STOP_ME_BEFORE_I_PAINT_AGAIN.mp3", "title": "STOP ME BEFORE I PAINT AGAIN", "shortDesc": "« Certaines personnes deviennent des flics parce qu’elles veulent rendre le monde meilleur. Certaines personnes deviennent des vandales parce qu’elles veulent faire du monde un endroit plus beau ». Banksy (Wall and Piece)."},
-            {"image":"PREGNANT_MONKEY.jpg", "audio": "PREGNANT_MONKEY.mp3", "title": "PREGNANT MONKEY", "shortDesc": "Une femelle singe enceinte tient une cigarette à la bouche. Banksy réinterprète la célèbre photo de Demi Moore dans Vanity Fair."},
-            {"image":"STOP_AND_SEARCH2.jpg", "audio": "STOP_AND_SEARCH.mp3", "title": "STOP AND SEARCH", "shortDesc": "Les limites irrationnelles que peut atteindre un état sécuritaire sont merveilleusement illustrées par la fouille que subit Dorothy du Magicien d’Oz par un agent de police."},
-            {"image":"FLYING_COPPER.jpg", "audio": "FLYING_COPPER.mp3", "title": "FLYING COPPER", "shortDesc": "Le célèbre « Flying Copper » (flic volant) est devenu davantage une icône graphique qu’une représentation de l’oppression. Le fond bleu chaleureux fait ressortir ses ailes blanches et le jaune acide du smiley."},
-            {"image":"VERY_LITTLE_HELPS.jpg", "audio": "VERY_LITTLE_HELPS.mp3", "title": "VERY LITTLE HELPS", "shortDesc": "Sur fond de bleu pastel apaisant, les enfants en noir et blanc revendiquent leur allégeance au drapeau Tesco, emblème du consumérisme moderne. Banksy montre avec ironie que l’État-nation contemporain a moins d’influence sur la culture et la société que les grandes entreprises."},
-            {"image":"APPLAUSE.jpg", "audio": "APPLAUSE.mp3", "title": "APPLAUSE", "shortDesc": "Critiquant avec beaucoup d’esprit le show-biz et la société du spectacle, cette oeuvre représente des avions décollant d’un porte-avions. Les spectateurs rémunérés d’une émission télévisée assistant à la scène sont vivement encouragés à applaudir."},
-            {"image":"GOLF_SALE.jpg", "audio": "GOLF_SALE.mp3", "title": "GOLF SALE", "shortDesc": "Cette oeuvre est presqu’identique à une photo de Jeff Widener, prise lors d’une manifestation organisée contre le gouvernement chinois sur la place Tiananmen en 1989. Un manifestant se dresse devant trois chars pour leur barrer la route. Un nouvel exemple de combat entre David et Goliath qu’affectionne tout particulièrement Banksy."},
-            {"image":"KIDS_ON_GUNS.jpg", "audio": "KIDS_ON_GUNS.mp3", "title": "KIDS ON GUNS", "shortDesc": "On peut observer les silhouettes d’un petit garçon et d’une petite fille tenant leurs jouets à la main au sommet d’un tas d’armes. La fillette tient également un ballon rouge en forme de coeur. La simplicité et la force du contraste chromatique confèrent à l’oeuvre beauté et intensité."},
-            {"image":"HAPPY_CHOPPER_CRUDE_OIL.jpg", "audio": "HAPPY_CHOPPER_CRUDE_OIL.mp3", "title": "HAPPY CHOPPER CRUDE OIL", "shortDesc": "On le sait, Banksy avait pour habitude d’acheter des vieilles peintures à l’huile sur les marchés aux puces et de les transformer. Ces pièces originales, généralement des paysages anciens ou des portraits classiques, étaient alors retouchées par l’artiste, non sans malice, qui les agrémentait d’éléments contemporains issus du quotidien. Ici, un noeud papillon jaune vient surmonter la coque en acier gris de ces hélicoptères."},
-            {"image":"GUANTANAMO_BAY.jpg", "audio": "GUANTANAMO_BAY.mp3", "title": "GUANTANAMO BAY", "shortDesc": "Banksy a placé des prisonniers de Guantanamo dans de nombreuses oeuvres, mais aucune n’a égalé la force de celle-ci. Ici, le prisonnier est agenouillé sur la plage, un sac en toile couvrant sa tête, devant une mer agitée."},
-            {"image":"DON’T_BELIEVE_THE_TYPE.jpg", "audio": "DON’T_BELIEVE_THE_TYPE.mp3", "title": "DON’ T BELIEVE THE TYPE", "shortDesc": "La phrase qui figure au bas de cette pièce, « Please take your litter home » (« Merci d’emporter vos ordures avec vous »), est l’élément le plus important de l’oeuvre. Elle illustre le point de vue de Banksy, et celui de tous les graffeurs et artistes de rue, sur la véritable fonction des lieux publics et sur ce que l’ordre social aimerait nous faire croire."},
-            {"image":"RAGE_FLOWER_THROWER.jpg", "audio": "RAGE_FLOWER_THROWER.mp3", "title": "FLOWER THROWER", "shortDesc": "Incroyable mélange de violence révolutionnaire et de pacifisme, ce travail est probablement l’un des plus connus de Banksy. Le contraste entre le personnage en noir et blanc et le bouquet coloré qu’il tient à la place d’un cocktail Molotov rend l’oeuvre encore plus poignante, et invite à l’espoir dans ces moments de lutte continuelle pour la paix."},
-            {"image":"CND_SOLDIERS.jpg", "audio": "CND_SOLDIERS.mp3", "title": "CND SOLDIERS", "shortDesc": "Quoi de plus normal ? Deux soldats armés jusqu’aux dents, parés au combat. Le premier peint le symbole de la paix sur un mur, pendant que l’autre monte la garde. Cette oeuvre nous rappelle combien de guerres ont été déclenchées au cours des XXe et XXIe siècles au nom de la paix et de la démocratie."},
-            {"image":"PULP_FICTION.jpg", "audio": "PULP_FICTION.mp3", "title": "PULP FICTION", "shortDesc": "Le film « Pulp Fiction » de Tarantino interprète avec humour et de manière décalée des thématiques assez classiques comme la violence, la grâce et la rédemption. Le « Pulp Fiction » de Banksy reprend le thème de la violence avec une belle touche d’humour qui ne déplairait sans doute pas à Tarantino."},
-            {"image":"NAPALM.jpg", "audio": "NAPALM.mp3", "title": "NAPALM", "shortDesc": "Cette photo détournée et terrifiante d’une petite fille de neuf ans, appelée Kim Phuc, prise pendant la guerre du Vietnam (1972) est une attaque flagrante de Banksy envers la société de consommation et la politique étrangère des Etats-Unis. Mickey Mouse et Ronald McDonald tiennent joyeusement la fillette par la main, tandis que celle-ci crie et tente de s’enfuir."},
-            {"image":"NO_BALL_GAMES.jpg", "audio": "NO_BALL_GAMES.mp3", "title": "NO BALL GAMES", "shortDesc": "Ce type de signalétique pourrait être courant dans le Nord de Londres (elle existe par ailleurs dans le monde entier). « No Ball Games » illustre ces lois qui, dans le faits, ne règlent absolument rien."},
-            {"image":"DISMALAND_EPHEMERA.jpg", "audio": "DISMALAND_EPHEMERA.mp3", "title": "DISMALAND EPHEMERA", "shortDesc": "Une oeuvre d’art consternante de Dismaland, le parc Bemusement (jeu de mot en anglais entre parc d’attractions et perplexité), un des événements organisés par Banksy."},
-            {"image":"TROLLEYS.jpg", "audio": "TROLLEYS.mp3", "title": "TROLLEYS", "shortDesc": "En comparaison avec « Sale Ends Today », l’oeuvre « Trolleys » (chariots) fait preuve de davantage de compassion envers le consommateur. Elle octroie même à l’Homme un certain pouvoir et un plus grand libre arbitre, si on la compare à la ferveur religieuse exprimée dans « Sale Ends Today »."},
-            {"image":"PARANOID_PICTURES.jpg", "audio": "PARANOID_PICTURES.mp3", "title": "PARANOID PICTURES", "shortDesc": "« Votre esprit fonctionne mieux lorsque vous êtes paranoïaque. Vous explorez chaque opportunité et chaque situation à grande vitesse avec une totale clairvoyance ». Banksy (« Banging Your Head Against A Brick Wall » - « Se cogner la tête contre un mur de briques »)"},
-            {"image":"BARCODE_LEOPARD.jpg", "audio": "BARCODE_LEOPARD.mp3", "title": "BARCODE LEOPARD", "shortDesc": "Cette oeuvre représente un léopard s’échappant de sa cage. La cage prend la forme d’un code-barres, dont les bandes servent de barreaux."},
-            {"image":"STICK_POLICE.jpg", "audio": "STICK_POLICE.mp3", "title": "STICK POLICE", "shortDesc": "Observez le contraste entre les mouvements élaborés des policiers et ceux du personnage à l’avant-plan qu’ils poursuivent. L’artiste tourne en dérision les efforts « valeureux » fournis par la police pour pourchasser cette caricature de l’homme de la rue."},
-            {"image":"KISSING_COPPERS.jpg", "audio": "KISSING_COPPERS.mp3", "title": "KISSING COPPERS", "shortDesc": "Autre exemple d’union entre le familier et l’inattendu."},
-            {"image":"RUDE_COPPER.jpg", "audio": "RUDE_COPPER.mp3", "title": "RUDE COPPER", "shortDesc": "Publiée en 2002, « Rude Copper » (Le flic grossier) est la première oeuvre commerciale de Banksy. Comme son nom l’indique, il s’agit d’une pièce plutôt provocante dotée d’une profondeur de champ élaborée, dans laquelle la main tendue et le geste vulgaire occupe une place centrale."},
-            {"image":"MORONS.jpg", "audio": "MORONS.mp3", "title": "MORONS", "shortDesc": "« Selon moi, le meilleur moyen de gagner de l’argent grâce à l’art est de ne pas essayer d’en gagner. Ce n’est pas difficile de devenir un artiste à succès : tout ce que vous devez faire, c’est y consacrer votre vie entière. Ce que les gens admiraient le plus chez Picasso, ce n’était pas sa capacité à équilibrer sa vie privée et sa vie professionnelle. » Banksy, The Village Voice, 2013"},
-            {"image":"RED_LENIN.jpg", "audio": "RED_LENIN.mp3", "title": "RED LENIN", "shortDesc": "Excellant dans l’art de se moquer des dirigeants de ce monde, Banksy représente ici Lénine sur des patins à roulettes, la main tendue comme s’il prononçait l’un de ses discours révolutionnaires. On pourrait également penser que cette oeuvre tente « d’humaniser » le responsable politique qu’il était."},
-            {"image":"THERE_IS_ALWAYS_HOPE.jpg", "audio": "THERE_IS_ALWAYS_HOPE.mp3", "title": "GIRL WITH BALLOON", "shortDesc": "A première vue attachante et affectueuse, cette oeuvre bouscule le spectateur après quelques secondes. La jeune fille a-t-elle relâché le ballon après avoir abandonné son amour ou tente-t-elle de le rattraper ?"},
-            {"image":"TURF_WAR.jpg", "audio": "TURF_WAR.mp3", "title": "TURF WAR", "shortDesc": "Cette oeuvre transforme un célèbre portrait de Winston Churchill en icône punk rock à l’aide d’une « touffe » verte. Inspirée des coiffures à crête des Mohicans, elle rappelle aussi les émeutes qui ont sévi à Londres en mai 2000, plus connues sous le nom de « Turf Wars ». Un morceau de gazon recouvre le centre du crâne de l’homme d’État britannique, brouillant la frontière entre sarcasme et analyse politique. L’artiste sous-entend ainsi que les touffes d’herbe que les manifestants ont arrachées à Parliament Square ont été délicatement placées sur la tête de Churchill."},
-            {"image":"SWEEP_IT_UNDER_THE_CARPET.jpg", "audio": "SWEEP_IT_UNDER_THE_CARPET.mp3", "title": "SWEEP IT UNDER THE CARPET", "shortDesc": "La London Maid pourrait être la femme de ménage que Banksy rencontre dans un hôtel à Los Angeles. On balaye sous le tapis, on réprime les désirs illicites, et on les dissimule entre les murs qui nous abritent."},
-            {"image":"MONKEYQUEEN.jpg", "audio": "MONKEYQUEEN.mp3", "title": "MONKEY QUEEN", "shortDesc": "Le portrait de ce singe couronné fait partie de la série des singes que Banksy réalise. Ils atteignent des niveaux de pouvoir sans cesse plus élevés. Ou alors, s’agit-il d’une moquerie de plus de la part de Banksy envers la monarchie (anglaise dans le cas présent) ?"},
-            {"image":"VENICE_IN_OIL.jpg", "audio": "VENICE_IN_OIL.mp3", "title": "VENICE IN OIL", "shortDesc": "Quelques mois après l’autodestruction de sa toile fraîchement vendue 1,2 million d’euros aux enchères, Banksy s’invite à Venise lors de la 58ème édition de la Biennale. Son post Instagram à ce sujet sera sans équivoque \"J'installe mon stand à la Biennale de Venise. Bien qu'il s'agisse de l'événement le plus important et le plus prestigieux du monde, je ne sais pour quelle raison je n'y ai jamais été invité.\" Il s’agit d’une série de tableaux qui, assemblés sur des chevalets tel un puzzle, représentent un paquebot de touristes sur le canal de Venise au milieu des gondoles. Venise à l’huile fait référence à la peinture à l’huile des tableaux et à l’huile qui pollue les eaux traversées par ce type de navire. Sans oublier le risque que prend Venise, déjà fragilisée, à accueillir un nombre croissant de paquebots de touristes. Une vidéo accompagne la publication Instagram et montre un pseudo vendeur assemblant d’abord ces tableaux, puis assis à côté de l’installation, il attend les premiers acheteurs. Il se fera ensuite déloger par les carabiniers de Venise faute d’autorisation."},
-            {"image":"MIGRANT_CHILD.jpg", "audio": "MIGRANT_CHILD.mp3", "title": "MIGRANT CHILD", "shortDesc": "Sur l'île de Dorsoduro, lors du vernissage de la Biennale de Venise, Banksy a réalisé cette fresque représentant un enfant portant un gilet de sauvetage et tenant une fusée de détresse rose. C'est une fois de plus une référence au désarroi dans lequel se trouvent les migrants et les réfugiés, et en particulier les enfants qui sont les plus touchés. En 2019, le thème de la Biennale était « Puissiez-vous vivre une époque intéressante ». Il semble que  cette œuvre soit une réponse directe à la thématique de cette année-là."},
-            {"image":"MADONNA_WITH_A_GUN.jpg", "audio":"MADONNA_WITH_A_GUN.mp3", "title": "MADONNA WITH A GUN", "shortDesc": "Banksy fait très certainement référence ici à la réputation de la ville qui est à la fois, le berceau  des fervents catholiques et celui de la criminalité et de nombreux gangs. Il représente la Vierge Marie avec ses yeux et ses bras pointés vers le ciel, où se trouve un pistolet en guise d’auréole. Pour assurer sa conservation, un anonyme y aurait placé un écran de protection. La peinture murale existe toujours et se trouve dans le centre de Naples."},
-            {"image":"BALLERINA.jpg", "audio":"BALLERINA.mp3", "title": "BALLERINA", "year": "2003", "location": "", "shortDesc": "La danseuse d'Edgar Degas subit ici un relooking ironique avec l'un des accessoires les plus représentatifs de la société moderne : le masque à gaz."},
-            {"image":"THE_RAFT_OF_THE_MEDUSA.jpg", "audio":"THE_RAFT_OF_THE_MEDUSA.mp3", "title": "THE RAFT OF THE MEDUSA", "shortDesc": "Il s'agit d'une version parodique du célèbre tableau de Théodore Gericault, Le Radeau de la Méduse. Dans la version de Banksy, on y voit un yacht de luxe et à l’avant-plan un radeau plein de réfugiés rêvant d'argent et d'une vie stable en Angleterre."},
-            {"image":"THE_SON_OF_A_MIGRANT_FROM_SYRIA.jpg", "audio":"THE_SON_OF_A_MIGRANT_FROM_SYRIA.mp3", "title": "THE SON OF A MIGRANT FROM SYRIA", "shortDesc": "Le 11 décembre 2015, Banksy dévoile sa nouvelle peinture sur les murs du camp de réfugiés de \"La Jungle\". L'œuvre représente le fondateur d'Apple, Steve Jobs, habillé de son célèbre col roulé et portant un grand sac poubelle noir sur l'épaule et un ordinateur Apple à la main. Ce mur constitue une déclaration forte au moment de la crise des migrants en Europe et une référence claire aux origines de Steve Jobs. Il est lui-même le fils d'un migrant syrien qui a déménagé aux États-Unis après le Seconde Guerre Mondiale. Dans une rare déclaration, Banksy a déclaré : « Nous sommes souvent amenés à croire que la migration vide les ressources d’un pays, mais Steve Jobs était le fils d'un migrant syrien et Apple, la société la plus rentable au monde. Elle paie plus de 7 milliards de dollars par an en impôts et elle existe parce qu'un jeune homme de Homs a pu rentrer dans ce pays. » En effet, le père de Steve Jobs, Abdulfattah \"John\" Jandali, est né à Homs en Syrie, maintenant presque complètement détruite par la guerre, et a déménagé en Amérique pour étudier. Il y rencontre sa future épouse Joanne Schieble, et en 1955, ils donnent Steve, leur premier enfant, en adoption à San Francisco. Le mur représentant  Steve Jobs n'est qu'une œuvre parmi tant d’autres que l'artiste a créées pour questionner le traitement  des réfugiés à Calais et ailleurs."},
-            {"image":"MAY_1968_RAT2.jpg", "audio":"MAY_1968_RAT2.mp3", "title": "MAY 1968 RAT", "year": "2018", "location": "París, Francia", "shortDesc": "Une première référence aux 50 ans des événements de mai 68 en France : la date apparaît au-dessus de la tête de ce rat, mais le 8 a été découpé et il n’en reste que des pointillés. Il se retrouve à l’horizontale sur sa tête, comme des oreilles de Mickey.  Les révolutionnaires de mai 1968 seraient-ils devenus des consommateurs à la solde des grosses sociétés?"},
-            {"image":"KATE_MOSS.jpg", "audio": "KATE_MOSS.mp3", "title": "KATE MOSS", "year": "2008", "location": "Bristol / Reino Unido", "shortDesc": "La série est un hommage évident à la série emblématique Marilyn Monroe d'Andy Warhol sur le sujet et à la façon dont Banksy l'a exécutée. Banksy combine les visages de Moss et Monroe, superposant les cheveux de Monroe sur le visage de Moss."},
-            {"image":"ANGEL_IN_BULLETPROOF_VEST.jpg", "audio": "ANGEL_IN_BULLETPROOF_VEST.mp3", "title": "ANGEL IN BULLETPROOF VEST", "shortDesc": "Banksy a peint cet ange avec un gilet pare-balles et un crâne humain à la main en 2007, en hommage à Ozone, le street artiste mort dans un accident de train. Avec l'Ange déchu (une autre de ses œuvres), ce pochoir populaire a fini par transcender la controverse de sa supposée attaque contre la religion."},
-            {"image":"GAME_CHANGER.jpg", "audio": "GAME_CHANGER.mp3", "title": "GAME CHANGER", "shortDesc": "L'œuvre est apparue dans le hall près du service des urgences de l'hôpital général de Southampton en mai 2020, lors de la première vague de la pandémie au Royaume-Uni. Elle était accompagnée d'une note qui disait : \"Merci pour tout ce que vous faites. J'espère que cela illuminera un peu l'endroit, même si ce n'est qu'en noir et blanc\". L’œuvre représente un enfant jouant à la poupée, mais ayant délaissé ses super-héros habituels au profit d’une infirmière munie d’une cape et semblant voler tel Superman. Banksy en fit don à l’hôpital. Game Changer sera vendue près de 20 millions d’euros lors de sa vente chez Christie's à Londres le 23 mars 2021, devenant ainsi l'œuvre d'art de Banksy la plus chère vendue aux enchères, un an jour pour jour après le premier confinement au Royaume-Uni."},
-            {"image":"AACHOO.jpg", "audio": "AACHOO.mp3", "title": "AACHOO", "shortDesc": "L'artiste a publié une photo de cette œuvre sur Instagram lors de la pandémie - c'est ainsi qu'il confirme généralement qu’il en est l’auteur. L'œuvre \"Aachoo !!\" peinte sur le mur d'une maison verte, représente une femme âgée avec un foulard qui perd son dentier en éternuant violemment. La maison se trouve au début de Vale Street, qui est considérée comme la rue la plus raide d'Angleterre, ce qui donne l’impression que l'éternuement de la femme a renversé une poubelle et fait basculer les maisons voisines."},
-            {"image":"GRANNIES.jpg", "audio": "GRANNIES.mp3", "title": "GRANNIES", "shortDesc": "Deux grand-mères tricotant des slogans punk rock violents avec le sourire aux lèvres. Il illustre la compassion des vieux envers les jeunes. Se remémorant le bon vieux temps, quand le corps physique pas encore abimé, était rempli de rébellion. Il a d'abord été présenté sous forme de peinture lors de l'exposition emblématique de Banksy “Barely Legal”, qui a eu lieu dans un entrepôt à Los Angeles en 2006."},
-            {"image":"POLICE_KIDS.jpg", "audio": "POLICE_KIDS.mp3", "title": "POLICE KIDS", "shortDesc": "Banksy réunit ici image emblématique et humour irrévérencieux dans un exploit dont lui seul connaît le secret. Illustrant parfaitement l'innocence riante de Jack et Jill, ce portrait idyllique est éclipsé par les gilets pare-balles de la police qu'ils portent pour se protéger. Banksy exprime son mépris pour les forces de l'ordre."},
-            {"image":"GORILLA_IN_A_PINK_MASK.jpg", "audio": "GORILLA_IN_A_PINK_MASK.mp3", "title": "GORILLA IN A PINK MASK", "shortDesc": "Il a été peint sur le mur extérieur d'un ancien club social à Bristol, juste avant qu'il ne devienne un centre culturel musulman. Il a ensuite été peint involontairement par le responsable du centre culturel. Plus tard, il s'est excusé et a déclaré aux journaux : \"Je pensais que cela ne valait rien. Je ne savais pas que cela avait de la valeur. C'est pourquoi je l’ai recouvert.\" L'œuvre a été restaurée puis vendue, l’argent a été utilisé pour restaurer le bâtiment et aider la communauté."},
-            {"image":"DEVOLVED_PARLIAMENT.jpg", "audio": "DEVOLVED_PARLIAMENT.mp3", "title": "DEVOLVED PARLIAMENT", "shortDesc": "Devolved Parliament a été créé lors de l’exposition Banksy au musée de Bristol en 2009, qui a attiré plus de 300 000 visiteurs et aurait été l'une des expositions les plus visitées au monde cette année-là. Il dépeint la Chambre des communes britannique envahie par des primates parlementaires et a été vendue aux enchères pour un record d'environ 12,2 millions de dollars. \"Dommage que je ne le possède plus\", a écrit Banksy sur Instagram. Le tableau était à l'origine intitulé \"Question Time\" et présenté à temps pour le \"Brexit day\" en mars, mais a depuis été renommé et adapté. Il comprend maintenant des lampes éteintes et une banane renversée tenue par l'un des chimpanzés. « Riez maintenant, mais un jour, personne ne sera en charge », a ajouté Banksy."},
-            {"image":"GUN_CLOWN.jpg", "audio": "GUN_CLOWN.mp3", "title": "GUN CLOWN", "shortDesc": "Il apparaît à Bristol, et plus précisément sur Hotwell Road. Il montre comment un personnage rassurant peut personnifier la violence. En l'occurrence ici, un animateur pour enfants, armé et prêt à tuer ; l'innocence et la confiance peuvent facilement être brisées."},
-            {"image":"TRIBUTE_TO_BASQUIAT.jpg", "audio":"TRIBUTE_TO_BASQUIAT.mp3", "title": "TRIBUTE TO BASQUIAT", "shortDesc": "Deux nouvelles œuvres d'art de Banksy sont apparues au Barbican Centre dans le centre de Londres en septembre 2017. Les peintures murales, inspirées de l'exposition Jean-Michel Basquiat au Barbican Centre, ont été confirmées comme des originaux dans l'œuvre de l'artiste dans une série de publications sur Instagram. Banksy a déclaré : \"Le nouveau grand spectacle Basquiat s'ouvre au Barbican, un lieu qui tient normalement à nettoyer tous les graffitis de ses murs.\""},
-            {"image":"WESTON_SUPER_MARE.jpg", "audio":"WESTON_SUPER_MARE.mp3", "title": "WESTON SUPER MARE", "shortDesc": "Avec une certaine ironie, Banksy décrit cette œuvre comme \" un hommage joyeux aux grandes villes balnéaires britanniques \". Cette œuvre représente une personne âgée assise sur un banc, les mains croisées sur ses genoux, sa canne posée à côté d’elle, ignorant béatement le danger qui s'approche sous la forme d'une scie circulaire se frayant un chemin à travers la promenade."},
-            {"image":"BOMBING_MIDDLE_ENGLAND.jpg", "audio":"BOMBING_MIDDLE_ENGLAND.mp3", "title": "BOMBING MIDDLE ENGLAND", "shortDesc": "Les trois femmes de cette œuvre portent des casques très similaires à ceux que des soldats porteraient durant une bataille. Elles lancent des bombes comme si elles jouaient à la pétanque sur une pelouse anglaise fièrement entretenue. Cette pièce regorge de critiques malicieusement destructrices à l’encontre de l’Angleterre, de la classe moyenne et de ses valeurs."},
-            {"image":"RAGE_FLOWER_THROWER_CCCP.jpg", "audio":"RAGE_FLOWER_THROWER_CCCP.mp3", "title": "FLOWER THROWER CCCP", "shortDesc": "Peut-être un nouvel exemple de la fascination de Banksy pour Lénine. Le Flower Chucker est placé ici devant les initiales de l’U.R.S.S. (Union des Républiques Socialistes Soviétiques)."},
-            {"image":"GRAFFITI_IS_A_CRIME.jpg", "audio":"GRAFFITI_IS_A_CRIME.mp3", "title": "GRAFFITI IS A CRIME", "shortDesc": "Le premier pochoir de la série New Yorkaise d’octobre 2013 n’aura survécu que peu de temps... Les enfants qui tentent d’attraper une bombe dessinée sur un vrai panneau d’interdiction seront très rapidement recouverts de peinture blanche et le panneau sera finalement détaché."},
-            {"image":"I_LOVE_NY.jpg", "audio":"I_LOVE_NY.mp3", "title": "I LOVE NY", "shortDesc": "Cette œuvre montre un médecin inspectant le célèbre panneau « I love NY », symbole de la ville, bien connu dans le monde entier. Le médecin cherche le pouls de la ville dont le cœur battait autrefois vivement et fièrement, mais semble éteint aujourd'hui. Cela nous pousse à réfléchir sur la façon dont la ville a évolué et a changé, peut-être la nostalgie d'une époque dorée, où vivre à New York était aussi abordable pour les artistes émergents."},
-            {"image":"YOU_LOOT_WE_SHOOT.jpg", "audio":"YOU_LOOT_WE_SHOOT.mp3", "title": "YOU LOOT WE SHOOT", "shortDesc": "Banksy a officiellement reconnu en avril 2018 être l’auteur de la peinture murale \"You Loot, We Shoot\" qui est apparue à New York dans le cadre de son mini voyage aux États-Unis. L'œuvre d'art montre un homme d'affaires en costume du NYSE (New York Stock Exchange) s'enfuyant rapidement avec un tas de dollars américains dans les mains. Il s'agit de la deuxième œuvre liée aux marchés financiers, et une fois de plus, une puissante critique du capitalisme. Au lendemain des ouragans Katrina (2005), Ike (2008), Sandy (2012) et Harvey (2017), les voleurs potentiels ont été avertis que la force serait utilisée par le biais de panneaux peints à la main et disant \" vous pillez, nous tirons\". L'autorisation de recourir à la force par des policiers à la suite de catastrophes naturelles remonte au tremblement de terre de 1906 à San Francisco, lorsque le maire Eugene Schmitz a déclaré : « Les troupes fédérales, qui surveillent maintenant une partie de la ville, ainsi que les forces régulières et spéciales membres des forces de police, ont été autorisées à tuer toute personne trouvée en train de piller les effets d'un citoyen ou autrement engagée dans un acte criminel.\" Des informations faisant état de justiciers tirant sur des Noirs américains à la Nouvelle-Orléans au lendemain de Katrina circulaient depuis 2005, notamment dans le quartier d'Alger Point. En 2010, le New Orleans Times-Picayune a rapporté que des agents du département de police de la Nouvelle-Orléans avaient été autorisés à tirer sur des pillards, bien qu'aucun des agents impliqués dans 11 fusillades civiles n'ait cité cet ordre pour sa défense. Le maire Ray Nagin avait demandé qu’on instaure une loi martiale en réponse aux informations faisant état de pillages généralisés."},
-            {"image":"CAMERAMAN_AND_FLOWER.jpg", "audio":"CAMERAMAN_AND_FLOWER.mp3", "title": "CAMERAMAN AND FLOWER", "shortDesc": "Le caméraman et la fleur sont apparus sur le mur d'un café de Park City à l'approche de la première du film, Faites le mur ! de Banksy à Sundance en 2010. Il représente les efforts déployés par les gens pour préserver la beauté, mais conduit souvent à sa destruction comme dans ce cas où le caméraman arrache la fleur pour la filmer."},
-            {"image":"FLAG_WALL.jpg", "audio":"FLAG_WALL.mp3", "title": "FLAG WALL", "shortDesc": "“Flag Wall” représentent des mineurs plaçant un drapeau américain sur une voiture américaine en acier, faisant écho à la bataille d'Iwo Jima et indiquant la véritable nature des guerres américaines menées à l'étranger. Cependant, selon une lecture historiciste, il est possible que “Flag Wall” parle également de l'optimisme ressenti pendant l'après-guerre."},
-            {"image":"FESTIVAL.jpg", "audio":"FESTIVAL.mp3", "title": "FESTIVAL", "shortDesc": "L’œuvre “Festival”, également connu sous le nom de Destroy Capitalism, est une sérigraphie en trois couleurs de 2006. Elle représente un groupe de personnes à un festival de musique faisant la queue pour acheter des t-shirts. L'œuvre a été réalisée pour l'exposition américaine emblématique de Banksy, Barely Legal, qui a eu lieu dans un entrepôt à Los Angeles en 2006. Le paradoxe de cette œuvre est que les gens font la queue pour acheter un t-shirt à 30 dollars."},
-            {"image":"HAMMER_BOY.jpg", "audio":"HAMMER_BOY.mp3", "title": "HAMMER BOY", "shortDesc": "Située sur la 79e rue et Broadway à Manhattan (Upper West Side) sur le mur du magasin DSW (Designer Shoe Warehouse), il s’agit d’une des œuvres réalisées par Banksy lors de son séjour à New York. Le Hammer Boy a été conservé par l'entreprise locale, propriétaire du magasin. Recouvert de plexiglas, il est devenu un point d'attraction pour les touristes et les amateurs de Banksy. Une simple silhouette noire d'un enfant tenant un marteau, imitant un jeu de foire, où une personne doit atteindre un niveau avec un marteau. L'utilisation par Banksy d'objets simples et ordinaires comme la bouche d'incendie et les panneaux sur le mur est l'une de ses signatures."},
-            {"image":"NO_TRESPASSING.jpg", "audio":"NO_TRESPASSING.mp3", "title": "NO TRESPASSING", "shortDesc": "Dans cette œuvre, Banksy représenteun Indien d'Amérique assis par terre, déplorant l'intrusion de l'homme blanc et les problèmes qu'ils ont engendrés. Il apparaît sur le mur du Mission District de San Francisco en 2010, mais a rapidement été recouvert d'autres graffitis et a maintenant été entièrement repeint."}
+        "Info": {
+            "Floor1Size": "14",
+            "Floor2Size": "33",
+            "Floor3Size": "58"
+        },
+        "Floor1": [
+            {
+                "image": "VENICE_IN_OIL.jpg",
+                "audio": "VENICE_IN_OIL.mp3",
+                "title": "VENICE IN OIL",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "Quelques mois apr\u00e8s l\u2019autodestruction de sa toile fra\u00eechement vendue 1,2 million d\u2019euros aux ench\u00e8res, Banksy s\u2019invite \u00e0 Venise lors de la 58\u00e8me \u00e9dition de la Biennale. Son post Instagram \u00e0 ce sujet sera sans \u00e9quivoque \"J'installe mon stand \u00e0 la Biennale de Venise. Bien qu'il s'agisse de l'\u00e9v\u00e9nement le plus important et le plus prestigieux du monde, je ne sais pour quelle raison je n'y ai jamais \u00e9t\u00e9 invit\u00e9.\" Il s\u2019agit d\u2019une s\u00e9rie de tableaux qui, assembl\u00e9s sur des chevalets tel un puzzle, repr\u00e9sentent un paquebot de touristes sur le canal de Venise au milieu des gondoles. Venise \u00e0 l\u2019huile fait r\u00e9f\u00e9rence \u00e0 la peinture \u00e0 l\u2019huile des tableaux et \u00e0 l\u2019huile qui pollue les eaux travers\u00e9es par ce type de navire. Sans oublier le risque que prend Venise, d\u00e9j\u00e0 fragilis\u00e9e, \u00e0 accueillir un nombre croissant de paquebots de touristes. Une vid\u00e9o accompagne la publication Instagram et montre un pseudo vendeur assemblant d\u2019abord ces tableaux, puis assis \u00e0 c\u00f4t\u00e9 de l\u2019installation, il attend les premiers acheteurs. Il se fera ensuite d\u00e9loger par les carabiniers de Venise faute d\u2019autorisation."
+            },
+            {
+                "image": "MIGRANT_CHILD.jpg",
+                "audio": "MIGRANT_CHILD.mp3",
+                "title": "MIGRANT CHILD",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "Sur l'\u00eele de Dorsoduro, lors du vernissage de la Biennale de Venise, Banksy a r\u00e9alis\u00e9 cette fresque repr\u00e9sentant un enfant portant un gilet de sauvetage et tenant une fus\u00e9e de d\u00e9tresse rose. C'est une fois de plus une r\u00e9f\u00e9rence au d\u00e9sarroi dans lequel se trouvent les migrants et les r\u00e9fugi\u00e9s, et en particulier les enfants qui sont les plus touch\u00e9s. En 2019, le th\u00e8me de la Biennale \u00e9tait \u00ab Puissiez-vous vivre une \u00e9poque int\u00e9ressante \u00bb. Il semble que  cette \u0153uvre soit une r\u00e9ponse directe \u00e0 la th\u00e9matique de cette ann\u00e9e-l\u00e0."
+            },
+            {
+                "image": "PARANOID_PICTURES.jpg",
+                "audio": "PARANOID_PICTURES.mp3",
+                "title": "PARANOID PICTURES",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "\u00ab Votre esprit fonctionne mieux lorsque vous \u00eates parano\u00efaque. Vous explorez chaque opportunit\u00e9 et chaque situation \u00e0 grande vitesse avec une totale clairvoyance \u00bb. Banksy (\u00ab Banging Your Head Against A Brick Wall \u00bb - \u00ab Se cogner la t\u00eate contre un mur de briques \u00bb)"
+            },
+            {
+                "image": "MADONNA_WITH_A_GUN.jpg",
+                "audio": "MADONNA_WITH_A_GUN.mp3",
+                "title": "MADONNA WITH A GUN",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Banksy fait tr\u00e8s certainement r\u00e9f\u00e9rence ici \u00e0 la r\u00e9putation de la ville qui est \u00e0 la fois, le berceau  des fervents catholiques et celui de la criminalit\u00e9 et de nombreux gangs. Il repr\u00e9sente la Vierge Marie avec ses yeux et ses bras point\u00e9s vers le ciel, o\u00f9 se trouve un pistolet en guise d\u2019aur\u00e9ole. Pour assurer sa conservation, un anonyme y aurait plac\u00e9 un \u00e9cran de protection. La peinture murale existe toujours et se trouve dans le centre de Naples."
+            },
+            {
+                "image": "BALLERINA.jpg",
+                "audio": "BALLERINA.mp3",
+                "title": "BALLERINA",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "La danseuse d'Edgar Degas subit ici un relooking ironique avec l'un des accessoires les plus repr\u00e9sentatifs de la soci\u00e9t\u00e9 moderne : le masque \u00e0 gaz."
+            },
+            {
+                "image": "THE_SON_OF_A_MIGRANT_FROM_SYRIA.jpg",
+                "audio": "THE_SON_OF_A_MIGRANT_FROM_SYRIA.mp3",
+                "title": "THE SON OF A MIGRANT FROM SYRIA",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Le 11 d\u00e9cembre 2015, Banksy d\u00e9voile sa nouvelle peinture sur les murs du camp de r\u00e9fugi\u00e9s de \"La Jungle\". L'\u0153uvre repr\u00e9sente le fondateur d'Apple, Steve Jobs, habill\u00e9 de son c\u00e9l\u00e8bre col roul\u00e9 et portant un grand sac poubelle noir sur l'\u00e9paule et un ordinateur Apple \u00e0 la main. Ce mur constitue une d\u00e9claration forte au moment de la crise des migrants en Europe et une r\u00e9f\u00e9rence claire aux origines de Steve Jobs. Il est lui-m\u00eame le fils d'un migrant syrien qui a d\u00e9m\u00e9nag\u00e9 aux \u00c9tats-Unis apr\u00e8s le Seconde Guerre Mondiale. Dans une rare d\u00e9claration, Banksy a d\u00e9clar\u00e9 : \u00ab Nous sommes souvent amen\u00e9s \u00e0 croire que la migration vide les ressources d\u2019un pays, mais Steve Jobs \u00e9tait le fils d'un migrant syrien et Apple, la soci\u00e9t\u00e9 la plus rentable au monde. Elle paie plus de 7 milliards de dollars par an en imp\u00f4ts et elle existe parce qu'un jeune homme de Homs a pu rentrer dans ce pays. \u00bb En effet, le p\u00e8re de Steve Jobs, Abdulfattah \"John\" Jandali, est n\u00e9 \u00e0 Homs en Syrie, maintenant presque compl\u00e8tement d\u00e9truite par la guerre, et a d\u00e9m\u00e9nag\u00e9 en Am\u00e9rique pour \u00e9tudier. Il y rencontre sa future \u00e9pouse Joanne Schieble, et en 1955, ils donnent Steve, leur premier enfant, en adoption \u00e0 San Francisco. Le mur repr\u00e9sentant  Steve Jobs n'est qu'une \u0153uvre parmi tant d\u2019autres que l'artiste a cr\u00e9\u00e9es pour questionner le traitement  des r\u00e9fugi\u00e9s \u00e0 Calais et ailleurs."
+            },
+            {
+                "image": "RATAS_A_LO_LARGO_DEL_SENA.jpg",
+                "audio": "RATAS_A_LO_LARGO_DEL_SENA.mp3",
+                "title": "RATAS A LO LARGO DEL SENA",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Un couple de rats en balade le long de l\u2019eau \u00e0 Paris."
+            },
+            {
+                "image": "THE_RAFT_OF_THE_MEDUSA.jpg",
+                "audio": "THE_RAFT_OF_THE_MEDUSA.mp3",
+                "title": "THE RAFT OF THE MEDUSA",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Il s'agit d'une version parodique du c\u00e9l\u00e8bre tableau de Th\u00e9odore Gericault, Le Radeau de la M\u00e9duse. Dans la version de Banksy, on y voit un yacht de luxe et \u00e0 l\u2019avant-plan un radeau plein de r\u00e9fugi\u00e9s r\u00eavant d'argent et d'une vie stable en Angleterre."
+            },
+            {
+                "image": "MAY_1968_RAT2.jpg",
+                "audio": "MAY_1968_RAT2.mp3",
+                "title": "MAY 1968 RAT",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Une premi\u00e8re r\u00e9f\u00e9rence aux 50 ans des \u00e9v\u00e9nements de mai 68 en France : la date appara\u00eet au-dessus de la t\u00eate de ce rat, mais le 8 a \u00e9t\u00e9 d\u00e9coup\u00e9 et il n\u2019en reste que des pointill\u00e9s. Il se retrouve \u00e0 l\u2019horizontale sur sa t\u00eate, comme des oreilles de Mickey.  Les r\u00e9volutionnaires de mai 1968 seraient-ils devenus des consommateurs \u00e0 la solde des grosses soci\u00e9t\u00e9s?"
+            },
+            {
+                "image": "LITTLE_GIRL_COVERING_A_SWASTIKA.jpg",
+                "audio": "LITTLE_GIRL_COVERING_A_SWASTIKA.mp3",
+                "title": "LITTLE GIRL COVERING A SWASTIKA",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Lorsque Banksy arrive \u00e0 Paris pour couvrir pr\u00e8s de 9 murs, nous sommes aux alentours du 20 juin 2018, date qui correspond \u00e0 la journ\u00e9e mondiale des r\u00e9fugi\u00e9s. Cette oeuvre de Banksy est la plus politiquement engag\u00e9e parmis celles qu\u2019il a install\u00e9es \u00e0 Paris. Il la peint non loin du \u201c Centre de Premier Accueil Humanitaire \u201d (ferm\u00e9 sur d\u00e9cision de l\u2019\u00c9tat en 2018), et repr\u00e9sente une petite fille qui tente de recouvrir une croix gamm\u00e9e. Na\u00efvement, elle pense pouvoir faire dispara\u00eetre avec ce rose pastel et ces motifs de tapisserie, une croix nazie bien pr\u00e9sente et bien marqu\u00e9e."
+            },
+            {
+                "image": "BATACLAN.jpg",
+                "audio": "BATACLAmp3",
+                "title": "BATACLAN",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Cette peinture au pochoir, qui repr\u00e9sente une personne voil\u00e9e inclinant la t\u00eate, est l\u2019hommage rendu par Banksy aux victimes et aux survivants de l\u2019attaque terroriste du 13 novembre 2015 \u00e0 Paris, au cours de laquelle des militants de l\u2019\u00c9tat islamique ont tu\u00e9 90 spectateurs au Bataclan (salle de concerts et spectacles) et des dizaines d\u2019autres \u00e0 travers la ville lors de diff\u00e9rentes attaques et attentats suicides. \u00ab L\u2019oeuvre de Banksy, symbole de recueillement et appartenant \u00e0 tous : riverains, parisiens, citoyens du monde, nous a \u00e9t\u00e9 vol\u00e9e. \u00bb pourra-t-on lire sur le compte Twitter du Bataclan le 26 janvier 2019."
+            },
+            {
+                "image": "MAN_WITH_A_DOG.jpg",
+                "audio": "MAN_WITH_A_DOG.mp3",
+                "title": "MAN WITH A DOG",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Dans la rue Victor Cousin situ\u00e9e dans le 5\u00e8me arrondissement de Paris, on trouve une oeuvre particuli\u00e8rement cruelle : un homme tend un os \u00e0 un chien. Rien de cruel direz-vous\u2026 sauf que l\u2019os provient de la patte m\u00eame du chien..."
+            },
+            {
+                "image": "BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.jpg",
+                "audio": "BONAPARTE_CROSSING_THE_GRAND-SAINT-BERNARD.mp3",
+                "title": "BONAPARTE CROSSING THE GRAND-SAINT-BERNARD",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Cette oeuvre assez surprenante montre \u00e0 quel point Banksy est capable de r\u00e9interpr\u00e9ter (ou de d\u00e9tourner, vous en jugerez par vous-m\u00eames) des oeuvres de la peinture classique. Ici, il s\u2019agit du tableau \u00ab Napol\u00e9on traversant le Grand-Saint- Bernard \u00bb (1800-1803) de Jacques-Louis David. Dans sa version, Banksy conserve la posture majestueuse du cheval, mais Bonaparte est remplac\u00e9 par un personnage emprisonn\u00e9 dans le manteau de l\u2019empereur. Certains interpr\u00e9teront cette oeuvre comme \u00ab l\u2019aveuglement \u00bb des autorit\u00e9s fran\u00e7aises face au ph\u00e9nom\u00e8ne migratoire."
+            },
+            {
+                "image": "MAY_1968_RAT.jpg",
+                "audio": "MAY_1968_RAT.mp3",
+                "title": "MAY 1968 RAT",
+                "year": "2018",
+                "location": "Par\u00eds, Francia",
+                "shortDesc": "Une premi\u00e8re r\u00e9f\u00e9rence aux 50 ans des \u00e9v\u00e9nements de mai 68 en France : la date appara\u00eet au-dessus de la t\u00eate de ce rat, mais le 8 a \u00e9t\u00e9 d\u00e9coup\u00e9 et il n\u2019en reste que des pointill\u00e9s. Il se retrouve \u00e0 l\u2019horizontale sur sa t\u00eate, comme des oreilles de Mickey. Le rat arbore aussi le noeud rouge \u00e0 pois blancs de Minnie, allusion ironique \u00e0 Disney. Les r\u00e9volutionnaires de mai 1968 seraient-ils devenus des consommateurs \u00e0 la solde des grosses soci\u00e9t\u00e9s ?"
+            }
+        ],
+        "Floor2": [
+            {
+                "image": "NO_FUTURE.jpg",
+                "audio": "NO_FUTURE.mp3",
+                "title": "NO FUTURE",
+                "year": "2010",
+                "location": "Southampton / Reino Unido",
+                "shortDesc": "Un enfant assis par terre tient dans la main un ballon qui forme le \u00abO\u00bb de \u00ab NO FUTURE \u00bb. Cette peinture sera, comme beaucoup d\u2019autres, recouverte peu de temps apr\u00e8s. La touche po\u00e9tique de Banksy nous ferait presqu\u2019oublier la vision pessimiste que l\u2019on peut retrouver dans bon nombre de ses oeuvres."
+            },
+            {
+                "image": "THERE_IS_ALWAYS_HOPE.jpg",
+                "audio": "THERE_IS_ALWAYS_HOPE.mp3",
+                "title": "THERE IS ALWAYS HOPE",
+                "year": "2002",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Initialement apparue dans le quartier de Southbank \u00e0 Londres, cette oeuvre est sans doute l\u2019une des plus embl\u00e9matiques de Banksy. Les interpr\u00e9tations sont multiples, mais l\u2019on s\u2019accorde pour dire que cette jeune fille tente d\u2019attraper ou laisse s\u2019envoler un ballon rouge en forme de coeur (le rouge est d\u2019ailleurs la seule couleur de ce pochoir). Le ballon repr\u00e9sente un symbole de fragilit\u00e9, d\u2019innocence, d\u2019espoir ou d\u2019amour. Tente-telle de le rattraper ou laisse-t-elle le ballon s\u2019envoler ?"
+            },
+            {
+                "image": "SEASONS_GREETINGS.jpg",
+                "audio": "SEASONS_GREETINGS.mp3",
+                "title": "SEASONS GREETINGS",
+                "year": "2018",
+                "location": "Port Talbot / Gales",
+                "shortDesc": "L\u2019hiver s\u2019est install\u00e9 au Pays de Galles. Les enfants jouent dans la neige. Mais, en y regardant de plus pr\u00e8s, on s\u2019aper\u00e7oit que ce ne sont pas des flocons de neige que cet enfant tente d\u2019attraper, mais bien des cendres provenant d\u2019une caisse ou d\u2019une poubelle en feu. Banksy cr\u00e9e cette oeuvre murale sur les parois d\u2019un garage au moment o\u00f9 Port Talbot se classe tristement en t\u00eate des endroits les plus pollu\u00e9s du Royaume-Uni (donn\u00e9es OMS) : l\u2019industrie sid\u00e9rurgique y est particuli\u00e8rement active et pr\u00e9sente."
+            },
+            {
+                "image": "KISSING_COPPERS.jpg",
+                "audio": "KISSING_COPPERS.mp3",
+                "title": "KISSING COPPERS",
+                "year": "2005",
+                "location": "Brighton / Reino Unido",
+                "shortDesc": "Bousculer l\u2019ordre \u00e9tabli, provoquer les personnes bien-pensantes et faire passer un message qui parle \u00e0 tous : Banksy n\u2019en est pas \u00e0 son coup d\u2019essai, mais ce pochoir install\u00e9 dans le centre de Brighton fera du chemin jusqu\u2019\u00e0 sa vente aux ench\u00e8res en 2014 \u00e0 Miami pour la somme de 520.000 euros (l\u2019acheteur est rest\u00e9 anonyme)."
+            },
+            {
+                "image": "KATE_MOSS.jpg",
+                "audio": "KATE_MOSS.mp3",
+                "title": "KATE MOSS",
+                "year": "2008",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "La s\u00e9rie est un hommage \u00e9vident \u00e0 la s\u00e9rie embl\u00e9matique Marilyn Monroe d'Andy Warhol sur le sujet et \u00e0 la fa\u00e7on dont Banksy l'a ex\u00e9cut\u00e9e. Banksy combine les visages de Moss et Monroe, superposant les cheveux de Monroe sur le visage de Moss."
+            },
+            {
+                "image": "WELL_HUNG_LOVER.jpg",
+                "audio": "WELL_HUNG_LOVER.mp3",
+                "title": "WELL HUNG LOVER",
+                "year": "2008",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Banksy joue ici avec les mots et ce double-sens : le titre \u00ab Well hung \u00bb signifie litt\u00e9ralement \u00ab bien pendu \u00bb, mais fait \u00e9galement r\u00e9f\u00e9rence en language de la rue \u00e0 un homme dont le sexe est de grande taille. Ce pochoir est apparu sur le mur d\u2019une clinique de sant\u00e9 sexuelle \u00e0 Bristol en 2008. Banksy dira plus tard qu\u2019il ne s\u2019\u00e9tait pas rendu compte de l\u2019endroit sur lequel il l\u2019avait install\u00e9..."
+            },
+            {
+                "image": "SMILEY_GRIN_REAPER.jpg",
+                "audio": "SMILEY_GRIN_REAPER.mp3",
+                "title": "SMILEY GRIN REAPER",
+                "year": "2010",
+                "location": "London / UK Shoreditch",
+                "shortDesc": "La mort, repr\u00e9sent\u00e9e sous diff\u00e9rentes formes, est un th\u00e8me r\u00e9current chez Banksy. Dans cette version, il lui ajoute une t\u00eate en forme de smiley jaune pour nous bousculer une fois encore : en associant un personnage sinistre \u00e0 ce signe plut\u00f4t sympathique issu de la culture rave des ann\u00e9es 90, il nous fait voyager entre le bien et le mal et il se moque de nous, pauvres mortels et maudits que nous sommes. Cette oeuvre murale se trouve dans le m\u00eame quartier o\u00f9 Banksy op\u00e9rait avec son collectif DryBreadZ Crew \u00e0 ses d\u00e9buts."
+            },
+            {
+                "image": "ANGEL_IN_BULLETPROOF_VEST.jpg",
+                "audio": "ANGEL_IN_BULLETPROOF_VEST.mp3",
+                "title": "ANGEL IN BULLETPROOF VEST",
+                "year": "2010",
+                "location": "London / UK Shoreditch",
+                "shortDesc": "Banksy a peint cet ange avec un gilet pare-balles et un cr\u00e2ne humain \u00e0 la main en 2007, en hommage \u00e0 Ozone, le street artiste mort dans un accident de train. Avec l'Ange d\u00e9chu (une autre de ses \u0153uvres), ce pochoir populaire a fini par transcender la controverse de sa suppos\u00e9e attaque contre la religion."
+            },
+            {
+                "image": "BOMB_HUGGER.jpg",
+                "audio": "BOMB_HUGGER.mp3",
+                "title": "BOMB HUGGER",
+                "year": "2003 ",
+                "location": "London / UK",
+                "shortDesc": "Banksy met en lumi\u00e8re l\u2019attirance de nos soci\u00e9t\u00e9s modernes pour la guerre et notamment avec ces bombes fabriqu\u00e9es par les plus grosses usines du Royaume-Uni et vendues comme des jouets dans le monde entier. Il condamne ceux qui pr\u00e9sentent la guerre comme une composante essentielle de la \u00ab d\u00e9mocratie \u00bb, afin de promouvoir (ou d\u2019exporter) la libert\u00e9, la d\u00e9mocratie et la paix. A moins que sur une note d\u2019espoir, il pense que l\u2019amour et l\u2019innocence viendront \u00e0 bout de l\u2019instinct guerrier des hommes."
+            },
+            {
+                "image": "GAME_CHANGER.jpg",
+                "audio": "GAME_CHANGER.mp3",
+                "title": "GAME CHANGER",
+                "year": "2003 ",
+                "location": "London / UK",
+                "shortDesc": "L'\u0153uvre est apparue dans le hall pr\u00e8s du service des urgences de l'h\u00f4pital g\u00e9n\u00e9ral de Southampton en mai 2020, lors de la premi\u00e8re vague de la pand\u00e9mie au Royaume-Uni. Elle \u00e9tait accompagn\u00e9e d'une note qui disait : \"Merci pour tout ce que vous faites. J'esp\u00e8re que cela illuminera un peu l'endroit, m\u00eame si ce n'est qu'en noir et blanc\". L\u2019\u0153uvre repr\u00e9sente un enfant jouant \u00e0 la poup\u00e9e, mais ayant d\u00e9laiss\u00e9 ses super-h\u00e9ros habituels au profit d\u2019une infirmi\u00e8re munie d\u2019une cape et semblant voler tel Superman. Banksy en fit don \u00e0 l\u2019h\u00f4pital. Game Changer sera vendue pr\u00e8s de 20 millions d\u2019euros lors de sa vente chez Christie's \u00e0 Londres le 23 mars 2021, devenant ainsi l'\u0153uvre d'art de Banksy la plus ch\u00e8re vendue aux ench\u00e8res, un an jour pour jour apr\u00e8s le premier confinement au Royaume-Uni."
+            },
+            {
+                "image": "AACHOO.jpg",
+                "audio": "AACHOO.mp3",
+                "title": "AACHOO",
+                "year": "2003 ",
+                "location": "London / UK",
+                "shortDesc": "L'artiste a publi\u00e9 une photo de cette \u0153uvre sur Instagram lors de la pand\u00e9mie - c'est ainsi qu'il confirme g\u00e9n\u00e9ralement qu\u2019il en est l\u2019auteur. L'\u0153uvre \"Aachoo !!\" peinte sur le mur d'une maison verte, repr\u00e9sente une femme \u00e2g\u00e9e avec un foulard qui perd son dentier en \u00e9ternuant violemment. La maison se trouve au d\u00e9but de Vale Street, qui est consid\u00e9r\u00e9e comme la rue la plus raide d'Angleterre, ce qui donne l\u2019impression que l'\u00e9ternuement de la femme a renvers\u00e9 une poubelle et fait basculer les maisons voisines."
+            },
+            {
+                "image": "PISSING_SOLDIER.jpg",
+                "audio": "PISSING_SOLDIER.mp3",
+                "title": "PISSING SOLDIER",
+                "year": "2002",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Une des grandes forces de Banksy est sa capacit\u00e9 \u00e0 utiliser l\u2019environnement et le contexte dans lesquels ses pochoirs sont install\u00e9s non seulement pour sublimer ses cr\u00e9ations, mais aussi pour renforcer leur impact. C\u2019est ce qu\u2019il nous propose ici, avec ce coin de rue qui est r\u00e9guli\u00e8rement le t\u00e9moin de nuits et de journ\u00e9es agit\u00e9es et avec ce mur utilis\u00e9 par certains habitu\u00e9s impatients de pouvoir se soulager. Ce qui frappe le regard du passant, c\u2019est cette cr\u00e9ation artistique qui vient se m\u00ealer \u00e0 une r\u00e9alit\u00e9 objective (un b\u00e2timent, un mur, des sons, des couleurs, des odeurs, des objets,...) pour cr\u00e9er une nouvelle r\u00e9alit\u00e9. Ajoutez-y un personnage cens\u00e9 repr\u00e9senter l\u2019autorit\u00e9 dans une posture incongrue, et vous aurez le cocktail parfait d\u2019un Banksy anticonformiste, r\u00e9actionnaire."
+            },
+            {
+                "image": "IF_GRAFFITI_CHANGED_ANYTHING.jpg",
+                "audio": "IF_GRAFFITI_CHANGED_ANYTHING.mp3",
+                "title": "IF GRAFFITI CHANGED ANYTHING",
+                "year": "2011",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Cette oeuvre appara\u00eet \u00e0 une \u00e9poque compliqu\u00e9e pour les street-artistes : ils sont traqu\u00e9s, arr\u00eat\u00e9s, poursuivis et parfois emprisonn\u00e9s. Banksy installe ce pochoir un lundi de P\u00e2ques de l\u2019ann\u00e9e 2011 sur un mur de Fitzrovia, dans le centre de Londres. Le rouge couleur sang sert \u00e0 l\u2019\u00e9criture de cette phrase pleine d\u2019ironie et aussi au rat (animal f\u00e9tiche de Banksy) qui marque de sa patte la paternit\u00e9 de cette sentence."
+            },
+            {
+                "image": "NO_BALL_GAMES.jpg",
+                "audio": "NO_BALL_GAMES.mp3",
+                "title": "NO BALL GAMES",
+                "year": "2009",
+                "location": "Tottenham / Reino Unido",
+                "shortDesc": "No Ball Games est apparu pour la premi\u00e8re fois sur toile en 2006 lors de l\u2019exposition Barely Legal, que Banksy organise au centre-ville de Los Angeles, dans la r\u00e9gion de Skid Row. Trois ans plus tard, Banksy reproduit l\u2019oeuvre sous forme de peinture murale \u00e0 Tottenham, dans le nord de Londres, sur un mur de magasin situ\u00e9 \u00e0 la jonction entre Tottenham High Road et Philip Lane. Plus tard en 2009, Banksy publiera une \u00e9dition sign\u00e9e de 250 tirages de \u00ab No Ball Games \u00bb sur des fonds de blocs verts et gris. En 2013, la peinture murale de Tottenham est retir\u00e9e du mur par le groupe Sincura. Elle a \u00e9t\u00e9 divis\u00e9e en trois parties et vendue pour une somme estim\u00e9e \u00e0 500 000 \u00a3, qui servira principalement \u00e0 aider les enfants d\u00e9favoris\u00e9s."
+            },
+            {
+                "image": "SLAVE_LABOUR.jpg",
+                "audio": "SLAVE_LABOUR.mp3",
+                "title": "SLAVE LABOUR",
+                "year": "2012",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Banksy peint cette oeuvre aux alentours de la mi-mai 2012. Un enfant, \u00e0 genoux devant une machine \u00e0 coudre, assemble des banderoles compos\u00e9es de Union Jacks (le drapeau du Royaume Uni). Il y a aujourd\u2019hui encore trois interpr\u00e9tations possibles \u00e0 ce pochoir : la premi\u00e8re serait une condamnation de l\u2019utilisation d\u2019enfants dans des ateliers de mis\u00e8re pour la confection d\u2019articles (Banksy pointe du doigt entre autres la cha\u00eene de magasins Poundland). La seconde serait une attaque satirique \u00e0 l\u2019\u00e9gard de la royaut\u00e9 anglaise et du Jubil\u00e9 de diamant d\u2019Elizabeth II. La reine f\u00eate en effet ses 60 ans de r\u00e8gne cette ann\u00e9e-l\u00e0. Enfin, la derni\u00e8re interpr\u00e9tation serait directement li\u00e9e \u00e0 l\u2019organisation des Jeux Olympiques d\u2019\u00e9t\u00e9 de 2012 qui doivent se tenir \u00e0 Londres quelques semaines plus tard et qui voient notamment les boutiques de souvenirs pulluler dans toute la ville."
+            },
+            {
+                "image": "GRANNIES.jpg",
+                "audio": "GRANNIES.mp3",
+                "title": "GRANNIES",
+                "year": "2006",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Deux grand-m\u00e8res tricotant des slogans punk rock violents avec le sourire aux l\u00e8vres. Il illustre la compassion des vieux envers les jeunes. Se rem\u00e9morant le bon vieux temps, quand le corps physique pas encore abim\u00e9, \u00e9tait rempli de r\u00e9bellion. Il a d'abord \u00e9t\u00e9 pr\u00e9sent\u00e9 sous forme de peinture lors de l'exposition embl\u00e9matique de Banksy \u201cBarely Legal\u201d, qui a eu lieu dans un entrep\u00f4t \u00e0 Los Angeles en 2006."
+            },
+            {
+                "image": "POLICE_KIDS.jpg",
+                "audio": "POLICE_KIDS.mp3",
+                "title": "POLICE KIDS",
+                "year": "2006",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Banksy r\u00e9unit ici image embl\u00e9matique et humour irr\u00e9v\u00e9rencieux dans un exploit dont lui seul conna\u00eet le secret. Illustrant parfaitement l'innocence riante de Jack et Jill, ce portrait idyllique est \u00e9clips\u00e9 par les gilets pare-balles de la police qu'ils portent pour se prot\u00e9ger. Banksy exprime son m\u00e9pris pour les forces de l'ordre."
+            },
+            {
+                "image": "KISSING_COPPERS.jpg",
+                "audio": "KISSING_COPPERS.mp3",
+                "title": "KISSING COPPERS",
+                "year": "2005",
+                "location": "Brighton / Reino Unido",
+                "shortDesc": "Bousculer l\u2019ordre \u00e9tabli, provoquer les personnes bien-pensantes et faire passer un message qui parle \u00e0 tous : Banksy n\u2019en est pas \u00e0 son coup d\u2019essai, mais ce pochoir install\u00e9 dans le centre de Brighton fera du chemin jusqu\u2019\u00e0 sa vente aux ench\u00e8res en 2014 \u00e0 Miami pour la somme de 520.000 euros (l\u2019acheteur est rest\u00e9 anonyme)."
+            },
+            {
+                "image": "RUDE_COPPER.jpg",
+                "audio": "RUDE_COPPER.mp3",
+                "title": "RUDE COPPER",
+                "year": "2002",
+                "location": "",
+                "shortDesc": "Publi\u00e9e en 2002, \u00ab Rude Copper \u00bb (Le flic grossier) est la premi\u00e8re oeuvre commerciale de Banksy. Comme son nom l\u2019indique, il s\u2019agit d\u2019une pi\u00e8ce plut\u00f4t provocante dot\u00e9e d\u2019une profondeur de champ \u00e9labor\u00e9e, dans laquelle la main tendue et le geste vulgaire occupe une place centrale."
+            },
+            {
+                "image": "DISMALAND_EPHEMERA.jpg",
+                "audio": "DISMALAND_EPHEMERA.mp3",
+                "title": "DISMALAND EPHEMERA",
+                "year": "2015",
+                "location": "",
+                "shortDesc": "Une oeuvre d\u2019art consternante de Dismaland, le parc Bemusement (jeu de mot en anglais entre parc d\u2019attractions et perplexit\u00e9), un des \u00e9v\u00e9nements organis\u00e9s par Banksy."
+            },
+            {
+                "image": "STOP_AND_SEARCH2.jpg",
+                "audio": "STOP_AND_SEARCH.mp3",
+                "title": "STOP AND SEARCH",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "Les limites irrationnelles que peut atteindre un \u00e9tat s\u00e9curitaire sont merveilleusement illustr\u00e9es par la fouille que subit Dorothy du Magicien d\u2019Oz par un agent de police."
+            },
+            {
+                "image": "MORONS.jpg",
+                "audio": "MORONS.mp3",
+                "title": "MORONS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "\u00ab Selon moi, le meilleur moyen de gagner de l\u2019argent gr\u00e2ce \u00e0 l\u2019art est de ne pas essayer d\u2019en gagner. Ce n\u2019est pas difficile de devenir un artiste \u00e0 succ\u00e8s : tout ce que vous devez faire, c\u2019est y consacrer votre vie enti\u00e8re. Ce que les gens admiraient le plus chez Picasso, ce n\u2019\u00e9tait pas sa capacit\u00e9 \u00e0 \u00e9quilibrer sa vie priv\u00e9e et sa vie professionnelle. \u00bb Banksy, The Village Voice, 2013"
+            },
+            {
+                "image": "GORILLA_IN_A_PINK_MASK.jpg",
+                "audio": "GORILLA_IN_A_PINK_MASK.mp3",
+                "title": "GORILLA IN A PINK MASK",
+                "year": "2003",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Il a \u00e9t\u00e9 peint sur le mur ext\u00e9rieur d'un ancien club social \u00e0 Bristol, juste avant qu'il ne devienne un centre culturel musulman. Il a ensuite \u00e9t\u00e9 peint involontairement par le responsable du centre culturel. Plus tard, il s'est excus\u00e9 et a d\u00e9clar\u00e9 aux journaux : \"Je pensais que cela ne valait rien. Je ne savais pas que cela avait de la valeur. C'est pourquoi je l\u2019ai recouvert.\" L'\u0153uvre a \u00e9t\u00e9 restaur\u00e9e puis vendue, l\u2019argent a \u00e9t\u00e9 utilis\u00e9 pour restaurer le b\u00e2timent et aider la communaut\u00e9."
+            },
+            {
+                "image": "THE_GRIN_REAPER.jpg",
+                "audio": "THE_GRIN_REAPER.mp3",
+                "title": "THE GRIN REAPER",
+                "year": "2003",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Peinte \u00e0 l\u2019origine en 2003 sur le flanc du Thekla, amarr\u00e9 dans le port de Bristol (et devenu bateau-concert), cette oeuvre a \u00e9t\u00e9 d\u00e9coup\u00e9e en 2014 pour \u00eatre analys\u00e9e et ensuite conserv\u00e9e dans le mus\u00e9e M Shed de Bristol. Elle y est actuellement pr\u00e9serv\u00e9e des d\u00e9t\u00e9riorations et de l\u2019usure du temps."
+            },
+            {
+                "image": "SWEEP_IT_UNDER_THE_CARPET.jpg",
+                "audio": "SWEEP_IT_UNDER_THE_CARPET.mp3",
+                "title": "SWEEP IT UNDER THE CARPET",
+                "year": "2007",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "\u00ab Dans les temps anciens, seuls les papes et les princes avaient les moyens de s\u2019offrir leur portrait. Voici le portrait d\u2019une femme de chambre appel\u00e9e Leanne et qui a nettoy\u00e9 ma chambre dans un motel de Los Angeles. C\u2019\u00e9tait une femme tr\u00e8s courageuse. \u00bb - Banksy"
+            },
+            {
+                "image": "DEVOLVED_PARLIAMENT.jpg",
+                "audio": "DEVOLVED_PARLIAMENT.mp3",
+                "title": "DEVOLVED PARLIAMENT",
+                "year": "2007",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "Devolved Parliament a \u00e9t\u00e9 cr\u00e9\u00e9 lors de l\u2019exposition Banksy au mus\u00e9e de Bristol en 2009, qui a attir\u00e9 plus de 300 000 visiteurs et aurait \u00e9t\u00e9 l'une des expositions les plus visit\u00e9es au monde cette ann\u00e9e-l\u00e0. Il d\u00e9peint la Chambre des communes britannique envahie par des primates parlementaires et a \u00e9t\u00e9 vendue aux ench\u00e8res pour un record d'environ 12,2 millions de dollars. \"Dommage que je ne le poss\u00e8de plus\", a \u00e9crit Banksy sur Instagram. Le tableau \u00e9tait \u00e0 l'origine intitul\u00e9 \"Question Time\" et pr\u00e9sent\u00e9 \u00e0 temps pour le \"Brexit day\" en mars, mais a depuis \u00e9t\u00e9 renomm\u00e9 et adapt\u00e9. Il comprend maintenant des lampes \u00e9teintes et une banane renvers\u00e9e tenue par l'un des chimpanz\u00e9s. \u00ab Riez maintenant, mais un jour, personne ne sera en charge \u00bb, a ajout\u00e9 Banksy."
+            },
+            {
+                "image": "SNORTING_COPPER.jpg",
+                "audio": "SNORTING_COPPER.mp3",
+                "title": "SNORTING COPPER",
+                "year": "2006",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "On la croyait perdue depuis longtemps. Cette oeuvre connue sous le nom de Snorting Copper (Le flic sniffeur), montre un policier \u00e0 genoux qui renifle une ligne de coca\u00efne. Elle est apparue sur le mur de toilettes publiques en 2006, et fut ensuite vandalis\u00e9e, puis recouverte par les responsables locaux. Ce sont des promoteurs immobiliers, qui apr\u00e8s avoir achet\u00e9 l\u2019immeuble pour en faire des habitations et des commerces, ont red\u00e9couvert le pochoir. Une fois la d\u00e9cision prise de le restaurer, le mur a \u00e9t\u00e9 d\u00e9coup\u00e9, d\u00e9plac\u00e9 brique par brique pour \u00eatre restaur\u00e9 chez un sp\u00e9cialiste. Apr\u00e8s plus de 4 mois de travail, le mur a \u00e9t\u00e9 consolid\u00e9 et r\u00e9install\u00e9 \u00e0 son endroit d\u2019origine pour le plus grand bonheur des habitants du quartier\u2026 et des policiers qui, d\u2019apr\u00e8s la rumeur, s\u2019en \u00e9taient d\u00e9j\u00e0 amus\u00e9s \u00e0 l\u2019\u00e9poque."
+            },
+            {
+                "image": "KEITH_HARING_DOG.jpg",
+                "audio": "KEITH_HARING_DOG.mp3",
+                "title": "KEITH HARING DOG",
+                "year": "2010",
+                "location": "Londres, Reino Unido",
+                "shortDesc": "L\u2019oeuvre repr\u00e9sente un homme cagoul\u00e9 portant des v\u00eatements sombres et un bandana dissimulant son visage. A travers ce visuel r\u00e9current, Banksy nous pr\u00e9sente ici une jeunesse britannique d\u00e9soeuvr\u00e9e et m\u00e9contente. L\u2019apparence mena\u00e7ante de l\u2019homme qui tient en laisse un grand chien qui aboie (hommage au c\u00e9l\u00e8bre Barking Dog de l\u2019artiste am\u00e9ricain Keith Haring) contraste avec sa posture d\u00e9contract\u00e9e, la main dans la poche. Le contraste est \u00e9galement marqu\u00e9 par les styles utilis\u00e9s : hyper-r\u00e9aliste pour le personnage et na\u00eff pour le chien. Selon l\u2019explication de Banksy lui-m\u00eame, le chien est devenu une nouvelle arme dans les rues du Royaume-Uni. En ao\u00fbt 2016, le plexiglas qui avait \u00e9t\u00e9 pos\u00e9 pour prot\u00e9ger l\u2019oeuvre a \u00e9t\u00e9 progressivement recouvert d\u2019affiches et de prospectus, rendant cette derni\u00e8re totalement invisible. On ignore si elle est toujours au m\u00eame endroit."
+            },
+            {
+                "image": "DON\u2019T_BELIEVE_THE_TYPE.jpg",
+                "audio": "DON\u2019T_BELIEVE_THE_TYPE.mp3",
+                "title": "DON\u2019T BELIEVE THE TYPE",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "La phrase qui figure au bas de cette pi\u00e8ce, \u00ab Please take your litter home \u00bb (\u00ab Merci d\u2019emporter vos ordures avec vous \u00bb), est l\u2019\u00e9l\u00e9ment le plus important de l\u2019oeuvre. Elle illustre le point de vue de Banksy, et celui de tous les graffeurs et artistes de rue, sur la v\u00e9ritable fonction des lieux publics et sur ce que l\u2019ordre social aimerait nous faire croire."
+            },
+            {
+                "image": "STICK_POLICE.jpg",
+                "audio": "STICK_POLICE.mp3",
+                "title": "STICK POLICE",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Observez le contraste entre les mouvements \u00e9labor\u00e9s des policiers et ceux du personnage \u00e0 l\u2019avant-plan qu\u2019ils poursuivent. L\u2019artiste tourne en d\u00e9rision les efforts \u00ab valeureux \u00bb fournis par la police pour pourchasser cette caricature de l\u2019homme de la rue."
+            },
+            {
+                "image": "MOBILE_LOVERS.jpg",
+                "audio": "MOBILE_LOVERS.mp3",
+                "title": "MOBILE LOVERS",
+                "year": "2014",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Deux amoureux, enlac\u00e9s, pr\u00eats \u00e0 s\u2019embrasser,... Et pourtant, ils sont bien plus int\u00e9ress\u00e9s par leur t\u00e9l\u00e9phone que par cette \u00e9treinte qu\u2019ils auront sans doute bient\u00f4t oubli\u00e9e. Les technologies sont omnipr\u00e9sentes dans nos soci\u00e9t\u00e9s, et peu \u00e0 peu elles nous engloutissent et saturent ce qu\u2019il nous reste comme occasions d\u2019\u00e9changer et de communiquer. C\u2019est le message que Banksy veut faire passer : il d\u00e9nonce notre d\u00e9pendance face aux technologies (quelles qu\u2019elles soient) et met le doigt sur nos envies d\u2019hyper connectivit\u00e9, nos besoins d\u2019instantan\u00e9it\u00e9 et d\u2019imm\u00e9diatet\u00e9 pour nous montrer que la plus simple et la plus pure des relations n\u2019est d\u00e9sormais plus possible. Apparue sur une porte condamn\u00e9e du Broad Plains Boys Club \u00e0 Bristol, elle sera finalement vendue \u00e0 un collectionneur priv\u00e9 pour 470.000 euros afin de sauver le club d\u2019une fermeture qui semblait in\u00e9luctable."
+            },
+            {
+                "image": "BURNING_TYRE.jpg",
+                "audio": "BURNING_TYRE.mp3",
+                "title": "BURNING TYRE",
+                "year": "2016",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "\u00ab Ch\u00e8re \u00e9cole de Bridge Farm, Merci d\u2019avoir baptis\u00e9 l\u2019un de vos b\u00e2timents en mon nom. Cette peinture est pour vous. Si vous ne l\u2019aimez pas, n\u2019h\u00e9sitez pas et ajoutez ce qu\u2019il vous plaira. Je suis s\u00fbr que vos professeurs n\u2019y verront aucun inconv\u00e9nient. Rappelezvous qu\u2019il est toujours plus facile d\u2019obtenir un pardon qu\u2019une permission. \u00bb Traduction d\u2019une lettre de Banksy adress\u00e9e aux enfants de l\u2019\u00e9cole primaire de Bridge Farm. Le principal de l\u2019\u00e9cole remerciera par la suite Banksy en lui assurant que l\u2019oeuvre serait conserv\u00e9e comme il se doit."
+            },
+            {
+                "image": "GUN_CLOWN.jpg",
+                "audio": "GUN_CLOWN.mp3",
+                "title": "GUN CLOWN",
+                "year": "2016",
+                "location": "Bristol / Reino Unido",
+                "shortDesc": "Il appara\u00eet \u00e0 Bristol, et plus pr\u00e9cis\u00e9ment sur Hotwell Road. Il montre comment un personnage rassurant peut personnifier la violence. En l'occurrence ici, un animateur pour enfants, arm\u00e9 et pr\u00eat \u00e0 tuer ; l'innocence et la confiance peuvent facilement \u00eatre bris\u00e9es."
+            }
+        ],
+        "Floor3": [
+            {
+                "image": "TRIBUTE_TO_BASQUIAT.jpg",
+                "audio": "TRIBUTE_TO_BASQUIAT.mp3",
+                "title": "TRIBUTE TO BASQUIAT",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Deux nouvelles \u0153uvres d'art de Banksy sont apparues au Barbican Centre dans le centre de Londres en septembre 2017. Les peintures murales, inspir\u00e9es de l'exposition Jean-Michel Basquiat au Barbican Centre, ont \u00e9t\u00e9 confirm\u00e9es comme des originaux dans l'\u0153uvre de l'artiste dans une s\u00e9rie de publications sur Instagram. Banksy a d\u00e9clar\u00e9 : \"Le nouveau grand spectacle Basquiat s'ouvre au Barbican, un lieu qui tient normalement \u00e0 nettoyer tous les graffitis de ses murs.\""
+            },
+            {
+                "image": "MORONS.jpg",
+                "audio": "MORONS.mp3",
+                "title": "MORONS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "\u00ab Selon moi, le meilleur moyen de gagner de l\u2019argent gr\u00e2ce \u00e0 l\u2019art est de ne pas essayer d\u2019en gagner. Ce n\u2019est pas difficile de devenir un artiste \u00e0 succ\u00e8s : tout ce que vous devez faire, c\u2019est y consacrer votre vie enti\u00e8re. Ce que les gens admiraient le plus chez Picasso, ce n\u2019\u00e9tait pas sa capacit\u00e9 \u00e0 \u00e9quilibrer sa vie priv\u00e9e et sa vie professionnelle. \u00bb Banksy, The Village Voice, 2013"
+            },
+            {
+                "image": "WESTON_SUPER_MARE.jpg",
+                "audio": "WESTON_SUPER_MARE.mp3",
+                "title": "WESTON SUPER MARE",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Avec une certaine ironie, Banksy d\u00e9crit cette \u0153uvre comme \" un hommage joyeux aux grandes villes baln\u00e9aires britanniques \". Cette \u0153uvre repr\u00e9sente une personne \u00e2g\u00e9e assise sur un banc, les mains crois\u00e9es sur ses genoux, sa canne pos\u00e9e \u00e0 c\u00f4t\u00e9 d\u2019elle, ignorant b\u00e9atement le danger qui s'approche sous la forme d'une scie circulaire se frayant un chemin \u00e0 travers la promenade."
+            },
+            {
+                "image": "HAPPY_CHOPPER_CRUDE_OIL.jpg",
+                "audio": "HAPPY_CHOPPER_CRUDE_OIL.mp3",
+                "title": "HAPPY CHOPPER CRUDE OIL",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "On le sait, Banksy avait pour habitude d\u2019acheter des vieilles peintures \u00e0 l\u2019huile sur les march\u00e9s aux puces et de les transformer. Ces pi\u00e8ces originales, g\u00e9n\u00e9ralement des paysages anciens ou des portraits classiques, \u00e9taient alors retouch\u00e9es par l\u2019artiste, non sans malice, qui les agr\u00e9mentait d\u2019\u00e9l\u00e9ments contemporains issus du quotidien. Ici, un noeud papillon jaune vient surmonter la coque en acier gris de ces h\u00e9licopt\u00e8res."
+            },
+            {
+                "image": "BOMBING_MIDDLE_ENGLAND.jpg",
+                "audio": "BOMBING_MIDDLE_ENGLAND.mp3",
+                "title": "BOMBING MIDDLE ENGLAND",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Les trois femmes de cette \u0153uvre portent des casques tr\u00e8s similaires \u00e0 ceux que des soldats porteraient durant une bataille. Elles lancent des bombes comme si elles jouaient \u00e0 la p\u00e9tanque sur une pelouse anglaise fi\u00e8rement entretenue. Cette pi\u00e8ce regorge de critiques malicieusement destructrices \u00e0 l\u2019encontre de l\u2019Angleterre, de la classe moyenne et de ses valeurs."
+            },
+            {
+                "image": "NAPALM.jpg",
+                "audio": "NAPALM.mp3",
+                "title": "NAPALM",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Cette photo d\u00e9tourn\u00e9e et terrifiante d\u2019une petite fille de neuf ans, appel\u00e9e Kim Phuc, prise pendant la guerre du Vietnam (1972) est une attaque flagrante de Banksy envers la soci\u00e9t\u00e9 de consommation et la politique \u00e9trang\u00e8re des Etats-Unis. Mickey Mouse et Ronald McDonald tiennent joyeusement la fillette par la main, tandis que celle-ci crie et tente de s\u2019enfuir."
+            },
+            {
+                "image": "GANGSTA_RAT.jpg",
+                "audio": "GANGSTA_RAT.mp3",
+                "title": "GANGSTA RAT",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "L\u2019Umbrella Rat (le rat au parapluie) fait partie des nombreuses cr\u00e9ations de Banksy repr\u00e9sentant des rats. V\u00eatu d\u2019un chapeau et d\u2019une cravate, ce rat porte une mallette, \u00e0 la mani\u00e8re d\u2019un homme d\u2019affaires, et regarde le ciel dans l\u2019attente d\u2019un quelconque signe."
+            },
+            {
+                "image": "UMBRELLA_RAT.jpg",
+                "audio": "UMBRELLA_RAT.mp3",
+                "title": "UMBRELLA RAT",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Alerte !!! Ce rat nous pr\u00e9vient que la fin est proche et qu\u2019il est urgent de s\u2019enfuir."
+            },
+            {
+                "image": "THE_LOVE_RAT.jpg",
+                "audio": "THE_LOVE_RAT.mp3",
+                "title": "THE LOVE RAT",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Ne larguons pas des bombes, sauf si elles sont de peinture ! On peut imaginer que c\u2019est le message de cette oeuvre qui n\u2019est pas attribu\u00e9e \u00e0 Banksy, mais qui est embl\u00e9matique du mur de Bethl\u00e9em et proche du Walled Off Hotel am\u00e9nag\u00e9 et d\u00e9cor\u00e9 par Banksy."
+            },
+            {
+                "image": "HMV.jpg",
+                "audio": "HMV.mp3",
+                "title": "HMV",
+                "year": "2003 ",
+                "location": "",
+                "shortDesc": "En brandissant des armes \u00e0 feu, ce singe ressemble \u00e0 ceux qui apparaissent dans le film \u00ab La Plan\u00e8te des singes : Les Origines \u00bb."
+            },
+            {
+                "image": "MONKEY_GUNS.jpg",
+                "audio": "MONKEY_GUNS.mp3",
+                "title": "MONKEY GUNS",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "En repr\u00e9sentant les grands singes dans le r\u00f4le des opprim\u00e9s, Banksy fait \u00e9cho \u00e0 la plus grande peur de l\u2019Homme depuis la popularisation de la th\u00e9orie de l\u2019\u00e9volution de Darwin. M\u00eame s\u2019ils sont nos anc\u00eatres pr\u00e9sum\u00e9s, les singes sont aujourd\u2019hui expos\u00e9s dans des zoos, utilis\u00e9s comme cobayes lors d\u2019exp\u00e9riences et subissent des actes violents et humiliants. Dans cette oeuvre, difficile aussi d\u2019ignorer la r\u00e9f\u00e9rence \u00e0 \u00ab La Plan\u00e8te des singes \u00bb, un des films cultes de la g\u00e9n\u00e9ration de Banksy."
+            },
+            {
+                "image": "LAUGH_NOW.jpg",
+                "audio": "LAUGH_NOW.mp3",
+                "title": "LAUGH NOW",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Apparue pour la premi\u00e8re fois sur le mur d\u2019une bo\u00eete de nuit \u00e0 Brighton en 2002, cette oeuvre et le personnage du singe seront utilis\u00e9s \u00e0 de multiples reprises par Banksy. Exemple parfait de l\u2019humour noir dont il fait preuve depuis ses d\u00e9buts, Banksy place son oeuvre entre une critique de l\u2019Homme qui asservit les autres \u00eatres vivants et une alerte au sujet d\u2019une r\u00e9volution qui gronde... Banksy repr\u00e9sente ce singe, \u00e0 la fa\u00e7on de l\u2019homme sandwich portant un message de mauvaise augure : \u00ab Riez maintenant, mais un jour les singes seront les ma\u00eetres \u00bb. La r\u00e9f\u00e9rence \u00e0 la Plan\u00e8te des Singes (film culte et sans aucun doute contemporain de Banksy) est assez \u00e9vidente."
+            },
+            {
+                "image": "RAGE_FLOWER_THROWER.jpg",
+                "audio": "RAGE_FLOWER_THROWER.mp3",
+                "title": "FLOWER THROWER",
+                "year": "2003",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Incroyable m\u00e9lange de violence r\u00e9volutionnaire et de pacifisme, ce travail est probablement l\u2019un des plus connus de Banksy. Le contraste entre le personnage en noir et blanc et le bouquet color\u00e9 qu\u2019il tient \u00e0 la place d\u2019un cocktail Molotov rend l\u2019oeuvre encore plus poignante, et invite \u00e0 l\u2019espoir dans ces moments de lutte continuelle pour la paix."
+            },
+            {
+                "image": "CND_SOLDIERS.jpg",
+                "audio": "CND_SOLDIERS.mp3",
+                "title": "CND SOLDIERS",
+                "year": "2005",
+                "location": "",
+                "shortDesc": "Quoi de plus normal ? Deux soldats arm\u00e9s jusqu\u2019aux dents, par\u00e9s au combat. Le premier peint le symbole de la paix sur un mur, pendant que l\u2019autre monte la garde. Cette oeuvre nous rappelle combien de guerres ont \u00e9t\u00e9 d\u00e9clench\u00e9es au cours des XXe et XXIe si\u00e8cles au nom de la paix et de la d\u00e9mocratie."
+            },
+            {
+                "image": "APPLAUSE.jpg",
+                "audio": "APPLAUSE.mp3",
+                "title": "APPLAUSE",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Critiquant avec beaucoup d\u2019esprit le show-biz et la soci\u00e9t\u00e9 du spectacle, cette oeuvre repr\u00e9sente des avions d\u00e9collant d\u2019un porte-avions. Les spectateurs r\u00e9mun\u00e9r\u00e9s d\u2019une \u00e9mission t\u00e9l\u00e9vis\u00e9e assistant \u00e0 la sc\u00e8ne sont vivement encourag\u00e9s \u00e0 applaudir."
+            },
+            {
+                "image": "RAGE_FLOWER_THROWER_CCCP.jpg",
+                "audio": "RAGE_FLOWER_THROWER_CCCP.mp3",
+                "title": "FLOWER THROWER CCCP",
+                "year": "2003",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Peut-\u00eatre un nouvel exemple de la fascination de Banksy pour L\u00e9nine. Le Flower Chucker est plac\u00e9 ici devant les initiales de l\u2019U.R.S.S. (Union des R\u00e9publiques Socialistes Sovi\u00e9tiques)."
+            },
+            {
+                "image": "GOLF_SALE.jpg",
+                "audio": "GOLF_SALE.mp3",
+                "title": "GOLF SALE",
+                "year": "2002",
+                "location": "",
+                "shortDesc": "Cette oeuvre est presqu\u2019identique \u00e0 une photo de Jeff Widener, prise lors d\u2019une manifestation organis\u00e9e contre le gouvernement chinois sur la place Tiananmen en 1989. Un manifestant se dresse devant trois chars pour leur barrer la route. Un nouvel exemple de combat entre David et Goliath qu\u2019affectionne tout particuli\u00e8rement Banksy."
+            },
+            {
+                "image": "MEDIA_CANVAS.jpg",
+                "audio": "MEDIA_CANVAS.mp3",
+                "title": "MEDIA CANVAS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Baudrillard a \u00e9crit dans Lib\u00e9ration : \u00ab la guerre du Golfe n\u2019a pas eu lieu \u00bb. Ce titre trouve ici une concr\u00e9tisation poignante : une sorte de pronographie de la guerre. Les guerres ont chang\u00e9 de mod\u00e8le et ne ressemblent plus aux guerres du pass\u00e9. Et il convient de se demander si la mani\u00e8re dont les \u00e9v\u00e9nements sont pr\u00e9sent\u00e9s au monde, sont bien fid\u00e8les \u00e0 la mani\u00e8re dont ils se sont d\u00e9roul\u00e9s ?"
+            },
+            {
+                "image": "KIDS_ON_GUNS.jpg",
+                "audio": "KIDS_ON_GUNS.mp3",
+                "title": "KIDS ON GUNS",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "On peut observer les silhouettes d\u2019un petit gar\u00e7on et d\u2019une petite fille tenant leurs jouets \u00e0 la main au sommet d\u2019un tas d\u2019armes. La fillette tient \u00e9galement un ballon rouge en forme de coeur. La simplicit\u00e9 et la force du contraste chromatique conf\u00e8rent \u00e0 l\u2019oeuvre beaut\u00e9 et intensit\u00e9."
+            },
+            {
+                "image": "RED_LENIN.jpg",
+                "audio": "RED_LENIN.mp3",
+                "title": "RED LENIN",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "Excellant dans l\u2019art de se moquer des dirigeants de ce monde, Banksy repr\u00e9sente ici L\u00e9nine sur des patins \u00e0 roulettes, la main tendue comme s\u2019il pronon\u00e7ait l\u2019un de ses discours r\u00e9volutionnaires. On pourrait \u00e9galement penser que cette oeuvre tente \u00ab d\u2019humaniser \u00bb le responsable politique qu\u2019il \u00e9tait."
+            },
+            {
+                "image": "FLYING_COPPER.jpg",
+                "audio": "FLYING_COPPER.mp3",
+                "title": "FLYING COPPER",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Le c\u00e9l\u00e8bre \u00ab Flying Copper \u00bb (flic volant) est devenu davantage une ic\u00f4ne graphique qu\u2019une repr\u00e9sentation de l\u2019oppression. Le fond bleu chaleureux fait ressortir ses ailes blanches et le jaune acide du smiley."
+            },
+            {
+                "image": "STOP_ME_BEFORE_I_PAINT_AGAIN.jpg",
+                "audio": "STOP_ME_BEFORE_I_PAINT_AGAIN.mp3",
+                "title": "STOP ME BEFORE I PAINT AGAIN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "\u00ab Certaines personnes deviennent des flics parce qu\u2019elles veulent rendre le monde meilleur. Certaines personnes deviennent des vandales parce qu\u2019elles veulent faire du monde un endroit plus beau \u00bb. Banksy (Wall and Piece)."
+            },
+            {
+                "image": "HAPPY_CHOPPER.jpg",
+                "audio": "HAPPY_CHOPPER.mp3",
+                "title": "HAPPY CHOPPER",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "\u00ab Happy Chopper \u00bb est une oeuvre d\u2019une efficacit\u00e9 redoutable. Un style enfantin qui nous fait presqu\u2019oublier la finalit\u00e9 m\u00eame de cet engin de guerre. L\u2019h\u00e9licopt\u00e8re affubl\u00e9 d\u2019un joli ruban rose vole dans un ciel bleu azur, presque surr\u00e9aliste."
+            },
+            {
+                "image": "MONKEYQUEEN.jpg",
+                "audio": "MONKEYQUEEN.mp3",
+                "title": "MONKEY QUEEN",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Le portrait de ce singe couronn\u00e9 fait partie de la s\u00e9rie des singes que Banksy r\u00e9alise. Ils atteignent des niveaux de pouvoir sans cesse plus \u00e9lev\u00e9s. Ou alors, s\u2019agit-il d\u2019une moquerie de plus de la part de Banksy envers la monarchie (anglaise dans le cas pr\u00e9sent) ?"
+            },
+            {
+                "image": "TURF_WAR.jpg",
+                "audio": "TURF_WAR.mp3",
+                "title": "TURF WAR",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Cette oeuvre transforme un c\u00e9l\u00e8bre portrait de Winston Churchill en ic\u00f4ne punk rock \u00e0 l\u2019aide d\u2019une \u00ab touffe \u00bb verte. Inspir\u00e9e des coiffures \u00e0 cr\u00eate des Mohicans, elle rappelle aussi les \u00e9meutes qui ont s\u00e9vi \u00e0 Londres en mai 2000, plus connues sous le nom de \u00ab Turf Wars \u00bb. Un morceau de gazon recouvre le centre du cr\u00e2ne de l\u2019homme d\u2019\u00c9tat britannique, brouillant la fronti\u00e8re entre sarcasme et analyse politique. L\u2019artiste sous-entend ainsi que les touffes d\u2019herbe que les manifestants ont arrach\u00e9es \u00e0 Parliament Square ont \u00e9t\u00e9 d\u00e9licatement plac\u00e9es sur la t\u00eate de Churchill."
+            },
+            {
+                "image": "THERE_IS_ALWAYS_HOPE.jpg",
+                "audio": "THERE_IS_ALWAYS_HOPE.MP3",
+                "title": "GIRL WITH BALLON",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Initialement apparue dans le quartier de Southbank \u00e0 Londres, cette oeuvre est sans doute l\u2019une des plus embl\u00e9matiques de Banksy. Les interpr\u00e9tations sont multiples, mais l\u2019on s\u2019accorde pour dire que cette jeune fille tente d\u2019attraper ou laisse s\u2019envoler un ballon rouge en forme de coeur (le rouge est d\u2019ailleurs la seule couleur de ce pochoir). Le ballon repr\u00e9sente un symbole de fragilit\u00e9, d\u2019innocence, d\u2019espoir ou d\u2019amour. Tente-telle de le rattraper ou laisse-t-elle le ballon s\u2019envoler ?"
+            },
+            {
+                "image": "TOXIC_MARY.jpg",
+                "audio": "TOXIC_MARY.mp3",
+                "title": "TOXIC MARY",
+                "year": "2005",
+                "location": "",
+                "shortDesc": "Une nouvelle utilisation par Banksy de la dichotomie ma\u00eetre-esclave am\u00e8ne cette fois un chien \u00e0 se d\u00e9fouler sur la voix de son ma\u00eetre, pr\u00eat \u00e0 la faire exploser en \u00e9clats."
+            },
+            {
+                "image": "DOUBLE_TOXIC_MARY.jpg",
+                "audio": "DOUBLE_TOXIC_MARY.mp3",
+                "title": "DOUBLE TOXIC MARY",
+                "year": "2005",
+                "location": "",
+                "shortDesc": "Dans cette oeuvre qui repr\u00e9sente la Vierge Marie nourrissant un enfant, Banksy d\u00e9nonce l\u2019influence n\u00e9faste que peuvent avoir les parents sur la vie de leurs enfants. En donnant ce biberon au contenu toxique, Banksy montre que nous n\u2019avons que tr\u00e8s peu de contr\u00f4le sur le tournant que prendront nos vies. Les conditions dans lesquelles se passe notre \u00e9ducation sont d\u00e9terminantes dans notre vie d\u2019adulte."
+            },
+            {
+                "image": "PREGNANT_MONKEY.jpg",
+                "audio": "PREGNANT_MONKEY.mp3",
+                "title": "PREGNANT MONKEY",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Une femelle singe enceinte tient une cigarette \u00e0 la bouche. Banksy r\u00e9interpr\u00e8te la c\u00e9l\u00e8bre photo de Demi Moore dans Vanity Fair."
+            },
+            {
+                "image": "GRAFFITI_IS_A_CRIME.jpg",
+                "audio": "GRAFFITI_IS_A_CRIME.mp3",
+                "title": "GRAFFITI IS A CRIME",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "Le premier pochoir de la s\u00e9rie New Yorkaise d\u2019octobre 2013 n\u2019aura surv\u00e9cu que peu de temps... Les enfants qui tentent d\u2019attraper une bombe dessin\u00e9e sur un vrai panneau d\u2019interdiction seront tr\u00e8s rapidement recouverts de peinture blanche et le panneau sera finalement d\u00e9tach\u00e9."
+            },
+            {
+                "image": "I_LOVE_NY.jpg",
+                "audio": "I_LOVE_NY.mp3",
+                "title": "I LOVE NY",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "Cette \u0153uvre montre un m\u00e9decin inspectant le c\u00e9l\u00e8bre panneau \u00ab I love NY \u00bb, symbole de la ville, bien connu dans le monde entier. Le m\u00e9decin cherche le pouls de la ville dont le c\u0153ur battait autrefois vivement et fi\u00e8rement, mais semble \u00e9teint aujourd'hui. Cela nous pousse \u00e0 r\u00e9fl\u00e9chir sur la fa\u00e7on dont la ville a \u00e9volu\u00e9 et a chang\u00e9, peut-\u00eatre la nostalgie d'une \u00e9poque dor\u00e9e, o\u00f9 vivre \u00e0 New York \u00e9tait aussi abordable pour les artistes \u00e9mergents."
+            },
+            {
+                "image": "WAITING_IN_VAIN.jpg",
+                "audio": "WAITING_IN_VAIN.mp3",
+                "title": "WAITING IN VAIN",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "Apparu sur un volet en fer dans Hell\u2019s Kitchen \u00e0 New York, pr\u00e8s du Hustler Club (club de striptease dont Larry Flynt est le propri\u00e9taire), ce pochoir repr\u00e9sente un homme qui attend, en vain, un bouquet de fleurs rouges \u00e0 la main. Son rendez-vous (une des danseuses du club ?) n\u2019est sans doute jamais arriv\u00e9. Le volet a \u00e9t\u00e9 d\u00e9mont\u00e9 pour \u00eatre plac\u00e9 \u00e0 l\u2019int\u00e9rieur du club."
+            },
+            {
+                "image": "BETTER_OUT_THAN_IN.jpg",
+                "audio": "BETTER_OUT_THAN_IN.mp3",
+                "title": "BETTER OUT THAN IN",
+                "year": "2013",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "On suppose que cette oeuvre est apparue comme une \u00ab mise en bouche \u00bb, un mois avant l\u2019installation de Banksy en r\u00e9sidence \u00e0 New York en octobre 2013. Il joue ici \u00e0 la fois sur les mots, sur les images et sur le contexte : le terme \u00ab Throw Up \u00bb signifie en anglais \u00ab vomir \u00bb (ici le gar\u00e7on vomit des fleurs une bombe \u00e0 la main), mais est aussi utilis\u00e9 dans l\u2019art du graffiti puisqu\u2019il s\u2019agit de la repr\u00e9sentation simplifi\u00e9e de lettres dans un style bubble (lettres en forme de bulles que l\u2019on peut voir sur le mur)."
+            },
+            {
+                "image": "NOLA_UMBRELLA_GIRL.jpg",
+                "audio": "NOLA_UMBRELLA_GIRL.mp3",
+                "title": "NOLA",
+                "year": "2008",
+                "location": "Nueva Orleans, EE. UU",
+                "shortDesc": "En 2005, l\u2019ouragan Katrina ravage la Nouvelle- Orl\u00e9ans. Les digues cens\u00e9es prot\u00e9ger la ville c\u00e8dent tuant des milliers de personnes et d\u00e9truisant autant d\u2019habitations et de commerces. En 2008, la ville conna\u00eet ensuite la plus grande \u00e9vacuation de personnes de l\u2019histoire des Etats-Unis sous la menace d\u2019un nouvel ouragan pr\u00e9nomm\u00e9 Gustav. Cette jeune fille que Banksy peint en 2008 sur un mur de la ville, se prot\u00e8ge sous un parapluie, mais elle se rend compte que le parapluie est lui-m\u00eame \u00e0 l\u2019origine de la pluie qui tombe. Le parall\u00e8le entre les digues de la Nouvelle-Orl\u00e9ans et le parapluie est d\u2019une \u00e9vidence tragique."
+            },
+            {
+                "image": "I\u2019M_OUT_OF_BED_RAT.jpg",
+                "audio": "I\u2019M_OUT_OF_BED_RAT.mp3",
+                "title": "I\u2019M OUT OF BED RAT",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Install\u00e9e initialement en 2002 \u00e0 Los Angeles, cette oeuvre sera d\u00e9mont\u00e9e et transport\u00e9e en 2013 \u00e0 Brooklyn (New York). Elle sera restaur\u00e9e et sauv\u00e9e d\u2019une fin certaine (le support en cr\u00e9pis sur lequel elle reposait n\u2019\u00e9tant pas viable \u00e0 long terme). Elle sera vendue aux ench\u00e8res (prix de d\u00e9part 360.000 euros) et finira son voyage chez un acqu\u00e9reur anonyme en Italie. Elle sera remplac\u00e9e \u00e0 Los Angeles, au m\u00eame endroit, par un pochoir repr\u00e9sentant cette fois le Pape Ratzinger, mais avec le m\u00eame texte que l\u2019original \u201c Je suis sorti de mon lit et je suis habill\u00e9. Quel voulez-vous de plus ?\u201d. On ne sait pas si cette nouvelle version est le fait de Banksy..."
+            },
+            {
+                "image": "YOU_LOOT_WE_SHOOT.jpg",
+                "audio": "YOU_LOOT_WE_SHOOT.mp3",
+                "title": "YOU LOOT WE SHOOT",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Banksy a officiellement reconnu en avril 2018 \u00eatre l\u2019auteur de la peinture murale \"You Loot, We Shoot\" qui est apparue \u00e0 New York dans le cadre de son mini voyage aux \u00c9tats-Unis. L'\u0153uvre d'art montre un homme d'affaires en costume du NYSE (New York Stock Exchange) s'enfuyant rapidement avec un tas de dollars am\u00e9ricains dans les mains. Il s'agit de la deuxi\u00e8me \u0153uvre li\u00e9e aux march\u00e9s financiers, et une fois de plus, une puissante critique du capitalisme. Au lendemain des ouragans Katrina (2005), Ike (2008), Sandy (2012) et Harvey (2017), les voleurs potentiels ont \u00e9t\u00e9 avertis que la force serait utilis\u00e9e par le biais de panneaux peints \u00e0 la main et disant \" vous pillez, nous tirons\". L'autorisation de recourir \u00e0 la force par des policiers \u00e0 la suite de catastrophes naturelles remonte au tremblement de terre de 1906 \u00e0 San Francisco, lorsque le maire Eugene Schmitz a d\u00e9clar\u00e9 : \u00ab Les troupes f\u00e9d\u00e9rales, qui surveillent maintenant une partie de la ville, ainsi que les forces r\u00e9guli\u00e8res et sp\u00e9ciales membres des forces de police, ont \u00e9t\u00e9 autoris\u00e9es \u00e0 tuer toute personne trouv\u00e9e en train de piller les effets d'un citoyen ou autrement engag\u00e9e dans un acte criminel.\" Des informations faisant \u00e9tat de justiciers tirant sur des Noirs am\u00e9ricains \u00e0 la Nouvelle-Orl\u00e9ans au lendemain de Katrina circulaient depuis 2005, notamment dans le quartier d'Alger Point. En 2010, le New Orleans Times-Picayune a rapport\u00e9 que des agents du d\u00e9partement de police de la Nouvelle-Orl\u00e9ans avaient \u00e9t\u00e9 autoris\u00e9s \u00e0 tirer sur des pillards, bien qu'aucun des agents impliqu\u00e9s dans 11 fusillades civiles n'ait cit\u00e9 cet ordre pour sa d\u00e9fense. Le maire Ray Nagin avait demand\u00e9 qu\u2019on instaure une loi martiale en r\u00e9ponse aux informations faisant \u00e9tat de pillages g\u00e9n\u00e9ralis\u00e9s."
+            },
+            {
+                "image": "WESTON_SUPER_MARE.jpg",
+                "audio": "WESTON_SUPER_MARE.mp3",
+                "title": "WESTON SUPER MARE",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Avec une certaine ironie, Banksy d\u00e9crit cette \u0153uvre comme \" un hommage joyeux aux grandes villes baln\u00e9aires britanniques \". Cette \u0153uvre repr\u00e9sente une personne \u00e2g\u00e9e assise sur un banc, les mains crois\u00e9es sur ses genoux, sa canne pos\u00e9e \u00e0 c\u00f4t\u00e9 d\u2019elle, ignorant b\u00e9atement le danger qui s'approche sous la forme d'une scie circulaire se frayant un chemin \u00e0 travers la promenade."
+            },
+            {
+                "image": "CAMERAMAN_AND_FLOWER.jpg",
+                "audio": "CAMERAMAN_AND_FLOWER.mp3",
+                "title": "CAMERAMAN AND FLOWER",
+                "year": "2008",
+                "location": "Nueva Orleans, EE. UU",
+                "shortDesc": "Le cam\u00e9raman et la fleur sont apparus sur le mur d'un caf\u00e9 de Park City \u00e0 l'approche de la premi\u00e8re du film, Faites le mur ! de Banksy \u00e0 Sundance en 2010. Il repr\u00e9sente les efforts d\u00e9ploy\u00e9s par les gens pour pr\u00e9server la beaut\u00e9, mais conduit souvent \u00e0 sa destruction comme dans ce cas o\u00f9 le cam\u00e9raman arrache la fleur pour la filmer."
+            },
+            {
+                "image": "PULP_FICTION.jpg",
+                "audio": "PULP_FICTION.mp3",
+                "title": "PULP FICTION",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Le film \u00ab Pulp Fiction \u00bb de Tarantino interpr\u00e8te avec humour et de mani\u00e8re d\u00e9cal\u00e9e des th\u00e9matiques assez classiques comme la violence, la gr\u00e2ce et la r\u00e9demption. Le \u00ab Pulp Fiction \u00bb de Banksy reprend le th\u00e8me de la violence avec une belle touche d\u2019humour qui ne d\u00e9plairait sans doute pas \u00e0 Tarantino."
+            },
+            {
+                "image": "FLAG_WALL.jpg",
+                "audio": "FLAG_WALL.mp3",
+                "title": "FLAG WALL",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "\u201cFlag Wall\u201d repr\u00e9sentent des mineurs pla\u00e7ant un drapeau am\u00e9ricain sur une voiture am\u00e9ricaine en acier, faisant \u00e9cho \u00e0 la bataille d'Iwo Jima et indiquant la v\u00e9ritable nature des guerres am\u00e9ricaines men\u00e9es \u00e0 l'\u00e9tranger. Cependant, selon une lecture historiciste, il est possible que \u201cFlag Wall\u201d parle \u00e9galement de l'optimisme ressenti pendant l'apr\u00e8s-guerre."
+            },
+            {
+                "image": "TROLLEYS.jpg",
+                "audio": "TROLLEYS.mp3",
+                "title": "TROLLEYS",
+                "year": "2007",
+                "location": "",
+                "shortDesc": "En comparaison avec \u00ab Sale Ends Today \u00bb, l\u2019oeuvre \u00ab Trolleys \u00bb (chariots) fait preuve de davantage de compassion envers le consommateur. Elle octroie m\u00eame \u00e0 l\u2019Homme un certain pouvoir et un plus grand libre arbitre, si on la compare \u00e0 la ferveur religieuse exprim\u00e9e dans \u00ab Sale Ends Today \u00bb."
+            },
+            {
+                "image": "BARCODE_LEOPARD.jpg",
+                "audio": "BARCODE_LEOPARD.mp3",
+                "title": "BARCODE LEOPARD",
+                "year": "2003",
+                "location": "",
+                "shortDesc": "Cette oeuvre repr\u00e9sente un l\u00e9opard s\u2019\u00e9chappant de sa cage. La cage prend la forme d\u2019un code-barres, dont les bandes servent de barreaux."
+            },
+            {
+                "image": "GET_OUT_WHILE_YOU_CAN.jpg",
+                "audio": "GET_OUT_WHILE_YOU_CAN.mp3",
+                "title": "GET OUT WHILE YOU CAN",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Ce rat enlace le pinceau comme une demoiselle pr\u00eate \u00e0 \u00eatre embrass\u00e9e sous le signe de l\u2019amour."
+            },
+            {
+                "image": "FESTIVAL.jpg",
+                "audio": "FESTIVAL.mp3",
+                "title": "FESTIVAL",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "L\u2019\u0153uvre \u201cFestival\u201d, \u00e9galement connu sous le nom de Destroy Capitalism, est une s\u00e9rigraphie en trois couleurs de 2006. Elle repr\u00e9sente un groupe de personnes \u00e0 un festival de musique faisant la queue pour acheter des t-shirts. L'\u0153uvre a \u00e9t\u00e9 r\u00e9alis\u00e9e pour l'exposition am\u00e9ricaine embl\u00e9matique de Banksy, Barely Legal, qui a eu lieu dans un entrep\u00f4t \u00e0 Los Angeles en 2006. Le paradoxe de cette \u0153uvre est que les gens font la queue pour acheter un t-shirt \u00e0 30 dollars."
+            },
+            {
+                "image": "HAMMER_BOY.jpg",
+                "audio": "HAMMER_BOY.mp3",
+                "title": "HAMMER BOY",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "Situ\u00e9e sur la 79e rue et Broadway \u00e0 Manhattan (Upper West Side) sur le mur du magasin DSW (Designer Shoe Warehouse), il s\u2019agit d\u2019une des \u0153uvres r\u00e9alis\u00e9es par Banksy lors de son s\u00e9jour \u00e0 New York. Le Hammer Boy a \u00e9t\u00e9 conserv\u00e9 par l'entreprise locale, propri\u00e9taire du magasin. Recouvert de plexiglas, il est devenu un point d'attraction pour les touristes et les amateurs de Banksy. Une simple silhouette noire d'un enfant tenant un marteau, imitant un jeu de foire, o\u00f9 une personne doit atteindre un niveau avec un marteau. L'utilisation par Banksy d'objets simples et ordinaires comme la bouche d'incendie et les panneaux sur le mur est l'une de ses signatures."
+            },
+            {
+                "image": "ROBOT_AND_BARCODE.jpg",
+                "audio": "ROBOT_AND_BARCODE.mp3",
+                "title": "ROBOT AND BARCODE",
+                "year": "2013",
+                "location": "Nueva York, Estados Unidos",
+                "shortDesc": "Le 28 octobre 2013, alors qu\u2019il est en r\u00e9sidence \u00e0 New York (p\u00e9riode \u201cBetter out than in\u201d), Banksy pose ce robot et ces codebarres sur un mur de Coney Island. Il est \u00e9vident que ce robot, une bombe \u00e0 la main, ne pouvait poser sur le mur qu\u2019un style de tag : un code-barres..."
+            },
+            {
+                "image": "LAUGH_NOW.jpg",
+                "audio": "LAUGH_NOW.mp3",
+                "title": "LAUGH NOW",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Apparue pour la premi\u00e8re fois sur le mur d\u2019une bo\u00eete de nuit \u00e0 Brighton en 2002, cette oeuvre et le personnage du singe seront utilis\u00e9s \u00e0 de multiples reprises par Banksy. Exemple parfait de l\u2019humour noir dont il fait preuve depuis ses d\u00e9buts, Banksy place son oeuvre entre une critique de l\u2019Homme qui asservit les autres \u00eatres vivants et une alerte au sujet d\u2019une r\u00e9volution qui gronde... Banksy repr\u00e9sente ce singe, \u00e0 la fa\u00e7on de l\u2019homme sandwich portant un message de mauvaise augure : \u00ab Riez maintenant, mais un jour les singes seront les ma\u00eetres \u00bb. La r\u00e9f\u00e9rence \u00e0 la Plan\u00e8te des Singes (film culte et sans aucun doute contemporain de Banksy) est assez \u00e9vidente."
+            },
+            {
+                "image": "NO_TRESPASSING.jpg",
+                "audio": "NO_TRESPASSING.mp3",
+                "title": "NO TRESPASSING",
+                "year": "2002",
+                "location": "Los \u00c1ngeles / EE. UU",
+                "shortDesc": "Dans cette \u0153uvre, Banksy repr\u00e9senteun Indien d'Am\u00e9rique assis par terre, d\u00e9plorant l'intrusion de l'homme blanc et les probl\u00e8mes qu'ils ont engendr\u00e9s. Il appara\u00eet sur le mur du Mission District de San Francisco en 2010, mais a rapidement \u00e9t\u00e9 recouvert d'autres graffitis et a maintenant \u00e9t\u00e9 enti\u00e8rement repeint."
+            },
+            {
+                "image": "SALE_ENDS.jpg",
+                "audio": "SALE_ENDS.mp3",
+                "title": "SALE ENDS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Dans cette oeuvre, Banksy d\u00e9peint des personnages voil\u00e9s se prosternant devant un panneau indiquant le \u00ab Dernier jour de soldes \u00bb. D\u00e9non\u00e7ant la ferveur presque religieuse de la soci\u00e9t\u00e9 contemporaine envers les biens de consommation, cette oeuvre fait partie des r\u00e9alisations les plus connues de Banksy."
+            },
+            {
+                "image": "CHRIST_WITH_SHOPPING_BAGS.jpg",
+                "audio": "CHRIST_WITH_SHOPPING_BAGS.mp3",
+                "title": "CHRIST WITH SHOPPING BAGS",
+                "year": "2004",
+                "location": "",
+                "shortDesc": "\u00ab Le Christ muni de sacs \u00e0 provisions \u00bb n\u2019est pas seulement une attaque flagrante contre le consum\u00e9risme en g\u00e9n\u00e9ral, mais cette oeuvre se moque aussi de la transformation des f\u00eates religieuses en moments d\u2019hyst\u00e9rie consum\u00e9riste collective."
+            },
+            {
+                "image": "MORONS.jpg",
+                "audio": "MORONS.mp3",
+                "title": "MORONS",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "\u00ab Selon moi, le meilleur moyen de gagner de l\u2019argent gr\u00e2ce \u00e0 l\u2019art est de ne pas essayer d\u2019en gagner. Ce n\u2019est pas difficile de devenir un artiste \u00e0 succ\u00e8s : tout ce que vous devez faire, c\u2019est y consacrer votre vie enti\u00e8re. Ce que les gens admiraient le plus chez Picasso, ce n\u2019\u00e9tait pas sa capacit\u00e9 \u00e0 \u00e9quilibrer sa vie priv\u00e9e et sa vie professionnelle. \u00bb Banksy, The Village Voice, 2013"
+            },
+            {
+                "image": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.jpg",
+                "audio": "ISRAELI_&_PALESTINIAN_PILLOW_FIGHT.mp3",
+                "title": "PILLOW FIGHT",
+                "year": "2005",
+                "location": "Walled Off Hotel",
+                "shortDesc": "Banksy installe ce pochoir dans une des chambres du Walled Off Hotel situ\u00e9 en face du mur de Bethl\u00e9em et qu\u2019il a enti\u00e8rement d\u00e9cor\u00e9 en compagnie d\u2019autres artistes et designers internationaux. On reconna\u00eet la touche du ma\u00eetre du street art et son sens de l\u2019humour. L\u2019Israelien (le soldat) et le Palestinien (le manifestant) ne pouvaient bel et bien se battre que d\u2019une seule mani\u00e8re dans cette chambre d\u2019h\u00f4tel\u2026 avec des coussins ! "
+            },
+            {
+                "image": "GUANTANAMO_BAY.jpg",
+                "audio": "GUANTANAMO_BAY.mp3",
+                "title": "GUANTANAMO BAY",
+                "year": "2006",
+                "location": "",
+                "shortDesc": "Banksy a plac\u00e9 des prisonniers de Guantanamo dans de nombreuses oeuvres, mais aucune n\u2019a \u00e9gal\u00e9 la force de celle-ci. Ici, le prisonnier est agenouill\u00e9 sur la plage, un sac en toile couvrant sa t\u00eate, devant une mer agit\u00e9e."
+            },
+            {
+                "image": "PARADISE.jpg",
+                "audio": "PARADISE.mp3",
+                "title": "PARADISE",
+                "year": "2005",
+                "location": "Ramallah",
+                "shortDesc": "Nous voici pr\u00e8s de l\u2019une des tours d\u2019observation le long du mur de s\u00e9paration \u00e0 Ramallah. Une ouverture est apparue dans le mur, tel un passage entre deux mondes, deux cultures et deux peuples. Mais c\u2019est avant tout, une ouverture vers la libert\u00e9, et le bleu du ciel pour un enfant qui joue en toute innocence."
+            },
+            {
+                "image": "STOP_AND_SEARCH.jpg",
+                "audio": "STOP_AND_SEARCH.mp3",
+                "title": "STOP AND SEARCH",
+                "year": "2007",
+                "location": "Entre Israel y Palestina",
+                "shortDesc": "Une fillette fouille un soldat. Dans ces territoires entre Isra\u00ebl et la Palestine, qui deviendront l\u2019un de ses terrains de jeu favoris, Banksy nous fait comprendre qu\u2019il serait plus r\u00e9aliste d\u2019assister \u00e0 l\u2019inverse. L\u2019oeuvre originale est surmont\u00e9e d\u2019un graffe : \u201cFree Palestine\u201d (Lib\u00e9rez la Palestine). Au-del\u00e0 du message politique qui ne laisse planer aucun doute, Banksy nous invite \u00e0 nous pencher sur les barri\u00e8res culturelles qui nous emp\u00eachent de reconna\u00eetre pleinement l\u2019humanit\u00e9 en notre prochain."
+            },
+            {
+                "image": "DONKEY_DOCUMENTS.jpg",
+                "audio": "DONKEY_DOCUMENTS.mp3",
+                "title": "DONKEY DOCUMENTS",
+                "year": "2007",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Cette oeuvre repr\u00e9sente un \u00e2ne dont les papiers sont v\u00e9rifi\u00e9s par un soldat arm\u00e9 que l\u2019on imagine \u00eatre isra\u00e9lien. Encore un exemple de ce qu\u2019une politique s\u00e9curitaire dans certains \u00e9tats peut cr\u00e9er d\u2019irrationnel. Le vol de cette peinture murale suscitera beaucoup de questions sur l\u2019artivisme (compression des mots \u201cart\u201d et \u201cactivisme\u201d) et sur la v\u00e9ritable propri\u00e9t\u00e9 des oeuvres de street art. Elle aurait \u00e9t\u00e9 d\u00e9tach\u00e9e du mur par un taximan palestinien qui s\u2019\u00e9tait offens\u00e9 pensant \u00e0 tort que Banksy comparait les Palestiniens \u00e0 des \u00e2nes. Mais il s\u2019av\u00e8re que la v\u00e9rit\u00e9 est ailleurs et que de vrais motifs commerciaux sont \u00e0 la base de ce vol. L\u2019oeuvre sera finalement vendue aux ench\u00e8res \u00e0 Londres pour la somme de 225.000 euros en octobre 2015."
+            },
+            {
+                "image": "THE_ARMOURED_DOVE.jpg",
+                "audio": "THE_ARMOURED_DOVE.mp3",
+                "title": "THE ARMOURED DOVE",
+                "year": "2005",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "Comme la plupart des oeuvres qu\u2019il installera sur le mur de Bethl\u00e9em ou dans la r\u00e9gion, Banksy crie haut et fort son opposition \u00e0 cette barri\u00e8re artificielle qu\u2019il juge inhumaine. Le symbole est simple, mais efficace : un mur cribl\u00e9 de balles, une colombe aux ailes d\u00e9ploy\u00e9es que l\u2019on imagine en vol, un rameau d\u2019olivier dans le bec et un gilet pare-balles pour se prot\u00e9ger. Et comme si un sniper s\u2019appr\u00eatait \u00e0 l\u2019abattre, une cible rouge se dessine sur son coeur."
+            },
+            {
+                "image": "HELICOPTER_DROPPING_SPRAY_CANS.jpg",
+                "audio": "HELICOPTER_DROPPING_SPRAY_CANS.mp3",
+                "title": "HELICOPTER DROPPING SPRAY CANS",
+                "year": "2003",
+                "location": "Muro de Bel\u00e9n",
+                "shortDesc": "On s\u2019attendrait \u00e0 voir cet homme jeter un cocktail Molotov ou un pav\u00e9. Or, c\u2019est un bouquet de fleurs (seul \u00e9l\u00e9ment en couleurs dans cette oeuvre) qu\u2019il s\u2019appr\u00eate \u00e0 lancer, tel un message de paix, \u00e0 la personne qui viendrait vers lui. Cette oeuvre peinte en pleine zone de conflits, marquera les esprits et montre une nouvelle fois que Banksy adopte une position r\u00e9solument pacifiste et antimilitariste."
+            }
         ]
     }
-
 }

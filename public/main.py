@@ -45,7 +45,7 @@ for x in OrderedObj['ES']['Floor3']:
 
 
 json_object = json.dumps(FinalObj, indent=4)
-with open("1.json", "w") as outfile:
+with open("3.json", "w") as outfile:
     outfile.write(json_object)
 
 print(FinalObj['ES']['Floor1'])
