@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "next": "^13.0.5",
-    "next-pwa": "^5.4.4",
+    "next-pwa": "^5.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -21,5 +21,13 @@
   "version": "1.0.0",
   "main": "next.config.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexAlvarezAlmendros/AudioGuideAWS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexAlvarezAlmendros/AudioGuideAWS/issues"
+  },
+  "homepage": "https://github.com/AlexAlvarezAlmendros/AudioGuideAWS#readme"
 }

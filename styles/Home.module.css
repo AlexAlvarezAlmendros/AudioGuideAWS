@@ -165,3 +165,19 @@ align-self: baseline;
     flex-direction: column;
   }
 }
+
+.table {
+  width: 100%;
+}
+.td {
+  width: 50%;
+  text-align: center;
+}
+.img {
+  width: 100%;
+  height: auto;
+}
+.galery{
+padding: 1vw;
+
+}

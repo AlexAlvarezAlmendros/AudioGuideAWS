@@ -1,11 +1,8 @@
-const withPWA = require("next-pwa");
+const withPWA = require('next-pwa')({
+  dest: 'public'
+})
 
 module.exports = withPWA({
-  pwa: {
-    dest: "public",
-    register: true,
-    skipWaiting: true,
-  },
   eslint: {
     // Warning: This allows production builds to successfully complete even if
     // your project has ESLint errors.
