@@ -15,6 +15,7 @@ export default function Galery({ spninfo }) {
   function FillContent(floorInfo, floorSize,floor) {
     var numeroDeObras = floorSize;
     var table = document.getElementById("tablaPrincipal");
+    table.style = "width: 100%"
     var index = 1;
     let lastRow;
     console.log("NUMERODEOBRAS: " + numeroDeObras);
@@ -29,6 +30,7 @@ export default function Galery({ spninfo }) {
         lastRow = table.rows[(i-1)/2];
       }
       let cell = lastRow.insertCell(index-1);
+      cell.style = "width: 50%;"
       let button = document.createElement('a');
 
       let queryString = window.location.search;
@@ -39,6 +41,7 @@ export default function Galery({ spninfo }) {
       button.href = document.location.origin + "/visit?floor=" + tmpfloor + "&lang=" + tmplang + "&count=" + i;
       
       let img = document.createElement('img');
+      img.style = "width: 100%"
       switch(floor){
         case 1:
           img.src = "images/".concat(floorInfo.ES.Floor1[i].image);
@@ -74,7 +77,7 @@ export default function Galery({ spninfo }) {
               <link rel="icon" href="/favicon.ico" />
             </Head>
             <div className={styles.main}>
-            <table id='tablaPrincipal'>
+            <table id='tablaPrincipal' className={styles.tabladeobras}>
               <thead></thead>
               <tbody>
                 <tr>
@@ -86,7 +89,6 @@ export default function Galery({ spninfo }) {
             </div>
           </div>
       )
-      break;
 
     case '2':
       return (
@@ -98,7 +100,7 @@ export default function Galery({ spninfo }) {
               <link rel="icon" href="/favicon.ico" />
             </Head>
             <div className={styles.main}>
-            <table id='tablaPrincipal'>
+            <table id='tablaPrincipal' className={styles.tabladeobras}>
               <thead></thead>
               <tbody>
                 <tr>
@@ -110,7 +112,6 @@ export default function Galery({ spninfo }) {
             </div>
           </div>
       )
-      break;
 
     case '3':
       return (
@@ -122,7 +123,7 @@ export default function Galery({ spninfo }) {
               <link rel="icon" href="/favicon.ico" />
             </Head>
             <div className={styles.main}>
-            <table id='tablaPrincipal'>
+            <table id='tablaPrincipal' className={styles.tabladeobras}>
               <thead></thead>
               <tbody>
                 <tr>
@@ -134,14 +135,6 @@ export default function Galery({ spninfo }) {
             </div>
           </div>
       )
-      break;
-    default:
-      return (
-        <>
-          
-        </>
-      )
-      break;
   }
   
 }
